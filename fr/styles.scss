@@ -437,3 +437,7 @@ main.content section > .quarto-figure img {
   box-shadow: 0 2px 10px rgba(0, 0, 0, .10);
 }
 main.content .quarto-figure figcaption { text-align: center; }
+
+// Long words (e-mail, URLs) must not push grid columns wider than the phone.
+.contact-grid > div, .theme > *, .cards > *, .gallery > * { min-width: 0; }
+main.content a { overflow-wrap: anywhere; }
