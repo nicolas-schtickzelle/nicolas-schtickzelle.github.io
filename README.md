@@ -63,6 +63,8 @@ falls back to English rather than silently showing an out-of-date translation.
 ```powershell
 python tools\build_french.py --status   # what is missing or stale
 python tools\build_french.py --dump     # every run and its id
+python tools\rekey_translations.py      # after adding/removing English paragraphs:
+                                        # re-attach French texts, list what needs translating
 ```
 
 **Your routine:** edit the English, run `--status`, then ask Claude in Cowork to
