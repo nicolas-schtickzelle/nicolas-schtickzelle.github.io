@@ -1,0 +1,10 @@
+{
+ "articles": 91,
+ "chapters": 7,
+ "citations": 7149,
+ "mean_per_item": 73,
+ "h_index": 43,
+ "source": "OpenAlex",
+ "updated": "2026-11-25",
+ "missing_openalex_id": []
+}

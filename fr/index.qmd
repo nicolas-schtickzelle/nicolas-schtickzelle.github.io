@@ -151,42 +151,6 @@ Professeur @ Université catholique de Louvain
 
 ## Bibliométrie
 
-::: figures
-::: figure-box
-::: n
-84
-:::
-::: lab
-articles dans des revues internationales à comité de lecture
-:::
-:::
-
-::: figure-box
-::: n
-7
-:::
-::: lab
-chapitres de livres à comité de lecture
-:::
-:::
-
-::: figure-box
-::: n
-4451
-:::
-::: lab
-citations, soit 53 par article en moyenne ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906))
-:::
-:::
-
-::: figure-box
-::: n
-35
-:::
-::: lab
-h-index
-:::
-:::
-:::
+{{< include _includes/bibliometry.fr.md >}}
 
 [![Google Scholar citations](../assets/img/scholar-badge.jpg){fig-alt="Google Scholar citation badge" width="200"}](http://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en)

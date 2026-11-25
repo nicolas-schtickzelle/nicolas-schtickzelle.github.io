@@ -10,6 +10,8 @@ Run it whenever you edit the CSV:   python tools/build_publications.py
 Then re-render the site:            quarto render
 """
 import csv
+import datetime as dt
+import json
 import html
 import os
 from collections import OrderedDict
@@ -58,6 +60,33 @@ def render(rows):
     return "\n".join(out)
 
 
+MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July",
+             "August", "September", "October", "November", "December"]
+MONTHS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+             "août", "septembre", "octobre", "novembre", "décembre"]
+
+BIBLIO_LABELS = {
+    "en": ("peer-reviewed journal articles", "peer-reviewed book chapters",
+           "citations, i.e. {mean} per publication on average", "h-index",
+           "Source: [OpenAlex](https://openalex.org/authors/A5010883702), computed on the publications listed on this site. Updated {date}."),
+    "fr": ("articles dans des revues à comité de lecture", "chapitres de livres à comité de lecture",
+           "citations, soit {mean} par publication en moyenne", "h-index",
+           "Source : [OpenAlex](https://openalex.org/authors/A5010883702), calculé sur les publications listées sur ce site. Mise à jour : {date}."),
+}
+
+
+def bibliometry_md(lang, b):
+    d = dt.date.fromisoformat(b["updated"])
+    date = (f"{MONTHS_EN[d.month - 1]} {d.year}" if lang == "en" else f"{MONTHS_FR[d.month - 1]} {d.year}")
+    a, c, cit, h, src = BIBLIO_LABELS[lang]
+    boxes = [(b["articles"], a), (b["chapters"], c), (b["citations"], cit.format(mean=b["mean_per_item"])), (b["h_index"], h)]
+    out = ["::: figures"]
+    for n, lab in boxes:
+        out += ["::: figure-box", "::: n", str(n), ":::", "::: lab", lab, ":::", ":::", ""]
+    out += [":::", "", "::: biblio-source", src.format(date=date), ":::", ""]
+    return "\n".join(out)
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     with open(CSV, encoding="utf-8") as fh:
@@ -68,6 +97,15 @@ def main():
         with open(os.path.join(OUT, f"{name}.md"), "w", encoding="utf-8") as fh:
             fh.write(render(data))
     print(f"wrote {len(articles)} articles and {len(chapters)} book chapters")
+
+    bj = os.path.join(HERE, "data", "bibliometry.json")
+    if os.path.exists(bj):
+        with open(bj, encoding="utf-8") as fh:
+            b = json.load(fh)
+        for lang in ("en", "fr"):
+            with open(os.path.join(OUT, f"bibliometry.{lang}.md"), "w", encoding="utf-8") as fh:
+                fh.write(bibliometry_md(lang, b))
+        print("wrote bibliometry (en, fr)")
 
 
 if __name__ == "__main__":

@@ -34,6 +34,7 @@ def rewrite_paths(text):
     text = text.replace('="assets/', '="../assets/')
     text = text.replace("url('assets/", "url('../assets/")
     text = text.replace('url("assets/', 'url("../assets/')
+    text = text.replace("_includes/bibliometry.en.md", "_includes/bibliometry.fr.md")
     return text
 
 
