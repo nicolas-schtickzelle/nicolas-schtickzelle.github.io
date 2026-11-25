@@ -55,7 +55,7 @@
 <ol class="pubs">
 <li>Raffard A., Jacob S. &amp; <span class="me">Schtickzelle N</span>.  
 <span class="title">Non-genetic phenotypic variability affects populations and communities in protist microcosms</span>  
-<span class="venue">Journal of Animal Ecology 3: 221–230</span>  
+<span class="venue">Journal of Animal Ecology 93: 221–230</span>  
 <a href="https://doi.org/10.1111/1365-2656.14036">doi:10.1111/1365-2656.14036</a></li>
 <li>Baguette M., Le&#x27;floch G., Hannier L., Kirchhoff F., <span class="me">Schtickzelle N</span>., Stevens V.M. &amp; Bels V.  
 <span class="title">Repertoire of food acquisition behaviors in shorebirds (Aves, Charadriiformes)</span>  
@@ -121,7 +121,7 @@
 <a href="https://doi.org/10.1111/een.13174">doi:10.1111/een.13174</a></li>
 <li>Cote J., Dahirel M., <span class="me">Schtickzelle N</span>., Altermatt F., Ansart A., Blanchet S., Chaine A.S., De Laender F., De Raedt J., Haegeman B., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Therry L., Vong A., Winandy L., Bonte D., Fronhofer E.A. &amp; Legrand D.  
 <span class="title">Dispersal syndromes in challenging environments: a cross-species experiment</span>  
-<span class="venue">Ecology Letters 21: 1629–1638</span>  
+<span class="venue">Ecology Letters 25: 1629–1638</span>  
 <a href="https://doi.org/10.1111/ele.14124">doi:10.1111/ele.14124</a></li>
 </ol>
 
@@ -143,7 +143,7 @@
 <ol class="pubs">
 <li>Jacob S., Laurent E., Morel-Journel T. &amp; <span class="me">Schtickzelle N</span>.  
 <span class="title">Fragmentation and the context-dependency of dispersal syndromes: matrix harshness modifies resident-disperser phenotypic differences in microcosms</span>  
-<span class="venue">Oikos, 129: 158-169</span>  
+<span class="venue">Oikos 129: 158-169</span>  
 <a href="https://doi.org/10.1111/oik.06857">doi:10.1111/oik.06857</a></li>
 <li>Laurent E., <span class="me">Schtickzelle N</span>. &amp; Jacob S.  
 <span class="title">Fragmentation mediates thermal habitat choice in ciliate microcosms</span>  
@@ -185,7 +185,7 @@
 <a href="https://doi.org/10.1111/2041-210x.12900">doi:10.1111/2041-210x.12900</a></li>
 <li>Dubois Q., Lebigre C., <span class="me">Schtickzelle N</span>. &amp; Turlure C.  
 <span class="title">Sex, size and timing: sampling design for reliable population genetics analyses using microsatellite data</span>  
-<span class="venue">Methods in Ecology and Evolution, 9: 1036-1048</span>  
+<span class="venue">Methods in Ecology and Evolution 9: 1036-1048</span>  
 <a href="https://doi.org/10.1111/2041-210x.12948">doi:10.1111/2041-210x.12948</a></li>
 <li>Lebigre C., Vanderbeken C., Turlure C. &amp; <span class="me">Schtickzelle N</span>.  
 <span class="title">Host plant nitrogen enrichment has both positive and negative effects on the larval growth of a specialist butterfly</span>  
@@ -525,7 +525,7 @@
 <ol class="pubs">
 <li><span class="me">Schtickzelle N</span>., Le Boulengé E. &amp; Baguette M.  
 <span class="title">Metapopulation dynamics of the bog fritillary butterfly: demographic processes in a patchy population</span>  
-<span class="venue">Oikos 93: 349-360</span>  
+<span class="venue">Oikos 97: 349-360</span>  
 <a href="https://doi.org/10.1034/j.1600-0706.2002.970305.x">doi:10.1034/j.1600-0706.2002.970305.x</a></li>
 <li>Schlesser M., Le Boulengé E. &amp; <span class="me">Schtickzelle N</span>.  
 <span class="title">Can demographic parameters be estimated from capture-recapture data on small grids? A test with forest rodents</span>  
