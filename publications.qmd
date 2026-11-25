@@ -1,0 +1,51 @@
+---
+title: "Publications"
+pagetitle: "Publications | Nicolas Schtickzelle, Professor of Ecology"
+description: "Featured publications and full publication list of Nicolas Schtickzelle."
+---
+
+## Latest publication news
+
+::: theme
+::: {}
+### New paper in [BMC Biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x)
+
+**Same data, different analysts: variation in effect sizes due to analytical
+decisions in ecology and evolutionary biology**
+
+A large collaborative project showing how much the conclusions of an ecological
+study can depend on the analytical choices made by the person analysing the data.
+:::
+
+![BMC Biology 2025](assets/img/news-bmc-biology-2025.png){fig-alt="Cover figure of the BMC Biology paper"}
+:::
+
+## Full publication list — peer-reviewed articles
+
+{{< include _includes/articles.md >}}
+
+## Full publication list — peer-reviewed book chapters
+
+{{< include _includes/chapters.md >}}
+
+::: note-box
+**Reprints.** If you cannot access one of these papers,
+[ask me for a reprint](mailto:nicolas.schtickzelle@uclouvain.be?subject=Reprint%20request)
+— I am always happy to send one.
+
+**About this list.** On the Wix site these two lists were produced by the
+third-party *Table Master* app, which keeps its data on its own servers rather
+than in the page, so it could not be copied across. The list below was rebuilt
+from [OpenAlex](https://openalex.org) and currently covers the most recent years.
+It lives in `data/publications.csv` — a plain text file you can edit in Excel or
+any text editor. Run `python tools/update_publications.py --write` to pull the
+complete record from OpenAlex, then `python tools/build_publications.py` and
+`quarto render`.
+:::
+
+::: {style="text-align:center"}
+[Full record on Google Scholar](https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en){.btn .btn-primary}
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906){.btn .btn-outline-secondary}
+[ResearchGate](https://www.researchgate.net/profile/Nicolas_Schtickzelle){.btn .btn-outline-secondary}
+[Web of Science](https://www.webofscience.com/wos/author/record/B-5916-2014){.btn .btn-outline-secondary}
+:::

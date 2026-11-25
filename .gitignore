@@ -1,0 +1,21 @@
+# Built output (GitHub Actions rebuilds it on every push)
+_site/
+.quarto/
+/.quarto/
+**/.quarto/
+
+# Leftovers from a first build attempt
+/contact.html
+/contact_files/
+/site_libs/
+
+# Python / R / OS clutter
+__pycache__/
+*.pyc
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tgz

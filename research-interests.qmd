@@ -1,0 +1,121 @@
+---
+title: "Research interests"
+pagetitle: "Research Interests | Nicolas Schtickzelle, Professor of Ecology"
+description: "\"How do animals react to global environmental change?\" is the focus of my research in ecology using butterflies on the field and unicellular organisms in lab microcosms."
+---
+
+Most species are declining due to human-induced perturbations: habitat destruction
+and fragmentation, climate change, pollution, over-hunting and fishing, and the
+introduction of exotic species.
+
+Stopping this biological erosion has become a major challenge for humanity.
+Proactive biodiversity conservation and management imply a deep understanding of
+the processes determining species and population viability. My research in
+quantitative ecology is driven by this goal to protect biodiversity.
+
+In my research group we combine observations, experiments and modelling, in the
+field and in the laboratory, to study how species react to changes in their
+environment. Our main model species are butterflies and protists.
+
+::: gallery
+![Field work](assets/img/ri-field-01.jpg){fig-alt="Field work"}
+![Field work](assets/img/ri-field-02.jpg){fig-alt="Field work"}
+![Laboratory microcosms](assets/img/ri-lab-01.jpg){fig-alt="Laboratory microcosms"}
+![Laboratory microcosms](assets/img/ri-lab-02.jpg){fig-alt="Laboratory microcosms"}
+![Study landscape](assets/img/ri-landscape-01.jpg){fig-alt="Study landscape"}
+![Study landscape](assets/img/ri-landscape-02.jpg){fig-alt="Study landscape"}
+:::
+
+## Main research interests
+
+::: theme
+::: {}
+### Metapopulation dynamics
+
+Metapopulations are groups of local populations inhabiting a fragmented landscape,
+persisting in a balance of local extinctions and recolonizations by dispersal
+movements.
+
+Our research is focused on the interplay between local dynamics (demography) and
+regional dynamics (dispersal and population synchrony).
+
+*Our main butterfly study model since 1992 in Belgium is* Boloria eunomia*;
+capture–mark–recapture informs on abundance and movements. Salmon also form
+metapopulations, an understudied aspect of their biology.*
+:::
+
+![*Boloria eunomia*, mating](assets/img/boloria-mating.jpg){fig-alt="Boloria eunomia mating"}
+:::
+
+::: theme
+::: {}
+### Dispersal and movement ecology
+
+Dispersal is a fundamental process for metapopulation dynamics, and more broadly
+for ecological and evolutionary dynamics.
+
+We are interested in the causes and consequences of dispersal, and how movement
+behaviour of individuals interacts with landscape configuration in determining
+effective dispersal and connectivity.
+
+*We use* Tetrahymena thermophila*, a 50 µm long protist, in laboratory microcosms;
+it actively moves using its cilia. In the field, butterflies move straighter
+outside than inside their habitat.*
+:::
+
+![*Tetrahymena thermophila* movement trajectories](assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena movement trajectories"}
+:::
+
+::: theme
+::: {}
+### Forecasting species viability
+
+The ability to forecast how a species or (meta)population will perform in the
+future is of prime importance to design and assess conservation and management
+guidelines.
+
+We use modelling approaches (such as Population Viability Analysis) to predict
+their future according to environmental scenarios and conservation plans.
+
+*Will* B. eunomia *survive the reintroduction of beaver? How many females must be
+sterilized to prevent population explosion in Padangtegal Monkey Forest (Bali,
+Indonesia)?*
+:::
+
+![Population Viability Analysis, a "crystal ball"](assets/img/pva-crystal-ball.png){fig-alt="PVA crystal ball"}
+:::
+
+::: theme
+::: {}
+### Developing methods for ecology
+
+Research in ecology and evolution has much to gain from the generalization and
+dissemination of methods developed for specific case studies.
+
+Whether they are related to data collection and statistical analysis, modelling
+approaches or building research devices, we are committed to make our developments
+as general as possible, document them and provide them to the scientific community.
+
+*A 3D printer turns a landscape configuration into a real microcosm for*
+Tetrahymena*. Automatic image analysis is a powerful data collection method.
+Capture–mark–recapture is a standard, reliable but costly procedure to estimate
+population sizes — simpler and less costly alternatives are highly desirable for
+conservation and population ecologists.*
+:::
+
+![Automatic image analysis of *Tetrahymena*](assets/img/image-analysis.png){fig-alt="Tetrahymena picture analysis"}
+:::
+
+::: gallery
+![*Boloria eunomia*, marked individual](assets/img/boloria-marked.jpg){fig-alt="Marked Boloria eunomia"}
+![*B. eunomia* movement paths](assets/img/boloria-paths.jpg){fig-alt="Boloria eunomia movement paths"}
+![*Tetrahymena thermophila* cell](assets/img/tetrahymena-cell.jpg){fig-alt="Tetrahymena thermophila cell"}
+![Sockeye salmon spawning](assets/img/ri-salmon.jpg){fig-alt="Sockeye salmon spawning"}
+![River overflowing due to beaver dam](assets/img/beaver-dam.jpg){fig-alt="River overflowing due to beaver dam"}
+![A long-tailed macaque](assets/img/macaque.jpg){fig-alt="Long-tailed macaque"}
+![Artificial landscape](assets/img/artificial-landscape.png){fig-alt="3D-printed artificial landscape"}
+![CPLE](assets/img/cple.png){fig-alt="CPLE method"}
+:::
+
+See the [publications](publications.qmd) page for the papers behind each of these
+research lines.

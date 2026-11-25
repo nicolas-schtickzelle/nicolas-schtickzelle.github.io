@@ -1,0 +1,77 @@
+<!-- GENERATED FILE — do not edit.
+     Source: ../outreach.qmd + ../data/translations.fr.json
+     Regenerate with: python tools/build_french.py -->
+---
+title: "Vulgarisation"
+pagetitle: "Vulgarisation | Nicolas Schtickzelle, Professeur d'Ecologie"
+description: "En tant que scientifique, je participe à des activités de vulgarisation pour le grand public."
+---
+
+En tant que scientifique, je pense que ma mission est de transmettre les connaissances scientifiques au grand public, notamment parce que la science a un rôle important à jouer dans la définition des stratégies permettant de relever les grands défis de société du XXIe siècle.
+
+Je suis heureux de prendre la parole lors de conférences, d'organiser des ateliers pour les écoliers ou d'écrire des articles pour des sites web de vulgarisation scientifique.
+
+::: gallery
+![Giving a talk (2019)](../assets/img/outreach-talk-2019.jpg){fig-alt="Giving a talk"}
+![Researchers' Night](../assets/img/outreach-researchers-night.jpg){fig-alt="Researchers' Night"}
+![Biodiversity conservation conference](../assets/img/outreach-conservation-conf.jpg){fig-alt="Biodiversity conservation conference"}
+:::
+
+## Exemples d'activités de vulgarisation
+
+### Conférences pour les praticiens de la conservation de la biodiversité
+
+Organisées en 2013 et 2014 avec l'ONG [Natagora](https://www.natagora.be/). Cliquez sur une affiche pour voir le programme en pdf.
+
+::: gallery
+[![Journée des gestionnaires 2013](../assets/img/poster-natagora-2013.jpg){fig-alt="Natagora 2013 poster"}](../assets/files/natagora-programme-2013.pdf)
+[![Journée des gestionnaires 2014](../assets/img/poster-natagora-2014.jpg){fig-alt="Natagora 2014 poster"}](../assets/files/natagora-programme-2014.pdf)
+:::
+
+### La nuit des chercheurs
+
+La "[nuit des chercheurs](http://www.nuitdeschercheurs.be/2010/index_fr.htm)" est un événement annuel où les gens peuvent découvrir ce que font les chercheurs.
+
+![Researchers' Night 2010](../assets/img/researchers-night-2010.png){fig-alt="Researchers' Night 2010"}
+
+J'ai présenté nos dernières recherches aux élèves lors du [festival du film eau et climat @ UCLouvain](http://www.eauetclimat.be/) et au grand public lors de la [Nuit européenne des Chercheurs 2020](https://ec.europa.eu/research/mariecurieactions/events/european-researchers-night-2020_en) — [regarder toute la session sur YouTube](https://www.youtube.com/watch?v=WX-XkoAwxzM).
+
+### Le choix d'habitat chez les ciliés *Tetrahymena*
+
+Cet axe de recherche, publié dans [Nature Ecology and Evolution](https://www.nature.com/articles/s41559-017-0269-5) et [PNAS](https://www.pnas.org/content/115/47/11988), est présenté à un large public sur *Science Today*, le site de vulgarisation de l'UCLouvain :
+
+- [S'adapter ou changer d'habitat ?](https://uclouvain.be/fr/sciencetoday/actualites/s-adapter-ou-changer-d-habitat.html)
+- [Disperser pour survivre](https://uclouvain.be/en/sciencetoday/news/disperser-pour-survivre.html)
+
+### Ateliers pour les écoliers et les aînés
+
+Atelier sur le changement climatique et l'évolution pour les écoliers ([Printemps des Sciences 2019](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html)).
+
+![Printemps des Sciences 2019](../assets/img/printemps-sciences-2019.png){fig-alt="Printemps des Sciences 2019 banner"}
+
+::: gallery
+![Workshop](../assets/img/pds-2019-01.jpg){fig-alt="Science Spring workshop"}
+![Workshop](../assets/img/pds-2019-02.jpg){fig-alt="Science Spring workshop"}
+![Workshop](../assets/img/pds-2019-03.jpg){fig-alt="Science Spring workshop"}
+![Workshop poster](../assets/img/pds-2019-04.png){fig-alt="Science Spring workshop poster"}
+:::
+
+Formation sur la biodiversité en crise pour l'[Université des Aînés](https://www.universitedesaines.be/).
+
+![Université des aînés 2019](../assets/img/uda-2019.png){fig-alt="Université des aînés 2019"}
+
+## Quelques articles de presse sur ma recherche ou mon expertise
+
+::: gallery
+![La lettre du FNRS 70, p. 25 (2007)](../assets/img/press-fnrs-70.png){fig-alt="La lettre du FNRS 70"}
+
+[![Athena 365 (2024)](../assets/img/press-athena-365.png){fig-alt="Athena 365"}](https://athena-magazine.be/magazine/le-magazine-n365/biodiversite-lautre-urgence/)
+
+[![RTL info (2024)](../assets/img/press-rtl-2024.png){fig-alt="RTL info 2024"}](https://www.rtl.be/actu/decryptage-rtl-info/loi-europeenne-de-la-restauration-de-la-nature-une-victoire-pour-lenvironnement/2024-06-18/article/681276)
+
+[![La lettre du FNRS 81, pp. 8–9 (2010)](../assets/img/press-fnrs-81.png){fig-alt="La lettre du FNRS 81"}](../assets/files/press-fnrs-81.pdf)
+
+[![Athena 257, pp. 36–39 (2010)](../assets/img/press-athena-257.png){fig-alt="Athena 257"}](../assets/files/press-athena-257.pdf)
+
+[![Huffington Post (2023)](../assets/img/press-huffpost-2023.png){fig-alt="Huffington Post 2023"}](https://www.huffingtonpost.fr/environnement/article/la-loi-pour-sauver-les-ecosystemes-europeens-en-passe-d-etre-rejetee-a-bruxelles_219812.html)
+:::

@@ -1,0 +1,89 @@
+---
+title: "Outreach"
+pagetitle: "Outreach | Nicolas Schtickzelle, Professor of Ecology"
+description: "As a scientist, I am involved in outreach activities for the general public."
+---
+
+As a scientist, I believe it is part of my mission to transmit scientific knowledge
+to the general public, especially because science has an important role to play in
+defining the strategies to tackle the major societal challenges of the XXIst century.
+
+I am happy to talk at conferences, organize workshops for school students, or write
+articles for scientific outreach websites.
+
+::: gallery
+![Giving a talk (2019)](assets/img/outreach-talk-2019.jpg){fig-alt="Giving a talk"}
+![Researchers' Night](assets/img/outreach-researchers-night.jpg){fig-alt="Researchers' Night"}
+![Biodiversity conservation conference](assets/img/outreach-conservation-conf.jpg){fig-alt="Biodiversity conservation conference"}
+:::
+
+## Examples of outreach activities
+
+### Conferences for biodiversity conservation practitioners
+
+Organized in 2013 and 2014 with the [Natagora](https://www.natagora.be/) NGO.
+Click a poster to open the programme (PDF).
+
+::: gallery
+[![Journée des gestionnaires 2013](assets/img/poster-natagora-2013.jpg){fig-alt="Natagora 2013 poster"}](assets/files/natagora-programme-2013.pdf)
+[![Journée des gestionnaires 2014](assets/img/poster-natagora-2014.jpg){fig-alt="Natagora 2014 poster"}](assets/files/natagora-programme-2014.pdf)
+:::
+
+### Researchers' Night
+
+The "[Researchers' Night](http://www.nuitdeschercheurs.be/2010/index_fr.htm)" is a
+yearly event where people can discover what researchers do.
+
+![Researchers' Night 2010](assets/img/researchers-night-2010.png){fig-alt="Researchers' Night 2010"}
+
+I presented our latest research to school students during the
+[Water and climate film festival @ UCLouvain](http://www.eauetclimat.be/) and to the
+general public during the
+[2020 European Researchers' Night](https://ec.europa.eu/research/mariecurieactions/events/european-researchers-night-2020_en) —
+[watch the full session on YouTube](https://www.youtube.com/watch?v=WX-XkoAwxzM)
+(in French).
+
+### Habitat choice in *Tetrahymena* ciliates
+
+This line of research, published in
+[Nature Ecology and Evolution](https://www.nature.com/articles/s41559-017-0269-5) and
+[PNAS](https://www.pnas.org/content/115/47/11988), is presented for a general
+audience on *Science Today*, the UCLouvain outreach website:
+
+- [S'adapter ou changer d'habitat ?](https://uclouvain.be/fr/sciencetoday/actualites/s-adapter-ou-changer-d-habitat.html)
+- [Disperser pour survivre](https://uclouvain.be/en/sciencetoday/news/disperser-pour-survivre.html)
+
+### Workshops for school students and seniors
+
+Workshop on climate change and evolution for school students
+([Printemps des Sciences 2019](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html)).
+
+![Printemps des Sciences 2019](assets/img/printemps-sciences-2019.png){fig-alt="Printemps des Sciences 2019 banner"}
+
+::: gallery
+![Workshop](assets/img/pds-2019-01.jpg){fig-alt="Science Spring workshop"}
+![Workshop](assets/img/pds-2019-02.jpg){fig-alt="Science Spring workshop"}
+![Workshop](assets/img/pds-2019-03.jpg){fig-alt="Science Spring workshop"}
+![Workshop poster](assets/img/pds-2019-04.png){fig-alt="Science Spring workshop poster"}
+:::
+
+Workshop on the biodiversity crisis for the "College of seniors"
+([Université des aînés](https://www.universitedesaines.be/)).
+
+![Université des aînés 2019](assets/img/uda-2019.png){fig-alt="Université des aînés 2019"}
+
+## A few press articles about my research or my expertise
+
+::: gallery
+![La lettre du FNRS 70, p. 25 (2007)](assets/img/press-fnrs-70.png){fig-alt="La lettre du FNRS 70"}
+
+[![Athena 365 (2024)](assets/img/press-athena-365.png){fig-alt="Athena 365"}](https://athena-magazine.be/magazine/le-magazine-n365/biodiversite-lautre-urgence/)
+
+[![RTL info (2024)](assets/img/press-rtl-2024.png){fig-alt="RTL info 2024"}](https://www.rtl.be/actu/decryptage-rtl-info/loi-europeenne-de-la-restauration-de-la-nature-une-victoire-pour-lenvironnement/2024-06-18/article/681276)
+
+[![La lettre du FNRS 81, pp. 8–9 (2010)](assets/img/press-fnrs-81.png){fig-alt="La lettre du FNRS 81"}](assets/files/press-fnrs-81.pdf)
+
+[![Athena 257, pp. 36–39 (2010)](assets/img/press-athena-257.png){fig-alt="Athena 257"}](assets/files/press-athena-257.pdf)
+
+[![Huffington Post (2023)](assets/img/press-huffpost-2023.png){fig-alt="Huffington Post 2023"}](https://www.huffingtonpost.fr/environnement/article/la-loi-pour-sauver-les-ecosystemes-europeens-en-passe-d-etre-rejetee-a-bruxelles_219812.html)
+:::

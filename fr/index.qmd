@@ -1,0 +1,115 @@
+<!-- GENERATED FILE — do not edit.
+     Source: ../index.qmd + ../data/translations.fr.json
+     Regenerate with: python tools/build_french.py -->
+---
+pagetitle: "Nicolas Schtickzelle, Professeur d'Ecologie et Conservation"
+description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
+---
+
+::: {.hero style="background-image: linear-gradient(rgba(31,63,54,.72), rgba(31,63,54,.72)), url('../assets/img/hero-home.jpg')"}
+# Chercheur et Professeur en écologie quantitative et biologie de la conservation
+
+::: tagline
+Université catholique de Louvain · Earth and Life Institute · Ecologie et Biodiversité
+:::
+:::
+
+::: intro
+![Nicolas Schtickzelle](../assets/img/nicolas-portrait.png){fig-alt="Portrait of Nicolas Schtickzelle"}
+
+::: {}
+Je suis un biologiste, intéressé à comprendre le fonctionnement de la nature, passionné par la découverte des paysages naturels et de leurs organismes vivants à travers le monde.
+
+J'étudie principalement comment les populations réagissent au changement global et comment cela affecte leur viabilité à long terme.
+
+Je suis également intéressé par le développement de nouvelles méthodes de recherche en écologie et en évolution.
+:::
+:::
+
+::: affiliations
+[![UCLouvain](../assets/img/uclouvain-logo.png){fig-alt="UCLouvain"}](https://uclouvain.be/en/index.html)
+[![Earth and Life Institute](../assets/img/eli-logo.png){fig-alt="Earth and Life Institute"}](http://www.uclouvain.be/eli)
+![Ecology and Biodiversity](../assets/img/eliv-logo.png){fig-alt="ELI Ecology and Biodiversity"}
+:::
+
+## Leader du groupe de recherche Quantitative Conservation Biology
+
+::: theme
+::: {}
+Mon groupe fait partie de l'[Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli) de l'Université catholique de Louvain (Belgique).
+
+C'est un groupe de recherche de taille raisonnable, actif en écologie de terrain et expérimentale dans un contexte de conservation de la biodiversité.
+
+La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversité. Les papillons qui grandissent en s'envolant reflètent notre volonté de contribuer à limiter ce déclin.
+:::
+
+![Quantitative Conservation Biology group logo](../assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
+:::
+
+## Etapes de ma carrière
+
+::: timeline
+::: item
+::: yr
+2013 – aujourd'hui
+:::
+::: what
+**Professeur**, Université catholique de Louvain — Earth and Life Institute, Ecologie et Biodiversité. Responsable du groupe de recherche Quantitative Conservation Biology.
+:::
+:::
+
+::: item
+::: yr
+1992 – aujourd'hui
+:::
+::: what
+Suivi à long terme de la métapopulation du nacré de la bistorte *Boloria eunomia* en Ardenne belge — l'un des jeux de données de capture–marquage–recapture les plus longs sur un papillon en Europe.
+:::
+:::
+:::
+
+::: note-box
+**A compléter.** Sur le site Wix, cette section était produite par l'application tierce *Lumifish Timeline*, qui stocke son contenu sur les serveurs de Lumifish — elle ne fait pas partie de la page et n'a pas pu être copiée. Ajoutez ou modifiez les étapes directement dans `index.qmd` : chaque étape est un bloc `::: item` avec une année et une description.
+:::
+
+## Bibliométrie
+
+::: figures
+::: figure-box
+::: n
+84
+:::
+::: lab
+articles dans des revues internationales à comité de lecture
+:::
+:::
+
+::: figure-box
+::: n
+7
+:::
+::: lab
+chapitres de livres à comité de lecture
+:::
+:::
+
+::: figure-box
+::: n
+4451
+:::
+::: lab
+citations, soit 53 par article en moyenne ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906))
+:::
+:::
+
+::: figure-box
+::: n
+35
+:::
+::: lab
+h-index
+:::
+:::
+:::
+
+[![Google Scholar citations](../assets/img/scholar-badge.jpg){fig-alt="Google Scholar citation badge" width="200"}](http://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en)

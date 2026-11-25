@@ -1,0 +1,366 @@
+/*-- scss:defaults --*/
+
+// ---------------------------------------------------------------------------
+// Palette — a quiet, natural academic look: deep forest green + warm neutrals.
+// Change these three lines to restyle the whole site.
+// ---------------------------------------------------------------------------
+$ns-green:      #2f5d50;
+$ns-green-dark: #1f3f36;
+$ns-accent:     #c2703d;
+$ns-sand:       #f6f4ef;
+$ns-ink:        #23282b;
+$ns-muted:      #6b7378;
+
+$primary:   $ns-green;
+$body-color: $ns-ink;
+$body-bg:   #ffffff;
+$link-color: $ns-green;
+
+$font-family-sans-serif: "Source Sans 3", "Source Sans Pro", -apple-system,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 600;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+$navbar-bg: #ffffff;
+$navbar-fg: $ns-ink;
+$navbar-hl: $ns-green;
+$footer-bg: $ns-green-dark;
+$footer-fg: #dfe7e3;
+
+/*-- scss:rules --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&display=swap");
+
+// --- global -----------------------------------------------------------------
+body { -webkit-font-smoothing: antialiased; }
+
+h1, h2, h3 { letter-spacing: -0.01em; }
+
+main.content > h2 {
+  margin-top: 3rem;
+  padding-bottom: .4rem;
+  border-bottom: 2px solid rgba($ns-green, .18);
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: $ns-green-dark;
+}
+
+main.content > h3 {
+  margin-top: 2.2rem;
+  font-size: 1.25rem;
+  color: $ns-green;
+}
+
+// --- navbar -----------------------------------------------------------------
+.navbar {
+  border-bottom: 1px solid #e7e4dd;
+  box-shadow: 0 1px 12px rgba(0, 0, 0, .04);
+}
+.navbar-brand img { max-height: 46px; }
+.navbar .nav-link {
+  font-size: .95rem;
+  font-weight: 600;
+  letter-spacing: .01em;
+}
+.navbar .nav-link.active { color: $ns-green !important; }
+
+// --- hero -------------------------------------------------------------------
+.hero {
+  position: relative;
+  margin: -1.5rem 0 2.5rem;
+  padding: 4.5rem 2rem;
+  border-radius: 10px;
+  // The photo itself is set inline on the div in index.qmd, so that the path
+  // stays relative to the PAGE (and therefore works for /fr/ too) rather than
+  // relative to the compiled stylesheet.
+  background-color: $ns-green-dark;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+}
+.hero h1 {
+  margin: 0 auto;
+  max-width: 22ch;
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 700;
+  line-height: 1.2;
+  color: #fff;
+  border: 0;
+}
+.hero .tagline {
+  margin: 1rem auto 0;
+  max-width: 60ch;
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, .9);
+}
+.hero .tagline p { margin: 0; }
+
+// Quarto turns every image with alt text into a <figure> with a caption.
+// Captions are wanted in galleries only — everywhere else, hide them and
+// remove the wrapper's spacing.
+.intro, .cards, .affiliations, .theme, .contact-grid {
+  .quarto-figure, figure { margin: 0; }
+  figcaption { display: none; }
+  figure p { margin: 0; }
+}
+.gallery .quarto-figure, .gallery figure { margin: 0; }
+.gallery figure p { margin: 0; }
+
+// --- intro block (portrait + text) -----------------------------------------
+.intro {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.intro img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: 50% 18%;
+  border-radius: 50%;
+  background: $ns-sand;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, .10);
+}
+.intro p { font-size: 1.08rem; }
+@media (max-width: 700px) {
+  .intro { grid-template-columns: 1fr; text-align: center; }
+  .intro img { max-width: 220px; margin: 0 auto; }
+}
+
+// --- generic card grid ------------------------------------------------------
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.card-ns {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid #e7e4dd;
+  border-radius: 10px;
+  background: #fff;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.card-ns:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, .09);
+}
+.card-ns img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  background: $ns-sand;
+}
+.card-ns .body { padding: .9rem 1rem 1.1rem; }
+.card-ns .name, .card-ns .name p {
+  margin: 0;
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: $ns-green-dark;
+}
+.card-ns .role, .card-ns .role p {
+  margin: .15rem 0 .5rem;
+  font-size: .85rem;
+  font-weight: 600;
+  color: $ns-accent;
+}
+.card-ns .thesis, .card-ns .thesis p {
+  margin: 0;
+  font-size: .88rem;
+  line-height: 1.5;
+  color: $ns-muted;
+}
+.card-ns .now, .card-ns .now p {
+  margin: .6rem 0 0;
+  font-size: .82rem;
+  font-style: italic;
+  color: $ns-muted;
+}
+
+// --- key figures ------------------------------------------------------------
+.figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.figure-box {
+  padding: 1.4rem 1rem;
+  border-radius: 10px;
+  background: $ns-sand;
+  text-align: center;
+}
+.figure-box .n,
+.figure-box .n p {
+  margin: 0;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: $ns-green;
+}
+.figure-box .lab,
+.figure-box .lab p {
+  margin: .3rem 0 0;
+  font-size: .85rem;
+  line-height: 1.4;
+  color: $ns-muted;
+}
+
+// --- affiliation strip ------------------------------------------------------
+.affiliations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  border-radius: 10px;
+  background: $ns-sand;
+  margin: 2rem 0 3rem;
+}
+.affiliations img { max-height: 74px; width: auto; }
+
+// --- research theme ---------------------------------------------------------
+.theme {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 2rem;
+  align-items: start;
+  margin: 0 0 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eceae4;
+}
+.theme:last-of-type { border-bottom: 0; }
+.theme img {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+@media (max-width: 800px) { .theme { grid-template-columns: 1fr; } }
+
+// --- gallery ----------------------------------------------------------------
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.gallery figure { margin: 0; }
+.gallery img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.gallery figcaption {
+  margin-top: .4rem;
+  font-size: .82rem;
+  color: $ns-muted;
+}
+
+// --- course block -----------------------------------------------------------
+.course {
+  margin: 0 0 2.5rem;
+  padding: 1.6rem 1.8rem;
+  border-left: 4px solid $ns-green;
+  border-radius: 0 10px 10px 0;
+  background: $ns-sand;
+}
+.course h3 { margin-top: 0; color: $ns-green-dark; }
+.course .meta {
+  display: inline-block;
+  margin-bottom: .8rem;
+  padding: .2rem .7rem;
+  border-radius: 20px;
+  background: rgba($ns-green, .12);
+  font-size: .8rem;
+  font-weight: 600;
+  color: $ns-green-dark;
+}
+
+// --- timeline ---------------------------------------------------------------
+.timeline { position: relative; margin: 2rem 0 3rem; padding-left: 2rem; }
+.timeline::before {
+  content: "";
+  position: absolute;
+  top: .4rem;
+  bottom: .4rem;
+  left: 6px;
+  width: 2px;
+  background: rgba($ns-green, .25);
+}
+.timeline .item { position: relative; margin-bottom: 1.6rem; }
+.timeline .item::before {
+  content: "";
+  position: absolute;
+  top: .45rem;
+  left: -2rem;
+  width: 14px;
+  height: 14px;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  background: $ns-green;
+  box-shadow: 0 0 0 2px rgba($ns-green, .3);
+}
+.timeline .yr, .timeline .yr p {
+  margin: 0;
+  font-size: .85rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  color: $ns-accent;
+}
+.timeline .what, .timeline .what p { margin: .1rem 0 0; font-size: 1.02rem; }
+
+.pub-year p { margin: 0; }
+
+// --- publications -----------------------------------------------------------
+.pub-year {
+  margin: 2rem 0 .6rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: $ns-accent;
+}
+ol.pubs { margin: 0; padding-left: 1.2rem; }
+ol.pubs li {
+  margin-bottom: .85rem;
+  font-size: .95rem;
+  line-height: 1.55;
+}
+ol.pubs li .title { font-weight: 600; color: $ns-green-dark; }
+ol.pubs li .venue { font-style: italic; }
+ol.pubs li a { text-decoration: none; }
+ol.pubs li a:hover { text-decoration: underline; }
+.me { font-weight: 700; }
+
+// --- callout / note ---------------------------------------------------------
+.note-box {
+  margin: 2rem 0;
+  padding: 1.1rem 1.3rem;
+  border-left: 4px solid $ns-accent;
+  border-radius: 0 8px 8px 0;
+  background: #fdf6f1;
+  font-size: .93rem;
+}
+
+// --- contact ----------------------------------------------------------------
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  margin: 1.5rem 0 2.5rem;
+}
+@media (max-width: 700px) { .contact-grid { grid-template-columns: 1fr; } }
+
+.map-embed { width: 100%; height: 420px; border: 0; border-radius: 10px; }
+
+// --- footer -----------------------------------------------------------------
+.nav-footer { font-size: .87rem; }
+.nav-footer a { color: #fff; }

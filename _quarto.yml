@@ -1,0 +1,76 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!fr/"
+  # Copy the whole assets tree, not just files Quarto can see referenced.
+  # The French sub-site links back to ../assets/, so this covers both languages.
+  resources:
+    - assets/**
+
+lang: en
+
+website:
+  title: "Nicolas Schtickzelle"
+  description: "Nicolas Schtickzelle, Professor of Quantitative Ecology and Conservation Biology at UCLouvain."
+  site-url: https://www.nicolas-schtickzelle.net
+  favicon: assets/img/logo.png
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+
+  navbar:
+    logo: assets/img/logo.png
+    logo-alt: "Nicolas Schtickzelle"
+    title: false
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Short bio
+      - href: research-interests.qmd
+        text: Research interests
+      - href: publications.qmd
+        text: Publications
+      - href: mentoring.qmd
+        text: Mentoring
+      - href: teaching.qmd
+        text: Teaching
+      - href: outreach.qmd
+        text: Outreach
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: "FR"
+        href: fr/index.html
+        aria-label: "Version française"
+      - icon: google
+        href: https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nicolas-schtickzelle-b64834b3/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:nicolas.schtickzelle@uclouvain.be
+        aria-label: Email
+
+  page-footer:
+    left: "&copy; 2017–2026 Nicolas Schtickzelle"
+    center: "Quantitative Conservation Biology &middot; Earth and Life Institute &middot; UCLouvain"
+    right:
+      - href: contact.qmd
+        text: Contact
+      - href: postdoc-position.qmd
+        text: Open positions
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 1000px

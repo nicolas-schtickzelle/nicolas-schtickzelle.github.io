@@ -1,0 +1,123 @@
+---
+pagetitle: "Nicolas Schtickzelle | Professor of Quantitative Ecology and Conservation Biology"
+description: "Nicolas Schtickzelle, Professor of Ecology and Conservation Biology. \"How do animals react to global environmental change?\" is the focus of my research in ecology using butterflies on the field and unicellular organisms in lab microcosms."
+---
+
+::: {.hero style="background-image: linear-gradient(rgba(31,63,54,.72), rgba(31,63,54,.72)), url('assets/img/hero-home.jpg')"}
+# Researcher and Professor in Quantitative Ecology and Conservation Biology
+
+::: tagline
+Université catholique de Louvain · Earth and Life Institute · Ecology and Biodiversity
+:::
+:::
+
+::: intro
+![Nicolas Schtickzelle](assets/img/nicolas-portrait.png){fig-alt="Portrait of Nicolas Schtickzelle"}
+
+::: {}
+I am a biologist, interested in understanding how nature works, passionate about
+discovering natural landscapes and their living organisms across the world.
+
+I am mainly studying how populations react to global change and how this affects
+their long-term viability.
+
+I am also interested in developing new methods for research in ecology and evolution.
+:::
+:::
+
+::: affiliations
+[![UCLouvain](assets/img/uclouvain-logo.png){fig-alt="UCLouvain"}](https://uclouvain.be/en/index.html)
+[![Earth and Life Institute](assets/img/eli-logo.png){fig-alt="Earth and Life Institute"}](http://www.uclouvain.be/eli)
+![Ecology and Biodiversity](assets/img/eliv-logo.png){fig-alt="ELI Ecology and Biodiversity"}
+:::
+
+## Leader of the Quantitative Conservation Biology research group
+
+::: theme
+::: {}
+My group is part of the [Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli)
+at the Université catholique de Louvain (Belgium).
+
+It is a small-sized research group focusing on field and experimental ecology in a
+context of biodiversity conservation.
+
+The zigzag arrow of our logo symbolizes the current decrease in biodiversity.
+The expanding butterflies reflect our will to contribute to its recovery.
+:::
+
+![Quantitative Conservation Biology group logo](assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
+:::
+
+## Career milestones
+
+::: timeline
+::: item
+::: yr
+2013 – today
+:::
+::: what
+**Professor**, Université catholique de Louvain — Earth and Life Institute,
+Ecology and Biodiversity. Leader of the Quantitative Conservation Biology group.
+:::
+:::
+
+::: item
+::: yr
+1992 – today
+:::
+::: what
+Long-term monitoring of the bog fritillary butterfly *Boloria eunomia*
+metapopulation in the Belgian Ardenne — one of the longest-running
+capture–mark–recapture datasets on a butterfly in Europe.
+:::
+:::
+:::
+
+::: note-box
+**To complete.** On the Wix site this section is produced by the third-party
+*Lumifish Timeline* app, which stores its content on Lumifish's own servers — it
+is not part of the page and could not be copied. Add or edit entries directly in
+`index.qmd`: each milestone is one `::: item` block with a year and a description.
+:::
+
+## Bibliometry
+
+::: figures
+::: figure-box
+::: n
+84
+:::
+::: lab
+articles in peer-reviewed journals with impact factor
+:::
+:::
+
+::: figure-box
+::: n
+7
+:::
+::: lab
+peer-reviewed book chapters
+:::
+:::
+
+::: figure-box
+::: n
+4451
+:::
+::: lab
+citations, i.e. 53 per article on average ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906))
+:::
+:::
+
+::: figure-box
+::: n
+35
+:::
+::: lab
+h-index
+:::
+:::
+:::
+
+[![Google Scholar citations](assets/img/scholar-badge.jpg){fig-alt="Google Scholar citation badge" width="200"}](http://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en)

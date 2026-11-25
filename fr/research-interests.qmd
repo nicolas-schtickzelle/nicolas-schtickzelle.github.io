@@ -1,0 +1,94 @@
+<!-- GENERATED FILE — do not edit.
+     Source: ../research-interests.qmd + ../data/translations.fr.json
+     Regenerate with: python tools/build_french.py -->
+---
+title: "Recherche"
+pagetitle: "Recherche | Nicolas Schtickzelle, Professeur d'Ecologie"
+description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
+---
+
+La plupart des espèces sont en déclin en raison de perturbations d'origine humaine : destruction et fragmentation de l'habitat, changement climatique, pollution, chasse et pêche excessives, et introduction d'espèces exotiques.
+
+Mettre un terme à cette érosion biologique est devenu un défi majeur pour l'humanité. Une conservation et une gestion proactives de la biodiversité supposent une compréhension approfondie des processus déterminant la viabilité des espèces et des populations. Ma recherche en écologie quantitative repose sur cet objectif de protection de la biodiversité.
+
+Dans mon groupe de recherche, nous combinons observations, expériences et modélisation, sur le terrain et au laboratoire, pour étudier comment les espèces réagissent aux changements de leur environnement. Nos principales espèces modèles sont des papillons et des protistes.
+
+::: gallery
+![Field work](../assets/img/ri-field-01.jpg){fig-alt="Field work"}
+![Field work](../assets/img/ri-field-02.jpg){fig-alt="Field work"}
+![Laboratory microcosms](../assets/img/ri-lab-01.jpg){fig-alt="Laboratory microcosms"}
+![Laboratory microcosms](../assets/img/ri-lab-02.jpg){fig-alt="Laboratory microcosms"}
+![Study landscape](../assets/img/ri-landscape-01.jpg){fig-alt="Study landscape"}
+![Study landscape](../assets/img/ri-landscape-02.jpg){fig-alt="Study landscape"}
+:::
+
+## Principaux intérêts de recherche
+
+::: theme
+::: {}
+### Dynamique des métapopulations
+
+Les métapopulations sont des groupes de populations locales habitant un paysage fragmenté, persistant dans un équilibre d'extinctions locales et de recolonisations par des mouvements de dispersion.
+
+Nos recherches portent sur l'interaction entre la dynamique locale (démographie) et la dynamique régionale (dispersion et synchronie des populations).
+
+*Notre modèle d'étude principal en Belgique depuis 1992 est* Boloria eunomia *; le capture–marquage–recapture nous informe sur son abondance et ses mouvements. Les saumons forment eux aussi des métapopulations, un aspect largement ignoré de leur biologie.*
+:::
+
+![*Boloria eunomia*, mating](../assets/img/boloria-mating.jpg){fig-alt="Boloria eunomia mating"}
+:::
+
+::: theme
+::: {}
+### Dispersion et écologie du mouvement
+
+La dispersion est un processus fondamental pour la dynamique des métapopulations, et plus largement pour les dynamiques écologiques et évolutives.
+
+Nous nous intéressons aux causes et aux conséquences de la dispersion, et à la manière dont le comportement de mouvement des individus interagit avec la configuration du paysage pour déterminer une dispersion et une connectivité efficaces.
+
+*Nous utilisons* Tetrahymena thermophila*, un protiste de 50 µm, dans des microcosmes au laboratoire ; il se déplace activement par le battement de ses cils. Sur le terrain, les papillons se déplacent plus en ligne droite en dehors de leur habitat qu'à l'intérieur.*
+:::
+
+![*Tetrahymena thermophila* movement trajectories](../assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena movement trajectories"}
+:::
+
+::: theme
+::: {}
+### Prédire la viabilité des espèces
+
+La capacité de prévoir la performance future d'une espèce ou d'une (méta)population est d'une importance capitale pour la conception et l'évaluation des directives de conservation et de gestion.
+
+Nous utilisons des approches de modélisation (telles que l'analyse de viabilité des populations) pour prédire l'avenir des (méta)populations en fonction de scénarios environnementaux et de plans de conservation.
+
+*B. eunomia *survivra-t-il à la réintroduction du castor ? Combien de femelles macaques faut-il stériliser pour prévenir l'augmentation incontrôlée de la population dans la forêt de Padangtegal (Bali, Indonésie) ?*
+:::
+
+![Population Viability Analysis, a "crystal ball"](../assets/img/pva-crystal-ball.png){fig-alt="PVA crystal ball"}
+:::
+
+::: theme
+::: {}
+### Développer des méthodes pour l'écologie
+
+La recherche en écologie et en évolution a beaucoup à gagner de la généralisation et de la diffusion des méthodes développées pour des études de cas spécifiques.
+
+Qu'ils soient liés à la collecte de données et à l'analyse statistique, aux approches de modélisation ou à la construction d'instruments de recherche, nous nous engageons à rendre nos développements aussi généraux que possible, à les documenter et à les transmettre à la communauté scientifique.
+
+*Avec une imprimante 3D, nous transformons une configuration de paysage en un véritable microcosme pour* Tetrahymena*. L'analyse automatique de photos est une méthode puissante de collecte de données. Le capture–marquage–recapture est une méthode standard et fiable mais coûteuse pour estimer l'abondance d'une espèce ; des alternatives plus simples et moins coûteuses sont hautement bénéfiques pour les écologues des populations et de la conservation.*
+:::
+
+![Automatic image analysis of *Tetrahymena*](../assets/img/image-analysis.png){fig-alt="Tetrahymena picture analysis"}
+:::
+
+::: gallery
+![*Boloria eunomia*, marked individual](../assets/img/boloria-marked.jpg){fig-alt="Marked Boloria eunomia"}
+![*B. eunomia* movement paths](../assets/img/boloria-paths.jpg){fig-alt="Boloria eunomia movement paths"}
+![*Tetrahymena thermophila* cell](../assets/img/tetrahymena-cell.jpg){fig-alt="Tetrahymena thermophila cell"}
+![Sockeye salmon spawning](../assets/img/ri-salmon.jpg){fig-alt="Sockeye salmon spawning"}
+![River overflowing due to beaver dam](../assets/img/beaver-dam.jpg){fig-alt="River overflowing due to beaver dam"}
+![A long-tailed macaque](../assets/img/macaque.jpg){fig-alt="Long-tailed macaque"}
+![Artificial landscape](../assets/img/artificial-landscape.png){fig-alt="3D-printed artificial landscape"}
+![CPLE](../assets/img/cple.png){fig-alt="CPLE method"}
+:::
+
+Voir la page [publications](publications.qmd) pour les articles correspondant à chacun de ces axes de recherche.

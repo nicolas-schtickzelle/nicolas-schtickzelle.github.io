@@ -1,0 +1,422 @@
+<!-- GENERATED FILE — do not edit.
+     Source: ../mentoring.qmd + ../data/translations.fr.json
+     Regenerate with: python tools/build_french.py -->
+---
+title: "Mentorat"
+pagetitle: "Mentorat | Nicolas Schtickzelle, Professeur d'Ecologie"
+description: "Ma philosophie de mentorat et liste de mes (anciens) mentorés."
+---
+
+Le mentorat a toujours occupé une place importante dans ma vie, de l'école à responsable de groupe de recherche.
+
+Pour mon équipe, mon objectif est de mener des recherches innovantes et de grande qualité dans un environnement de travail attractif et collaboratif, dans lequel les étudiants et les collaborateurs s'épanouissent pour devenir des chercheurs heureux et reconnus.
+
+En tant que mentor, je m'engage à investir toute mon énergie dans l'encadrement des jeunes chercheurs de mon équipe et des visiteurs de mon réseau de recherche. Une part importante de mes anciens mentorés ont pu poursuivre leur carrière dans le monde académique.
+
+Je suis toujours prêt à accueillir des étudiants et des chercheurs motivés. Si vous êtes intéressé, n'hésitez pas à [me contacter](contact.qmd).
+
+::: figures
+::: figure-box
+::: n
+8
+:::
+::: lab
+postdocs
+:::
+:::
+
+::: figure-box
+::: n
+7
+:::
+::: lab
+thèses de doctorat terminées
+:::
+:::
+
+::: figure-box
+::: n
+4
+:::
+::: lab
+thèses en cours
+:::
+:::
+
+::: figure-box
+::: n
+50
+:::
+::: lab
+mémorant.es
+:::
+:::
+
+::: figure-box
+::: n
+9
+:::
+::: lab
+stagiaires
+:::
+:::
+:::
+
+## Mentorés actuels
+
+::: cards
+::: card-ns
+![Bérengère Bastogne](../assets/img/mentee-bastogne.jpg){fig-alt="Bérengère Bastogne"}
+
+::: body
+::: name
+Bérengère Bastogne
+:::
+::: role
+Doctorante (2021–)
+:::
+::: thesis
+Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (champignons mycorhiziens)
+:::
+:::
+:::
+
+::: card-ns
+![Victor Brans](../assets/img/mentee-brans.jpg){fig-alt="Victor Brans"}
+
+::: body
+::: name
+Victor Brans
+:::
+::: role
+Doctorant (2022–)
+:::
+::: thesis
+Impacts et interactions de multiples facteurs de changement environnemental dans la nature : une analyse de viabilité de métapopulation de *Boloria eunomia* en Ardenne belge
+:::
+:::
+:::
+
+::: card-ns
+![Michaëlla Dacek](../assets/img/mentee-dacek.jpg){fig-alt="Michaëlla Dacek"}
+
+::: body
+::: name
+Michaëlla Dacek
+:::
+::: role
+Doctorante (2025–)
+:::
+::: thesis
+Dévoiler les processus à l'origine de la dispersion, sa variation intraspécifique et sa modulation environnementale chez un cilié
+:::
+:::
+:::
+
+::: card-ns
+![Tessa de Bruin](../assets/img/mentee-debruin.jpg){fig-alt="Tessa de Bruin"}
+
+::: body
+::: name
+Tessa de Bruin
+:::
+::: role
+Doctorante (2018–)
+:::
+::: thesis
+Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (protistes ciliés)
+:::
+:::
+:::
+:::
+
+## Anciens mentorés
+
+::: cards
+::: card-ns
+![Julie Choutt](../assets/img/mentee-choutt.jpg){fig-alt="Julie Choutt"}
+
+::: body
+::: name
+Dr. Julie Choutt
+:::
+::: role
+Doctorante (2007–2011)
+:::
+::: thesis
+Le papillon et la guêpe : relation hôte-parasitoïde entre *Boloria eunomia* et *Cotesia eunomiae*
+:::
+:::
+:::
+
+::: card-ns
+![Quentin Dubois](../assets/img/mentee-dubois.jpg){fig-alt="Quentin Dubois"}
+
+::: body
+::: name
+Dr. Quentin Dubois
+:::
+::: role
+Doctorant (2012–2018)
+:::
+::: thesis
+La conservation du Nacré de la canneberge *Boloria aquilonaris* à travers l'espace et dans le temps : étude d'un papillon boréo-montagnard, de sa distribution à sa démographie
+:::
+::: now
+Maintenant chef de projet @ Biotope Environnement (Belgique)
+:::
+:::
+:::
+
+::: card-ns
+![Marie-Charlotte Gielen](../assets/img/mentee-gielen.jpg){fig-alt="Marie-Charlotte Gielen"}
+
+::: body
+::: name
+Dr. Marie-Charlotte Gielen
+:::
+::: role
+Doctorante (2018–2025)
+:::
+::: thesis
+Perfectionner les relevés de traces d'animaux pour soutenir la conservation de la grande faune et sa coexistence avec l'Homme dans le Kalahari
+:::
+:::
+:::
+
+::: card-ns
+![Staffan Jacob](../assets/img/mentee-jacob.jpg){fig-alt="Staffan Jacob"}
+
+::: body
+::: name
+Dr. Staffan Jacob
+:::
+::: role
+Postdoc (2016–2018)
+:::
+::: thesis
+Rôle de la dispersion non aléatoire dans l'hétérogénéité spatiale des phénotypes et la réponse des espèces aux changements environnementaux
+:::
+::: now
+Maintenant chercheur permanent @ CNRS Moulis (France)
+:::
+:::
+:::
+
+::: card-ns
+![Estelle Laurent](../assets/img/mentee-laurent.jpg){fig-alt="Estelle Laurent"}
+
+::: body
+::: name
+Estelle Laurent
+:::
+::: role
+Doctorante (2015–2022)
+:::
+::: thesis
+Hétérogénéité de la dispersion : causes et conséquences chez un organisme cilié unicellulaire en microcosmes
+:::
+:::
+:::
+
+::: card-ns
+![Christophe Lebigre](../assets/img/mentee-lebigre.jpg){fig-alt="Christophe Lebigre"}
+
+::: body
+::: name
+Dr. Christophe Lebigre
+:::
+::: role
+Postdoc (2011–2016)
+:::
+::: thesis
+Vieillissement des sous-populations et successions écologiques : une nouvelle perspective sur la génétique spatiale ?
+:::
+::: now
+Maintenant chercheur permanent @ IFREMER (France)
+:::
+:::
+:::
+
+::: card-ns
+![Delphine Legrand](../assets/img/mentee-legrand.jpg){fig-alt="Delphine Legrand"}
+
+::: body
+::: name
+Dr. Delphine Legrand
+:::
+::: role
+Postdoc (2014–2015)
+:::
+::: thesis
+Comment les organismes s'adaptent-ils aux changements des conditions environnementales : évolution expérimentale et approche génomique
+:::
+::: now
+Maintenant chercheuse permanente @ CNRS Moulis (France)
+:::
+:::
+:::
+
+::: card-ns
+![Florent Manzi](../assets/img/mentee-manzi.png){fig-alt="Florent Manzi"}
+
+::: body
+::: name
+Dr. Florent Manzi
+:::
+::: role
+Postdoc (2022–2024)
+:::
+::: thesis
+Choix d'habitat : évolution et conséquences éco-évolutives
+:::
+:::
+:::
+
+::: card-ns
+![Kate Mitchell](../assets/img/mentee-mitchell.jpg){fig-alt="Kate Mitchell"}
+
+::: body
+::: name
+Dr. Kate Mitchell
+:::
+::: role
+Postdoc (2011–2012)
+:::
+::: thesis
+Plasticité phénotypique chez le cilié *Tetrahymena thermophila*
+:::
+::: now
+Maintenant postdoc @ Macquarie University (Australie)
+:::
+:::
+:::
+
+::: card-ns
+![Thibaut Morel Journel](../assets/img/mentee-moreljournel.png){fig-alt="Thibaut Morel Journel"}
+
+::: body
+::: name
+Dr. Thibaut Morel Journel
+:::
+::: role
+Postdoc (2016–2018)
+:::
+::: thesis
+Le rôle de la topologie du paysage dans la dynamique de métapopulation dans le contexte des changements environnementaux : des approches *in silico* aux approches *in vivo*
+:::
+::: now
+Maintenant [professeur associé à Sorbonne Paris Nord (France)](https://thibaut-morel-journel.fulltxt.net/)
+:::
+:::
+:::
+
+::: card-ns
+![Frank Pennekamp](../assets/img/mentee-pennekamp.jpg){fig-alt="Frank Pennekamp"}
+
+::: body
+::: name
+Dr. Frank Pennekamp
+:::
+::: role
+Doctorant (2009–2014)
+:::
+::: thesis
+Nager avec des ciliés — écologie de la dispersion et du mouvement de *T. thermophila*
+:::
+::: now
+Maintenant [postdoc @ University of Zurich (Suisse)](https://www.frank-pennekamp.info/)
+:::
+:::
+:::
+
+::: card-ns
+![Viktoriia Radchuk](../assets/img/mentee-radchuk.jpg){fig-alt="Viktoriia Radchuk"}
+
+::: body
+::: name
+Dr. Viktoriia Radchuk
+:::
+::: role
+Doctorante (2008–2012) · Postdoc (2012–2013)
+:::
+::: thesis
+Traitement de la complexité biologique dans l'analyse de viabilité des populations : leçons de deux espèces de papillons menacées d'extinction
+:::
+::: now
+Maintenant [chercheuse senior @ Leibniz Institute for Zoo and Wildlife Research (Allemagne)](https://www.viktoriiaradchuk.com/)
+:::
+:::
+:::
+
+::: card-ns
+![Nils Svendsen](../assets/img/mentee-svendsen.jpg){fig-alt="Nils Svendsen"}
+
+::: body
+::: name
+Dr. Nils Svendsen
+:::
+::: role
+Doctorant (2016–2024)
+:::
+::: thesis
+Relations entre les traits fonctionnels dans les microcosmes expérimentaux du protiste *Tetrahymena thermophila*
+:::
+:::
+:::
+
+::: card-ns
+![Virginie Thuillier](../assets/img/mentee-thuillier.jpg){fig-alt="Virginie Thuillier"}
+
+::: body
+::: name
+Virginie Thuillier
+:::
+::: role
+Doctorante (2011–2017)
+:::
+::: thesis
+Plasticité phénotypique et évolution des traits d'histoire de vie chez *Tetrahymena thermophila* en microcosmes
+:::
+:::
+:::
+
+::: card-ns
+![Camille Turlure](../assets/img/mentee-turlure.jpg){fig-alt="Camille Turlure"}
+
+::: body
+::: name
+Dr. Camille Turlure
+:::
+::: role
+Doctorante (2007–2009) · Postdoc (2011–2015)
+:::
+::: thesis
+L'habitat du point de vue du papillon : comment les papillons spécialistes se calent sur les ressources écologiques
+:::
+::: now
+Maintenant Center of Excellence Manager — Medical Communication CoE @ Akkodis
+:::
+:::
+:::
+
+::: card-ns
+![Allan Raffard](../assets/img/mentee-raffard.png){fig-alt="Allan Raffard"}
+
+::: body
+::: name
+Dr. Allan Raffard
+:::
+::: role
+Postdoc
+:::
+::: thesis
+Variabilité intraspécifique, syndromes de dispersion et fonctionnement des méta-écosystèmes
+:::
+:::
+:::
+:::
+
+## Où sont mes anciens mentorés aujourd'hui ?
+
+![Former mentees around the world](../assets/img/mentees-map.jpg){fig-alt="World map showing where former mentees now work"}
