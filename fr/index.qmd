@@ -51,19 +51,100 @@ La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversit
 ::: timeline
 ::: item
 ::: yr
-2013 – aujourd'hui
+1997
 :::
 ::: what
-**Professeur**, Université catholique de Louvain — Earth and Life Institute, Ecologie et Biodiversité. Responsable du groupe de recherche Quantitative Conservation Biology.
+Licence en biologie, Université catholique de Louvain, Belgique
 :::
 :::
 
 ::: item
 ::: yr
-1992 – aujourd'hui
+2003
 :::
 ::: what
-Suivi à long terme de la métapopulation du nacré de la bistorte *Boloria eunomia* en Ardenne belge — l'un des jeux de données de capture–marquage–recapture les plus longs sur un papillon en Europe.
+Doctorat en biologie, Université catholique de Louvain, Belgique
+:::
+:::
+
+::: item
+::: yr
+2003
+:::
+::: what
+Postdoctorat avec le Prof. Michel Baguette, Université catholique de Louvain, Belgique
+:::
+:::
+
+::: item
+::: yr
+2004
+:::
+::: what
+Séjour postdoctoral chez le Dr Jean Clobert, Université Paris 6, France
+:::
+:::
+
+::: item
+::: yr
+2005
+:::
+::: what
+Séjour postdoctoral chez le Prof. Thomas P. Quinn, University of Washington, Seattle, Etats-Unis
+:::
+:::
+
+::: item
+::: yr
+2007
+:::
+::: what
+Chercheur qualifié (F.R.S.-FNRS) & chargé de cours @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2008
+:::
+::: what
+Président du Centre de recherche sur la biodiversité @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2015
+:::
+::: what
+Chercheur qualifié (F.R.S.-FNRS) & professeur @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2018
+:::
+::: what
+Maître de recherches (F.R.S.-FNRS) & professeur @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2022
+:::
+::: what
+Président de l'Ecole de biologie @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2024
+:::
+::: what
+Professeur @ Université catholique de Louvain
 :::
 :::
 :::

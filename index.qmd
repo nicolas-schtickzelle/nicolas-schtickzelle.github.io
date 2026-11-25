@@ -53,22 +53,100 @@ The expanding butterflies reflect our will to contribute to its recovery.
 ::: timeline
 ::: item
 ::: yr
-2013 – today
+1997
 :::
 ::: what
-**Professor**, Université catholique de Louvain — Earth and Life Institute,
-Ecology and Biodiversity. Leader of the Quantitative Conservation Biology group.
+BSc in Biology, Université catholique de Louvain, Belgium
 :::
 :::
 
 ::: item
 ::: yr
-1992 – today
+2003
 :::
 ::: what
-Long-term monitoring of the bog fritillary butterfly *Boloria eunomia*
-metapopulation in the Belgian Ardenne — one of the longest-running
-capture–mark–recapture datasets on a butterfly in Europe.
+PhD in Biology, Université catholique de Louvain, Belgium
+:::
+:::
+
+::: item
+::: yr
+2003
+:::
+::: what
+Postdoc with Prof. Michel Baguette, Université catholique de Louvain, Belgium
+:::
+:::
+
+::: item
+::: yr
+2004
+:::
+::: what
+Postdoc stay with Dr. Jean Clobert, Université Paris 6, France
+:::
+:::
+
+::: item
+::: yr
+2005
+:::
+::: what
+Postdoc stay with Prof. Thomas P. Quinn, University of Washington, Seattle, USA
+:::
+:::
+
+::: item
+::: yr
+2007
+:::
+::: what
+Research associate (F.R.S.-FNRS) & Lecturer @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2008
+:::
+::: what
+President of the Biodiversity Research Centre @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2015
+:::
+::: what
+Research associate (F.R.S.-FNRS) & Professor @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2018
+:::
+::: what
+Senior research associate (F.R.S.-FNRS) & Professor @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2022
+:::
+::: what
+President of the School of Biology @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2024
+:::
+::: what
+Professor @ Université catholique de Louvain
 :::
 :::
 :::
