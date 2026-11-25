@@ -1,7 +1,7 @@
 ::: figures
 ::: figure-box
 ::: n
-91
+93
 :::
 ::: lab
 articles dans des revues à comité de lecture
@@ -22,7 +22,7 @@ chapitres de livres à comité de lecture
 7149
 :::
 ::: lab
-citations, soit 73 par publication en moyenne
+citations, soit 71 par publication en moyenne
 :::
 :::
 

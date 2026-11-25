@@ -49,16 +49,16 @@ jobs:
 
       - name: Look for new publications
         run: |
-          python tools/find_new_publications.py --csv /tmp/new.csv --markdown /tmp/pr.md
+          git checkout -B new-publications
+          python tools/find_new_publications.py --update-csv --csv /tmp/new.csv --markdown /tmp/pr.md
           n=$(($(wc -l < /tmp/new.csv) - 1))
           echo "candidates=$n"
-          if [ "$n" -le 0 ]; then exit 0; fi
-          git checkout -B new-publications
-          tail -n +2 /tmp/new.csv >> data/publications.csv
+          if [ "$n" -gt 0 ]; then tail -n +2 /tmp/new.csv >> data/publications.csv; fi
+          if git diff --quiet -- data/publications.csv; then echo "Nothing new."; exit 0; fi
           python tools/build_publications.py
           python tools/build_french.py
           git add -A
-          git commit -m "Add $n publication(s) found in OpenAlex (to review)"
+          git commit -m "Publications found in OpenAlex (to review)"
           git push -f origin new-publications
           if gh pr view new-publications --json state -q .state 2>/dev/null | grep -q OPEN; then
             gh pr edit new-publications --body-file /tmp/pr.md

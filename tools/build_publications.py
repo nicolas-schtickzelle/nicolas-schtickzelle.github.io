@@ -37,7 +37,9 @@ def entry_html(row):
         tail = venue
         if vol:
             tail += f" {vol}"
-        if pages:
+        if pages == "in press":
+            tail += ", in press"
+        elif pages:
             tail += f": {pages}"
         bits.append(f'<span class="venue">{html.escape(tail)}</span>')
     doi = row["doi"].strip()

@@ -3,7 +3,13 @@
 :::
 
 <ol class="pubs">
-<li>Schweiger A., Garthen A., Bahn M., Chalcraft D.R., <span class="me">Schtickzelle N</span>., Larsen K.S. &amp; Kreyling J.  
+<li>Hernandez-Possémé L., Le Floch G., Bels V., <span class="me">Schtickzelle N</span>., Ribeiro L. &amp; Baguette M.  
+<span class="title">Morphology and foraging behavior structure water-depth partitioning in shorebirds</span>  
+<span class="venue">FACETS, in press</span></li>
+<li>Brans V., Baguette M. &amp; <span class="me">Schtickzelle N</span>.  
+<span class="title">A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly Boloria eunomia</span>  
+<span class="venue">Ecosphere, in press</span></li>
+<li>Schweiger A.H., Garthen A., Bahn M., Chalcraft D., <span class="me">Schtickzelle N</span>., Steenberg Larsen K. &amp; Kreyling J.  
 <span class="title">How to optimally allocate sampling effort in experimental ecology</span>  
 <span class="venue">Scientific Reports 16: 6503</span>  
 <a href="https://doi.org/10.1038/s41598-026-38541-4">doi:10.1038/s41598-026-38541-4</a></li>
@@ -121,7 +127,7 @@
 <a href="https://doi.org/10.1111/een.13174">doi:10.1111/een.13174</a></li>
 <li>Cote J., Dahirel M., <span class="me">Schtickzelle N</span>., Altermatt F., Ansart A., Blanchet S., Chaine A.S., De Laender F., De Raedt J., Haegeman B., Jacob S., Kaltz O., Laurent E., Little C.J., Madec L., Manzi F., Masier S., Pellerin F., Pennekamp F., Therry L., Vong A., Winandy L., Bonte D., Fronhofer E.A. &amp; Legrand D.  
 <span class="title">Dispersal syndromes in challenging environments: a cross-species experiment</span>  
-<span class="venue">Ecology Letters 25: 1629–1638</span>  
+<span class="venue">Ecology Letters 25: 2675-2687</span>  
 <a href="https://doi.org/10.1111/ele.14124">doi:10.1111/ele.14124</a></li>
 </ol>
 

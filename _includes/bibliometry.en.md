@@ -1,7 +1,7 @@
 ::: figures
 ::: figure-box
 ::: n
-91
+93
 :::
 ::: lab
 peer-reviewed journal articles
@@ -22,7 +22,7 @@ peer-reviewed book chapters
 7149
 :::
 ::: lab
-citations, i.e. 73 per publication on average
+citations, i.e. 71 per publication on average
 :::
 :::
 
