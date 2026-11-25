@@ -3,7 +3,7 @@
      Regenerate with: python tools/build_french.py -->
 ---
 title: "Recherche"
-pagetitle: "Recherche | Nicolas Schtickzelle, Professeur d'Ecologie"
+pagetitle: "Recherche"
 description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
 ---
 

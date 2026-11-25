@@ -3,7 +3,7 @@
      Regenerate with: python tools/build_french.py -->
 ---
 title: "Vulgarisation"
-pagetitle: "Vulgarisation | Nicolas Schtickzelle, Professeur d'Ecologie"
+pagetitle: "Vulgarisation"
 description: "En tant que scientifique, je participe à des activités de vulgarisation pour le grand public."
 ---
 

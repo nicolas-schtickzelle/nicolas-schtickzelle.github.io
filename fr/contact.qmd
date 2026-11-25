@@ -3,7 +3,7 @@
      Regenerate with: python tools/build_french.py -->
 ---
 title: "Contact"
-pagetitle: "Contact | Nicolas Schtickzelle, Professeur d'Ecologie"
+pagetitle: "Contact"
 description: "Adresse et plan d'accès à notre laboratoire."
 ---
 
@@ -11,14 +11,14 @@ description: "Adresse et plan d'accès à notre laboratoire."
 ::: {}
 ## Adresse
 
-**Quantitative Conservation Biology Lab**
+**Quantitative Conservation Biology Lab**\
 Prof. Nicolas Schtickzelle
 
-Université catholique de Louvain
+Université catholique de Louvain\
 Earth and Life Institute — Ecologie & Biodiversité
 
-Croix du Sud 4, L7.07.04
-1348 Ottignies-Louvain-la-Neuve
+Croix du Sud 4, L7.07.04\
+1348 Ottignies-Louvain-la-Neuve\
 Belgique
 :::
 
@@ -42,9 +42,3 @@ Belgique
 <iframe class="map-embed" title="Map to the Quantitative Conservation Biology Lab" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.openstreetmap.org/export/embed.html?bbox=4.6060%2C50.6640%2C4.6220%2C50.6720&layer=mapnik&marker=50.6680%2C4.6140"></iframe>
 
 [Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)
-
-::: note-box
-**A propos du formulaire de contact.** Le site Wix comportait un formulaire « Get in touch ». Un site statique n'a pas de serveur pour recevoir les envois de formulaire ; cette page utilise donc un lien email direct. Si vous souhaitez récupérer un vrai formulaire, des services gratuits comme [Formspree](https://formspree.io) ou [Web3Forms](https://web3forms.com) permettent de l'ajouter en quelques lignes de HTML, sans serveur.
-
-**A propos du plan.** La page Wix intégrait une carte Google. Celle-ci utilise OpenStreetMap, qui ne nécessite aucune clé d'API. Vérifiez que le marqueur tombe bien sur le bâtiment Carnoy ; les coordonnées sont dans `contact.qmd`.
-:::

@@ -380,7 +380,7 @@ ol.pubs li a:hover { text-decoration: underline; }
 
 
 // --- page title band (all pages except home) --------------------------------
-#title-block-header {
+#title-block-header:has(h1.title) {
   margin: -1rem 0 2rem;
   padding: 1.8rem 2rem 1.5rem;
   border-radius: 10px;
@@ -413,3 +413,27 @@ ol.pubs li a:hover { text-decoration: underline; }
 .timeline .item::before { background: $ns-orange; box-shadow: 0 0 0 2px rgba($ns-orange, .35); }
 .timeline::before { background: rgba($ns-green, .25); }
 .note-box { background: $ns-warm; border-left-color: $ns-orange; }
+
+// Home page has no title: no band there.
+#title-block-header:not(:has(h1.title)) { display: none; }
+
+// Section headings get an orange underline wherever they sit.
+main.content section.level2 > h2 {
+  margin-top: 2.6rem;
+  padding-bottom: .35rem;
+  border-bottom: 3px solid $ns-orange;
+  color: $ns-green-dark;
+}
+main.content section.level3 > h3 { color: $ns-green; }
+.course h3 { color: $ns-green-dark !important; }
+
+// Stand-alone pictures (posters, title slides) should not fill the whole width.
+main.content > .quarto-figure img,
+main.content section > .quarto-figure img {
+  max-width: 560px;
+  max-height: 420px;
+  width: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, .10);
+}
+main.content .quarto-figure figcaption { text-align: center; }

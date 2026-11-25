@@ -3,7 +3,7 @@
      Regenerate with: python tools/build_french.py -->
 ---
 title: "Publications"
-pagetitle: "Publications | Nicolas Schtickzelle, Professeur d'Ecologie"
+pagetitle: "Publications"
 description: "Publications phares et liste complète des publications de Nicolas Schtickzelle."
 ---
 
@@ -32,7 +32,6 @@ Un vaste projet collaboratif montrant à quel point les conclusions d'une étude
 ::: note-box
 **Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](mailto:nicolas.schtickzelle@uclouvain.be?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai.
 
-**A propos de cette liste.** Sur le site Wix, ces deux listes étaient produites par l'application tierce *Table Master*, qui conserve ses données sur ses propres serveurs plutôt que dans la page ; elles n'ont donc pas pu être copiées. La liste ci-dessous a été reconstruite à partir d'[OpenAlex](https://openalex.org) et couvre les années les plus récentes. Elle se trouve dans `data/publications.csv`, un simple fichier texte éditable dans Excel ou dans n'importe quel éditeur.
 :::
 
 ::: {style="text-align:center"}

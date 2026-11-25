@@ -3,7 +3,7 @@
      Regenerate with: python tools/build_french.py -->
 ---
 title: "Mentorat"
-pagetitle: "Mentorat | Nicolas Schtickzelle, Professeur d'Ecologie"
+pagetitle: "Mentorat"
 description: "Ma philosophie de mentorat et liste de mes (anciens) mentorés."
 ---
 
@@ -198,7 +198,7 @@ Postdoc (2016–2018)
 Rôle de la dispersion non aléatoire dans l'hétérogénéité spatiale des phénotypes et la réponse des espèces aux changements environnementaux
 :::
 ::: now
-Maintenant chercheur permanent @ CNRS Moulis (France)
+Maintenant chercheuse permanente @ CNRS Moulis (France)
 :::
 :::
 :::
