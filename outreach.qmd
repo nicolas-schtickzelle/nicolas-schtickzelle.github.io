@@ -1,6 +1,6 @@
 ---
 title: "Outreach"
-pagetitle: "Outreach | Nicolas Schtickzelle, Professor of Ecology"
+pagetitle: "Outreach"
 description: "As a scientist, I am involved in outreach activities for the general public."
 ---
 

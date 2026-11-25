@@ -1,9 +1,9 @@
 ---
-pagetitle: "Nicolas Schtickzelle | Professor of Quantitative Ecology and Conservation Biology"
+pagetitle: "Professor of Quantitative Ecology and Conservation Biology"
 description: "Nicolas Schtickzelle, Professor of Ecology and Conservation Biology. \"How do animals react to global environmental change?\" is the focus of my research in ecology using butterflies on the field and unicellular organisms in lab microcosms."
 ---
 
-::: {.hero style="background-image: linear-gradient(rgba(31,63,54,.72), rgba(31,63,54,.72)), url('assets/img/hero-home.jpg')"}
+::: {.hero style="background-image: linear-gradient(120deg, rgba(16,25,92,.82), rgba(27,42,138,.55)), url('assets/img/hero-home.jpg')"}
 # Researcher and Professor in Quantitative Ecology and Conservation Biology
 
 ::: tagline
@@ -71,13 +71,6 @@ metapopulation in the Belgian Ardenne — one of the longest-running
 capture–mark–recapture datasets on a butterfly in Europe.
 :::
 :::
-:::
-
-::: note-box
-**To complete.** On the Wix site this section is produced by the third-party
-*Lumifish Timeline* app, which stores its content on Lumifish's own servers — it
-is not part of the page and could not be copied. Add or edit entries directly in
-`index.qmd`: each milestone is one `::: item` block with a year and a description.
 :::
 
 ## Bibliometry

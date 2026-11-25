@@ -1,6 +1,6 @@
 ---
 title: "Mentoring"
-pagetitle: "Mentoring | Nicolas Schtickzelle, Professor of Ecology"
+pagetitle: "Mentoring"
 description: "My mentoring philosophy and list of my (former) mentees."
 ---
 

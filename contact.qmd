@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-pagetitle: "Contact | Nicolas Schtickzelle, Professor of Ecology"
+pagetitle: "Contact"
 description: "Address and maps to our laboratory."
 ---
 
@@ -8,14 +8,14 @@ description: "Address and maps to our laboratory."
 ::: {}
 ## Lab address
 
-**Quantitative Conservation Biology Lab**
+**Quantitative Conservation Biology Lab**\
 Prof. Nicolas Schtickzelle
 
-Université catholique de Louvain
+Université catholique de Louvain\
 Earth and Life Institute — Ecology & Biodiversity
 
-Croix du Sud 4, L7.07.04
-1348 Ottignies-Louvain-la-Neuve
+Croix du Sud 4, L7.07.04\
+1348 Ottignies-Louvain-la-Neuve\
 Belgium
 :::
 
@@ -40,15 +40,3 @@ Belgium
 
 [Open in OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) ·
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)
-
-::: note-box
-**About the contact form.** The Wix site had a "Get in touch" form. A static site
-has no server to receive form submissions, so this page uses a direct email link
-instead. If you would like a real form back, free services such as
-[Formspree](https://formspree.io) or [Web3Forms](https://web3forms.com) add one
-with a few lines of HTML and no server of your own — just say the word.
-
-**About the map.** The Wix page embedded a Google Map. This uses OpenStreetMap,
-which needs no API key. The marker coordinates are in `contact.qmd` — adjust them
-if the pin is not exactly on the Carnoy building.
-:::

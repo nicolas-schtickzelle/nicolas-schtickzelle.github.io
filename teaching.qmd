@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-pagetitle: "Teaching | Nicolas Schtickzelle, Professor of Ecology"
+pagetitle: "Teaching"
 description: "My teaching philosophy and description of the courses I give @ UCLouvain."
 ---
 

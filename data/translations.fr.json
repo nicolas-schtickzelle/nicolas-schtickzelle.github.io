@@ -10,21 +10,21 @@
  "_pages": {
   "contact.qmd": {
    "description": "Adresse et plan d'accès à notre laboratoire.",
-   "pagetitle": "Contact | Nicolas Schtickzelle, Professeur d'Ecologie",
+   "pagetitle": "Contact",
    "title": "Contact"
   },
   "index.qmd": {
    "description": "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire.",
-   "pagetitle": "Nicolas Schtickzelle, Professeur d'Ecologie et Conservation"
+   "pagetitle": "Professeur d'Ecologie Quantitative et Biologie de la Conservation"
   },
   "mentoring.qmd": {
    "description": "Ma philosophie de mentorat et liste de mes (anciens) mentorés.",
-   "pagetitle": "Mentorat | Nicolas Schtickzelle, Professeur d'Ecologie",
+   "pagetitle": "Mentorat",
    "title": "Mentorat"
   },
   "outreach.qmd": {
    "description": "En tant que scientifique, je participe à des activités de vulgarisation pour le grand public.",
-   "pagetitle": "Vulgarisation | Nicolas Schtickzelle, Professeur d'Ecologie",
+   "pagetitle": "Vulgarisation",
    "title": "Vulgarisation"
   },
   "postdoc-position.qmd": {
@@ -34,17 +34,17 @@
   },
   "publications.qmd": {
    "description": "Publications phares et liste complète des publications de Nicolas Schtickzelle.",
-   "pagetitle": "Publications | Nicolas Schtickzelle, Professeur d'Ecologie",
+   "pagetitle": "Publications",
    "title": "Publications"
   },
   "research-interests.qmd": {
    "description": "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire.",
-   "pagetitle": "Recherche | Nicolas Schtickzelle, Professeur d'Ecologie",
+   "pagetitle": "Recherche",
    "title": "Recherche"
   },
   "teaching.qmd": {
    "description": "Ma philosophie d'enseignement et la description des cours que je donne à l'UCLouvain.",
-   "pagetitle": "Enseignement | Nicolas Schtickzelle, Professeur d'Ecologie",
+   "pagetitle": "Enseignement",
    "title": "Enseignement"
   }
  },
@@ -54,28 +54,20 @@
    "fr": "## Adresse"
   },
   "contact.qmd#1": {
-   "en": "**Quantitative Conservation Biology Lab** Prof. Nicolas Schtickzelle",
-   "fr": "**Quantitative Conservation Biology Lab**\nProf. Nicolas Schtickzelle"
+   "en": "**Quantitative Conservation Biology Lab**\\ Prof. Nicolas Schtickzelle",
+   "fr": "**Quantitative Conservation Biology Lab**\\\nProf. Nicolas Schtickzelle"
   },
   "contact.qmd#10": {
    "en": "[Open in OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) · [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)",
    "fr": "[Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)"
   },
-  "contact.qmd#11": {
-   "en": "**About the contact form.** The Wix site had a \"Get in touch\" form. A static site has no server to receive form submissions, so this page uses a direct email link instead. If you would like a real form back, free services such as [Formspree](https://formspree.io) or [Web3Forms](https://web3forms.com) add one with a few lines of HTML and no server of your own — just say the word.",
-   "fr": "**A propos du formulaire de contact.** Le site Wix comportait un formulaire « Get in touch ». Un site statique n'a pas de serveur pour recevoir les envois de formulaire ; cette page utilise donc un lien email direct. Si vous souhaitez récupérer un vrai formulaire, des services gratuits comme [Formspree](https://formspree.io) ou [Web3Forms](https://web3forms.com) permettent de l'ajouter en quelques lignes de HTML, sans serveur."
-  },
-  "contact.qmd#12": {
-   "en": "**About the map.** The Wix page embedded a Google Map. This uses OpenStreetMap, which needs no API key. The marker coordinates are in `contact.qmd` — adjust them if the pin is not exactly on the Carnoy building.",
-   "fr": "**A propos du plan.** La page Wix intégrait une carte Google. Celle-ci utilise OpenStreetMap, qui ne nécessite aucune clé d'API. Vérifiez que le marqueur tombe bien sur le bâtiment Carnoy ; les coordonnées sont dans `contact.qmd`."
-  },
   "contact.qmd#2": {
-   "en": "Université catholique de Louvain Earth and Life Institute — Ecology & Biodiversity",
-   "fr": "Université catholique de Louvain\nEarth and Life Institute — Ecologie & Biodiversité"
+   "en": "Université catholique de Louvain\\ Earth and Life Institute — Ecology & Biodiversity",
+   "fr": "Université catholique de Louvain\\\nEarth and Life Institute — Ecologie & Biodiversité"
   },
   "contact.qmd#3": {
-   "en": "Croix du Sud 4, L7.07.04 1348 Ottignies-Louvain-la-Neuve Belgium",
-   "fr": "Croix du Sud 4, L7.07.04\n1348 Ottignies-Louvain-la-Neuve\nBelgique"
+   "en": "Croix du Sud 4, L7.07.04\\ 1348 Ottignies-Louvain-la-Neuve\\ Belgium",
+   "fr": "Croix du Sud 4, L7.07.04\\\n1348 Ottignies-Louvain-la-Neuve\\\nBelgique"
   },
   "contact.qmd#4": {
    "en": "## Get in touch",
@@ -126,46 +118,42 @@
    "fr": "Suivi à long terme de la métapopulation du nacré de la bistorte *Boloria eunomia* en Ardenne belge — l'un des jeux de données de capture–marquage–recapture les plus longs sur un papillon en Europe."
   },
   "index.qmd#14": {
-   "en": "**To complete.** On the Wix site this section is produced by the third-party *Lumifish Timeline* app, which stores its content on Lumifish's own servers — it is not part of the page and could not be copied. Add or edit entries directly in `index.qmd`: each milestone is one `::: item` block with a year and a description.",
-   "fr": "**A compléter.** Sur le site Wix, cette section était produite par l'application tierce *Lumifish Timeline*, qui stocke son contenu sur les serveurs de Lumifish — elle ne fait pas partie de la page et n'a pas pu être copiée. Ajoutez ou modifiez les étapes directement dans `index.qmd` : chaque étape est un bloc `::: item` avec une année et une description."
-  },
-  "index.qmd#15": {
    "en": "## Bibliometry",
    "fr": "## Bibliométrie"
   },
-  "index.qmd#16": {
+  "index.qmd#15": {
    "en": "84",
    "fr": "84"
   },
-  "index.qmd#17": {
+  "index.qmd#16": {
    "en": "articles in peer-reviewed journals with impact factor",
    "fr": "articles dans des revues internationales à comité de lecture"
   },
-  "index.qmd#18": {
+  "index.qmd#17": {
    "en": "7",
    "fr": "7"
   },
-  "index.qmd#19": {
+  "index.qmd#18": {
    "en": "peer-reviewed book chapters",
    "fr": "chapitres de livres à comité de lecture"
+  },
+  "index.qmd#19": {
+   "en": "4451",
+   "fr": "4451"
   },
   "index.qmd#2": {
    "en": "I am a biologist, interested in understanding how nature works, passionate about discovering natural landscapes and their living organisms across the world.",
    "fr": "Je suis un biologiste, intéressé à comprendre le fonctionnement de la nature, passionné par la découverte des paysages naturels et de leurs organismes vivants à travers le monde."
   },
   "index.qmd#20": {
-   "en": "4451",
-   "fr": "4451"
-  },
-  "index.qmd#21": {
    "en": "citations, i.e. 53 per article on average ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906))",
    "fr": "citations, soit 53 par article en moyenne ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906))"
   },
-  "index.qmd#22": {
+  "index.qmd#21": {
    "en": "35",
    "fr": "35"
   },
-  "index.qmd#23": {
+  "index.qmd#22": {
    "en": "h-index",
    "fr": "h-index"
   },
@@ -343,7 +331,7 @@
   },
   "mentoring.qmd#41": {
    "en": "Now permanent researcher @ CNRS Moulis (France)",
-   "fr": "Maintenant chercheur permanent @ CNRS Moulis (France)"
+   "fr": "Maintenant chercheuse permanente @ CNRS Moulis (France)"
   },
   "mentoring.qmd#42": {
    "en": "Estelle Laurent",
@@ -642,10 +630,6 @@
    "fr": "**Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](mailto:nicolas.schtickzelle@uclouvain.be?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai."
   },
   "publications.qmd#7": {
-   "en": "**About this list.** On the Wix site these two lists were produced by the third-party *Table Master* app, which keeps its data on its own servers rather than in the page, so it could not be copied across. The list below was rebuilt from [OpenAlex](https://openalex.org) and currently covers the most recent years. It lives in `data/publications.csv` — a plain text file you can edit in Excel or any text editor. Run `python tools/update_publications.py --write` to pull the complete record from OpenAlex, then `python tools/build_publications.py` and `quarto render`.",
-   "fr": "**A propos de cette liste.** Sur le site Wix, ces deux listes étaient produites par l'application tierce *Table Master*, qui conserve ses données sur ses propres serveurs plutôt que dans la page ; elles n'ont donc pas pu être copiées. La liste ci-dessous a été reconstruite à partir d'[OpenAlex](https://openalex.org) et couvre les années les plus récentes. Elle se trouve dans `data/publications.csv`, un simple fichier texte éditable dans Excel ou dans n'importe quel éditeur."
-  },
-  "publications.qmd#8": {
    "en": "[Full record on Google Scholar](https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en){.btn .btn-primary} [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906){.btn .btn-outline-secondary} [ResearchGate](https://www.researchgate.net/profile/Nicolas_Schtickzelle){.btn .btn-outline-secondary} [Web of Science](https://www.webofscience.com/wos/author/record/B-5916-2014){.btn .btn-outline-secondary}",
    "fr": "[Liste complète sur Google Scholar](https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en){.btn .btn-primary} [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906){.btn .btn-outline-secondary} [ResearchGate](https://www.researchgate.net/profile/Nicolas_Schtickzelle){.btn .btn-outline-secondary} [Web of Science](https://www.webofscience.com/wos/author/record/B-5916-2014){.btn .btn-outline-secondary}"
   },

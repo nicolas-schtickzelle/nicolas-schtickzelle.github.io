@@ -1,15 +1,17 @@
 /*-- scss:defaults --*/
 
 // ---------------------------------------------------------------------------
-// Palette — a quiet, natural academic look: deep forest green + warm neutrals.
-// Change these three lines to restyle the whole site.
+// Palette — taken from the group logo: navy zigzag + orange butterflies.
+// Change these lines to restyle the whole site.
 // ---------------------------------------------------------------------------
-$ns-green:      #2f5d50;
-$ns-green-dark: #1f3f36;
-$ns-accent:     #c2703d;
-$ns-sand:       #f6f4ef;
-$ns-ink:        #23282b;
-$ns-muted:      #6b7378;
+$ns-green:      #1b2a8a;   // main colour (logo navy, softened) — name kept for the rules below
+$ns-green-dark: #10195c;   // headings, footer
+$ns-accent:     #a84f00;   // orange for small text (meets WCAG AA on white)
+$ns-orange:     #e0700f;   // logo orange, decorative only (lines, dots, borders)
+$ns-sand:       #eef1fb;   // light blue tint for boxes and bands
+$ns-warm:       #fff4e8;   // light orange tint
+$ns-ink:        #1d2333;
+$ns-muted:      #5a6275;
 
 $primary:   $ns-green;
 $body-color: $ns-ink;
@@ -22,9 +24,9 @@ $headings-font-weight: 600;
 $font-size-root: 17px;
 $line-height-base: 1.65;
 
-$navbar-bg: #ffffff;
-$navbar-fg: $ns-ink;
-$navbar-hl: $ns-green;
+$navbar-bg: $ns-green;
+$navbar-fg: #ffffff;
+$navbar-hl: #ffb066;
 $footer-bg: $ns-green-dark;
 $footer-fg: #dfe7e3;
 
@@ -40,7 +42,7 @@ h1, h2, h3 { letter-spacing: -0.01em; }
 main.content > h2 {
   margin-top: 3rem;
   padding-bottom: .4rem;
-  border-bottom: 2px solid rgba($ns-green, .18);
+  border-bottom: 3px solid $ns-orange;
   font-size: 1.6rem;
   text-transform: uppercase;
   letter-spacing: .06em;
@@ -55,8 +57,14 @@ main.content > h3 {
 
 // --- navbar -----------------------------------------------------------------
 .navbar {
-  border-bottom: 1px solid #e7e4dd;
-  box-shadow: 0 1px 12px rgba(0, 0, 0, .04);
+  border-bottom: 3px solid $ns-orange;
+  box-shadow: 0 1px 12px rgba(0, 0, 0, .10);
+}
+// The logo is navy on transparent: give it a white badge on the navy bar.
+.navbar-brand img {
+  background: #fff;
+  border-radius: 8px;
+  padding: 3px 6px;
 }
 .navbar-brand img { max-height: 46px; }
 .navbar .nav-link {
@@ -64,7 +72,12 @@ main.content > h3 {
   font-weight: 600;
   letter-spacing: .01em;
 }
-.navbar .nav-link.active { color: $ns-green !important; }
+.navbar .nav-link { color: rgba(255, 255, 255, .92) !important; }
+.navbar .nav-link:hover { color: #ffb066 !important; }
+.navbar .nav-link.active {
+  color: #ffb066 !important;
+  box-shadow: inset 0 -2px 0 #ffb066;
+}
 
 // --- hero -------------------------------------------------------------------
 .hero {
@@ -364,3 +377,39 @@ ol.pubs li a:hover { text-decoration: underline; }
 // --- footer -----------------------------------------------------------------
 .nav-footer { font-size: .87rem; }
 .nav-footer a { color: #fff; }
+
+
+// --- page title band (all pages except home) --------------------------------
+#title-block-header {
+  margin: -1rem 0 2rem;
+  padding: 1.8rem 2rem 1.5rem;
+  border-radius: 10px;
+  background: linear-gradient(120deg, $ns-green-dark, $ns-green);
+  color: #fff;
+}
+#title-block-header h1.title { color: #fff; margin-bottom: .3rem; }
+#title-block-header .description, #title-block-header .description p {
+  color: rgba(255, 255, 255, .88);
+  margin: 0;
+}
+
+// --- galleries: Quarto puts the images of a gallery in one paragraph --------
+.gallery > p { display: contents; }
+.gallery img { box-shadow: 0 2px 10px rgba(0, 0, 0, .10); }
+// Course slides must not be cropped: show them whole on white.
+.course .gallery img {
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #fff;
+  padding: 4px;
+}
+
+// --- coloured accents -------------------------------------------------------
+.figure-box { border-top: 4px solid $ns-orange; }
+.card-ns { border-top: 4px solid $ns-green; }
+.course { border-left-color: $ns-orange; }
+.affiliations { background: #fff; border: 1px solid #dde2f3; }
+.nav-footer { border-top: 3px solid $ns-orange; }
+.timeline .item::before { background: $ns-orange; box-shadow: 0 0 0 2px rgba($ns-orange, .35); }
+.timeline::before { background: rgba($ns-green, .25); }
+.note-box { background: $ns-warm; border-left-color: $ns-orange; }

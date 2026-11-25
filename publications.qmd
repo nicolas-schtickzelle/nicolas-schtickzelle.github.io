@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-pagetitle: "Publications | Nicolas Schtickzelle, Professor of Ecology"
+pagetitle: "Publications"
 description: "Featured publications and full publication list of Nicolas Schtickzelle."
 ---
 
@@ -33,14 +33,6 @@ study can depend on the analytical choices made by the person analysing the data
 [ask me for a reprint](mailto:nicolas.schtickzelle@uclouvain.be?subject=Reprint%20request)
 — I am always happy to send one.
 
-**About this list.** On the Wix site these two lists were produced by the
-third-party *Table Master* app, which keeps its data on its own servers rather
-than in the page, so it could not be copied across. The list below was rebuilt
-from [OpenAlex](https://openalex.org) and currently covers the most recent years.
-It lives in `data/publications.csv` — a plain text file you can edit in Excel or
-any text editor. Run `python tools/update_publications.py --write` to pull the
-complete record from OpenAlex, then `python tools/build_publications.py` and
-`quarto render`.
 :::
 
 ::: {style="text-align:center"}

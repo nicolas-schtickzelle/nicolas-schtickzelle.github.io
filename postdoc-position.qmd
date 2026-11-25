@@ -1,13 +1,11 @@
 ---
 title: "Postdoc position"
-pagetitle: "Postdoc position | Nicolas Schtickzelle, Professor of Ecology"
+pagetitle: "Postdoc position"
 description: "Open positions in the Quantitative Conservation Biology group."
 ---
 
 ::: note-box
-**This advert has expired** (applications closed 2 May 2022). It is reproduced here
-because it was still live on the Wix site. Delete `postdoc-position.qmd`, or replace
-its content with a current call, whenever you like.
+**This position is now closed** (applications closed on 2 May 2022).
 :::
 
 ## 1.5-year postdoctoral research position
