@@ -149,6 +149,12 @@ J'enseigne aux étudiants de bachelier et de master en biologie à l'UCLouvain, 
 
 [Détail des cours →](teaching.qmd){.home-more}
 
+## Vulgarisation
+
+Partager les connaissances scientifiques avec la société fait partie de ma mission de scientifique. Je donne des conférences pour le grand public et pour les gestionnaires de la nature, j'anime des ateliers pour les élèves et les aînés, je participe à des événements comme la Nuit des chercheurs, et je partage mon expertise sur les questions de biodiversité avec la presse.
+
+[Conférences, ateliers et articles de presse →](outreach.qmd){.home-more}
+
 ## Contact
 
 ::: home-contact

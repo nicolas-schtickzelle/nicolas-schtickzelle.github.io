@@ -160,6 +160,15 @@ I teach BSc and MSc students in Biology at UCLouvain, in two areas:
 
 [Course details →](teaching.qmd){.home-more}
 
+## Outreach
+
+Sharing scientific knowledge with society is part of my mission as a scientist. I give
+talks to the general public and to nature conservation practitioners, run workshops for
+school students and seniors, take part in events such as the Researchers' Night, and
+share my expertise on biodiversity issues with the press.
+
+[Talks, workshops and press articles →](outreach.qmd){.home-more}
+
 ## Contact
 
 ::: home-contact
