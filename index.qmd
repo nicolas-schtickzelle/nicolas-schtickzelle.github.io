@@ -50,8 +50,8 @@ bog fritillary *Boloria eunomia* in Belgium.
 **Key papers**
 
 - A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (in press)
-- [Population dynamics and asynchrony at fine spatial scales: a case history of sockeye salmon population structure in Alaska](https://doi.org/10.1139/f2011-147) — Quinn, Rich, Gosse & Schtickzelle 2012, *Canadian Journal of Fisheries and Aquatic Sciences*
 - [Metapopulation dynamics of the bog fritillary butterfly: experimental changes in habitat quality induced negative density-dependent dispersal](https://doi.org/10.1111/j.1600-0587.2010.06212.x) — Baguette, Clobert & Schtickzelle 2011, *Ecography*
+- [A metapopulation perspective for salmon and other anadromous fish](https://doi.org/10.1111/j.1467-2979.2007.00256.x) — Schtickzelle & Quinn 2007, *Fish and Fisheries*
 :::
 :::
 
@@ -82,7 +82,7 @@ dispersal, and the role of intraspecific variability.
 ### Forecasting species viability
 
 ::: card-systems
-Butterflies · amphibians · macaques
+Butterflies · amphibians · macaques · African wildlife
 :::
 
 Population viability analysis to forecast the persistence of species and populations

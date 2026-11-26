@@ -117,13 +117,17 @@
    "en": "**Key papers**",
    "fr": "**Articles clés**"
   },
+  "index.qmd#14": {
+   "en": "- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution* - [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS* - [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*",
+   "fr": "- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*\n- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*\n- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*"
+  },
   "index.qmd#15": {
    "en": "### Forecasting species viability",
    "fr": "### Prédire la viabilité des espèces"
   },
   "index.qmd#16": {
-   "en": "Butterflies · amphibians · macaques",
-   "fr": "Papillons · amphibiens · macaques"
+   "en": "Butterflies · amphibians · macaques · African wildlife",
+   "fr": "Papillons · amphibiens · macaques · faune africaine"
   },
   "index.qmd#17": {
    "en": "Population viability analysis to forecast the persistence of species and populations facing global change, and to guide their conservation.",
@@ -132,6 +136,10 @@
   "index.qmd#18": {
    "en": "**Key papers**",
    "fr": "**Articles clés**"
+  },
+  "index.qmd#19": {
+   "en": "- [Integrating Indigenous knowledge and modern statistical approaches to model wildlife density based on animal track counts](https://doi.org/10.1111/cobi.70397) — Gielen et al. 2026, *Conservation Biology* - [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology* - [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*",
+   "fr": "- [Integrating Indigenous knowledge and modern statistical approaches to model wildlife density based on animal track counts](https://doi.org/10.1111/cobi.70397) — Gielen et al. 2026, *Conservation Biology*\n- [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology*\n- [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*"
   },
   "index.qmd#2": {
    "en": "**How do populations react to global environmental change, and what does it mean for their long-term viability?** This question drives my research in quantitative ecology and conservation biology.",
@@ -152,6 +160,10 @@
   "index.qmd#23": {
    "en": "**Key papers**",
    "fr": "**Articles clés**"
+  },
+  "index.qmd#24": {
+   "en": "- [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters* - [A simplified Mark Release Recapture protocol to improve the cost effectiveness of repeated population size quantification](https://doi.org/10.1111/2041-210x.12900) — Turlure, Pe’er, Baguette & Schtickzelle 2018, *Methods in Ecology and Evolution* - [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution*",
+   "fr": "- [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters*\n- [A simplified Mark Release Recapture protocol to improve the cost effectiveness of repeated population size quantification](https://doi.org/10.1111/2041-210x.12900) — Turlure, Pe’er, Baguette & Schtickzelle 2018, *Methods in Ecology and Evolution*\n- [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution*"
   },
   "index.qmd#25": {
    "en": "[All research interests →](research-interests.qmd){.home-more}",
@@ -232,6 +244,10 @@
   "index.qmd#8": {
    "en": "**Key papers**",
    "fr": "**Articles clés**"
+  },
+  "index.qmd#9": {
+   "en": "- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (in press) - [Metapopulation dynamics of the bog fritillary butterfly: experimental changes in habitat quality induced negative density-dependent dispersal](https://doi.org/10.1111/j.1600-0587.2010.06212.x) — Baguette, Clobert & Schtickzelle 2011, *Ecography* - [A metapopulation perspective for salmon and other anadromous fish](https://doi.org/10.1111/j.1467-2979.2007.00256.x) — Schtickzelle & Quinn 2007, *Fish and Fisheries*",
+   "fr": "- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (sous presse)\n- [Metapopulation dynamics of the bog fritillary butterfly: experimental changes in habitat quality induced negative density-dependent dispersal](https://doi.org/10.1111/j.1600-0587.2010.06212.x) — Baguette, Clobert & Schtickzelle 2011, *Ecography*\n- [A metapopulation perspective for salmon and other anadromous fish](https://doi.org/10.1111/j.1467-2979.2007.00256.x) — Schtickzelle & Quinn 2007, *Fish and Fisheries*"
   },
   "mentoring.qmd#0": {
    "en": "Mentoring has always had an important place in my life, from high school to research group leader.",
@@ -1024,22 +1040,6 @@
   "teaching.qmd#9": {
    "en": "### Field course in integrated ecology — LBOE2114",
    "fr": "### Cours de terrain en écologie intégrée — LBOE2114"
-  },
-  "index.qmd#9": {
-   "en": "- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (in press) - [Population dynamics and asynchrony at fine spatial scales: a case history of sockeye salmon population structure in Alaska](https://doi.org/10.1139/f2011-147) — Quinn, Rich, Gosse & Schtickzelle 2012, *Canadian Journal of Fisheries and Aquatic Sciences* - [Metapopulation dynamics of the bog fritillary butterfly: experimental changes in habitat quality induced negative density-dependent dispersal](https://doi.org/10.1111/j.1600-0587.2010.06212.x) — Baguette, Clobert & Schtickzelle 2011, *Ecography*",
-   "fr": "- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (sous presse)\n- [Population dynamics and asynchrony at fine spatial scales: a case history of sockeye salmon population structure in Alaska](https://doi.org/10.1139/f2011-147) — Quinn, Rich, Gosse & Schtickzelle 2012, *Canadian Journal of Fisheries and Aquatic Sciences*\n- [Metapopulation dynamics of the bog fritillary butterfly: experimental changes in habitat quality induced negative density-dependent dispersal](https://doi.org/10.1111/j.1600-0587.2010.06212.x) — Baguette, Clobert & Schtickzelle 2011, *Ecography*"
-  },
-  "index.qmd#14": {
-   "en": "- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution* - [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS* - [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*",
-   "fr": "- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*\n- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*\n- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*"
-  },
-  "index.qmd#19": {
-   "en": "- [Integrating Indigenous knowledge and modern statistical approaches to model wildlife density based on animal track counts](https://doi.org/10.1111/cobi.70397) — Gielen et al. 2026, *Conservation Biology* - [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology* - [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*",
-   "fr": "- [Integrating Indigenous knowledge and modern statistical approaches to model wildlife density based on animal track counts](https://doi.org/10.1111/cobi.70397) — Gielen et al. 2026, *Conservation Biology*\n- [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology*\n- [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*"
-  },
-  "index.qmd#24": {
-   "en": "- [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters* - [A simplified Mark Release Recapture protocol to improve the cost effectiveness of repeated population size quantification](https://doi.org/10.1111/2041-210x.12900) — Turlure, Pe’er, Baguette & Schtickzelle 2018, *Methods in Ecology and Evolution* - [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution*",
-   "fr": "- [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters*\n- [A simplified Mark Release Recapture protocol to improve the cost effectiveness of repeated population size quantification](https://doi.org/10.1111/2041-210x.12900) — Turlure, Pe’er, Baguette & Schtickzelle 2018, *Methods in Ecology and Evolution*\n- [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution*"
   }
  }
 }
