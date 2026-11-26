@@ -52,9 +52,9 @@ def main():
 (function () {{
   var D = {data};
   var map = L.map("mentees-map", {{scrollWheelZoom: false, worldCopyJump: true}});
-  L.tileLayer("https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}}.png", {{
-    maxZoom: 18, subdomains: "abcd",
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  L.tileLayer("https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png", {{
+    maxZoom: 18,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }}).addTo(map);
   function esc(s) {{ var d = document.createElement("div"); d.textContent = s; return d.innerHTML; }}
   function arc(a, b) {{
