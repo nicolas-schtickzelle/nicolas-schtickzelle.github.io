@@ -40,6 +40,13 @@ Earth and Life Institute · Ecologie et Biodiversité
 ### Papillons sur le terrain
 
 Suivi à long terme et capture–marquage–recapture du nacré de la bistorte *Boloria eunomia* en Belgique depuis 1992 : dynamique de métapopulation et déplacements.
+
+::: key-papers
+**Articles clés**
+
+- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*
+- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (sous presse)
+:::
 :::
 
 ::: home-card
@@ -48,6 +55,13 @@ Suivi à long terme et capture–marquage–recapture du nacré de la bistorte *
 ### Protistes en microcosmes
 
 Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la manière dont les déplacements et les décisions des individus déterminent la dispersion, et sur le rôle de la variabilité intraspécifique.
+
+::: key-papers
+**Articles clés**
+
+- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*
+- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*
+:::
 :::
 
 ::: home-card
@@ -56,6 +70,13 @@ Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la mani
 ### Modélisation quantitative
 
 Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux.
+
+::: key-papers
+**Articles clés**
+
+- [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology*
+- [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*
+:::
 :::
 
 ::: home-card
@@ -64,6 +85,13 @@ Analyse de viabilité des populations pour prédire la persistance des espèces 
 ### Méthodes pour l'écologie
 
 Développer et partager des méthodes : plans d'échantillonnage et statistiques, logiciels d'analyse automatique de vidéos, et [impression 3D de paysages expérimentaux](https://doi.org/10.20944/preprints202003.0220.v1).
+
+::: key-papers
+**Articles clés**
+
+- [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution*
+- [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters*
+:::
 :::
 :::
 
@@ -86,7 +114,7 @@ et la modélisation quantitative pour comprendre ces processus et contribuer à 
 ![Quantitative Conservation Biology group logo](../assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
 :::
 
-## Dernières publications
+## Publications
 
 {{< include _includes/home_pubs.fr.md >}}
 

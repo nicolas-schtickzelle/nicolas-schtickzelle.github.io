@@ -601,3 +601,10 @@ a.home-more:hover { text-decoration: underline; }
 /* six figure boxes → two rows of three */
 .figures:has(> .figure-box:nth-child(6)) { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 600px) { .figures:has(> .figure-box:nth-child(6)) { grid-template-columns: repeat(2, 1fr); } }
+.key-papers { margin: 0 1rem 1rem; padding-top: .6rem; border-top: 1px solid #c9d0ef; font-size: .86rem; }
+.key-papers p { margin: 0 0 .3rem !important; color: #10195c; }
+.key-papers ul { margin: 0; padding-left: 1.1rem; }
+.key-papers li { margin-bottom: .35rem; line-height: 1.35; }
+.home-card { display: flex; flex-direction: column; }
+.home-card .key-papers { margin-top: auto; }
+.home-latest { margin: .4rem 0 .6rem; }
