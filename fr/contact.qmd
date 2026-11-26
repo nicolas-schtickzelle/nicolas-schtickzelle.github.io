@@ -33,14 +33,14 @@ Belgique
 
 **Bureau :** bâtiment Carnoy, local c.157
 
-![Scan for my contact details](../assets/img/vcard-qr.png){fig-alt="QR code with contact details" width="140"}
+![Scan to add me to your phone contacts](../assets/img/vcard-qr.png){fig-alt="QR code with my contact details (vCard)" width="150"}
 
-*Mes coordonnées dans une vCard*
+*Scannez pour m'ajouter à vos contacts, ou [téléchargez ma carte de contact](../assets/files/nicolas-schtickzelle.vcf)*
 :::
 :::
 
 ## Plan d'accès
 
-<iframe class="map-embed" title="Map to the Quantitative Conservation Biology Lab" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.openstreetmap.org/export/embed.html?bbox=4.6130%2C50.6635%2C4.6260%2C50.6698&layer=mapnik&marker=50.66662%2C4.61937"></iframe>
+{{< include _includes/contact_map.fr.md >}}
 
 [Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.66662&mlon=4.61937#map=18/50.66662/4.61937) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)

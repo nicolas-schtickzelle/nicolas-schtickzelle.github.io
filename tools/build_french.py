@@ -34,8 +34,8 @@ def rewrite_paths(text):
     text = text.replace('="assets/', '="../assets/')
     text = text.replace("url('assets/", "url('../assets/")
     text = text.replace('url("assets/', 'url("../assets/')
-    text = text.replace("_includes/bibliometry.en.md", "_includes/bibliometry.fr.md")
-    text = text.replace("_includes/mentees_map.en.md", "_includes/mentees_map.fr.md")
+    # every language-specific include: _includes/<name>.en.md -> .fr.md
+    text = re.sub(r"(_includes/[\w-]+)\.en\.md", r"\1.fr.md", text)
     return text
 
 

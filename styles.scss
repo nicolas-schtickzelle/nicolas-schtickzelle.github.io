@@ -555,3 +555,18 @@ a[href*="universitedesaines.be"] {
 .mentee-pin:hover img, .mentee-pin:focus img { box-shadow: 0 0 0 3px #1b2a8a, 0 2px 8px rgba(0,0,0,.45); }
 .leaflet-popup-content { font-size: .92rem; line-height: 1.35; }
 .mentee-place { color: #555; font-size: .85rem; }
+
+/* Contact map (Leaflet) */
+.map-embed.leaflet-container { z-index: 0; }
+.cm-lab span {
+  display: block; width: 26px; height: 26px; background: #e0700f; border: 3px solid #fff;
+  border-radius: 50% 50% 50% 0; transform: rotate(-45deg); box-shadow: 0 2px 5px rgba(0,0,0,.4);
+}
+.cm-tip { font-weight: 600; color: #10195c; }
+.cm-ico {
+  display: flex; align-items: center; justify-content: center; border-radius: 5px;
+  font: 700 14px/1 system-ui, sans-serif; color: #fff; border: 2px solid #fff; box-shadow: 0 1px 4px rgba(0,0,0,.4);
+}
+.cm-parking { background: #1b2a8a; }
+.cm-train { background: #2e7d32; }
+.cm-bus { background: #7a8f00; }

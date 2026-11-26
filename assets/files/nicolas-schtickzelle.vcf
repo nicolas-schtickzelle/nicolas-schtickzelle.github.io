@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schtickzelle;Nicolas;;Prof.;
+FN:Nicolas Schtickzelle
+TITLE:Professor
+ORG:UCLouvain;Earth and Life Institute
+URL:https://www.nicolas-schtickzelle.net
+EMAIL;TYPE=INTERNET:nicolas.schtickzelle@uclouvain.be
+TEL;TYPE=voice,work,pref:+3210472052
+ADR;TYPE=work,postal:;Carnoy building, room c.157;Croix du Sud 4, L7.07.04;Louvain-la-Neuve;;1348;Belgium
+END:VCARD
