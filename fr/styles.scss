@@ -614,3 +614,8 @@ a.home-more:hover { text-decoration: underline; }
 .card-systems p { margin: 0 !important; font-size: .78rem; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; color: #a84f00; }
 .theme.home-group { margin-bottom: 0; padding-bottom: 0; }
 .navbar-title { font-weight: 700; letter-spacing: .01em; }
+/* navbar: name + menu on one line */
+.navbar .nav-link { white-space: nowrap; }
+@media (min-width: 1200px) { .navbar .navbar-nav .nav-link { padding-left: .5rem; padding-right: .5rem; } }
+.navbar-brand-container { max-width: none !important; }
+.navbar-title { white-space: nowrap; overflow: visible !important; text-overflow: clip !important; max-width: none !important; }
