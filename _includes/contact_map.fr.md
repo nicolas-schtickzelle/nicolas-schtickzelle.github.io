@@ -7,7 +7,7 @@
 <script>
 (function () {
   var D = {"pts": [{"k": "lab", "t": "Notre labo — bâtiment Carnoy, tour C, 1er étage (bureau c.157)", "lat": 50.6666615, "lon": 4.6194291}, {"k": "entrance", "t": "Entrée du bâtiment", "lat": 50.6667499, "lon": 4.6197402}, {"k": "parking", "t": "Parking UCLouvain", "lat": 50.667284, "lon": 4.619085}, {"k": "parking", "t": "Parking UCLouvain", "lat": 50.6673891, "lon": 4.62062}, {"k": "parking", "t": "Parking UCLouvain", "lat": 50.6676271, "lon": 4.6215856}, {"k": "parking", "t": "Parking UCLouvain", "lat": 50.6664847, "lon": 4.6218324}, {"k": "parking", "t": "Parking gratuit (boulevard Baudouin Ier)", "lat": 50.6643494, "lon": 4.6220791}, {"k": "parking", "t": "Parking zone bleue (max. 2 heures avec disque)", "lat": 50.6660087, "lon": 4.618206}, {"k": "train", "t": "Gare de Louvain-la-Neuve", "lat": 50.6699425, "lon": 4.6161836}, {"k": "bus", "t": "Gare des bus", "lat": 50.6679161, "lon": 4.6134531}], "layers": {"parking": "Parkings", "transport": "Train et bus"}};
-  var map = L.map("contact-map", {scrollWheelZoom: false});
+  var map = L.map("contact-map", {scrollWheelZoom: false, zoomSnap: 0.25});
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
@@ -32,7 +32,7 @@
   ov[D.layers.parking] = groups.parking;
   ov[D.layers.transport] = groups.transport;
   L.control.layers(null, ov, {collapsed: false}).addTo(map);
-  map.fitBounds(all, {padding: [30, 30]});
+  map.fitBounds(all, {padding: [24, 24]});
 })();
 </script>
 ```

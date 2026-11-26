@@ -36,7 +36,7 @@ def main():
 <script>
 (function () {{
   var D = {data};
-  var map = L.map("contact-map", {{scrollWheelZoom: false}});
+  var map = L.map("contact-map", {{scrollWheelZoom: false, zoomSnap: 0.25}});
   L.tileLayer("https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png", {{
     maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }}).addTo(map);
@@ -61,7 +61,7 @@ def main():
   ov[D.layers.parking] = groups.parking;
   ov[D.layers.transport] = groups.transport;
   L.control.layers(null, ov, {{collapsed: false}}).addTo(map);
-  map.fitBounds(all, {{padding: [30, 30]}});
+  map.fitBounds(all, {{padding: [24, 24]}});
 }})();
 </script>
 ```

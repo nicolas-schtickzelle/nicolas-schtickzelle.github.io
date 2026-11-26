@@ -570,3 +570,5 @@ a[href*="universitedesaines.be"] {
 .cm-parking { background: #1b2a8a; }
 .cm-train { background: #2e7d32; }
 .cm-bus { background: #7a8f00; }
+#contact-map { height: 480px; }
+.contact-grid img[src*="vcard-qr"] { width: 150px !important; height: auto; padding: 6px; }
