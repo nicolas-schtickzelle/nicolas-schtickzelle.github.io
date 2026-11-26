@@ -36,11 +36,10 @@ I am also interested in developing new methods for research in ecology and evolu
 
 ::: theme
 ::: {}
-My group is part of the [Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli)
-at UCLouvain (Belgium).
-
-It is a small-sized research group focusing on field and experimental ecology in a
-context of biodiversity conservation.
+We are a small, collaborative team studying how populations cope with habitat fragmentation
+and global change, through dispersal, metapopulation dynamics and population viability.
+We combine field studies of butterflies, laboratory experiments with protists in microcosms
+and quantitative modelling to understand these processes and help reverse biodiversity loss.
 
 The zigzag arrow of our logo symbolizes the current decrease in biodiversity.
 The expanding butterflies reflect our will to contribute to its recovery.

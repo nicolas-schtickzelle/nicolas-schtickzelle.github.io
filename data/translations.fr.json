@@ -27,11 +27,6 @@
    "pagetitle": "Vulgarisation",
    "title": "Vulgarisation"
   },
-  "postdoc-position.qmd": {
-   "description": "Postes ouverts dans le groupe Quantitative Conservation Biology.",
-   "pagetitle": "Poste de postdoc | Nicolas Schtickzelle, Professeur d'Ecologie",
-   "title": "Poste de postdoc"
-  },
   "publications.qmd": {
    "description": "Publications phares et liste complète des publications de Nicolas Schtickzelle.",
    "pagetitle": "Publications",
@@ -102,158 +97,154 @@
    "fr": "UCLouvain (Louvain-la-Neuve, Belgique)\\\nEarth and Life Institute · Ecologie et Biodiversité"
   },
   "index.qmd#10": {
-   "en": "2024 – today",
-   "fr": "2024 – aujourd'hui"
-  },
-  "index.qmd#11": {
    "en": "Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate",
    "fr": "Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.-FNRS"
   },
-  "index.qmd#12": {
+  "index.qmd#11": {
    "en": "2022 – today",
    "fr": "2022 – aujourd'hui"
   },
-  "index.qmd#13": {
+  "index.qmd#12": {
    "en": "President of the School of Biology @ UCLouvain",
    "fr": "Président de l'Ecole de biologie @ UCLouvain"
   },
-  "index.qmd#14": {
+  "index.qmd#13": {
    "en": "2021 – today",
    "fr": "2021 – aujourd'hui"
   },
-  "index.qmd#15": {
+  "index.qmd#14": {
    "en": "President of the Council of the Earth and Life Institute @ UCLouvain",
    "fr": "Président du Conseil de l'Earth and Life Institute @ UCLouvain"
   },
-  "index.qmd#16": {
+  "index.qmd#15": {
    "en": "2021 – 2024",
    "fr": "2021 – 2024"
   },
-  "index.qmd#17": {
+  "index.qmd#16": {
    "en": "Head of the Ecology and Biodiversity section of the Earth and Life Institute @ UCLouvain",
    "fr": "Responsable du pôle Ecologie et Biodiversité de l'Earth and Life Institute @ UCLouvain"
   },
-  "index.qmd#18": {
+  "index.qmd#17": {
    "en": "2018 – 2024",
    "fr": "2018 – 2024"
   },
-  "index.qmd#19": {
+  "index.qmd#18": {
    "en": "F.R.S.-FNRS Senior Research Associate @ UCLouvain",
    "fr": "Maître de recherches F.R.S.-FNRS @ UCLouvain"
+  },
+  "index.qmd#19": {
+   "en": "2017 – 2024",
+   "fr": "2017 – 2024"
   },
   "index.qmd#2": {
    "en": "I am a biologist, interested in understanding how nature works, passionate about discovering natural landscapes and their living organisms across the world.",
    "fr": "Je suis un biologiste, intéressé à comprendre le fonctionnement de la nature, passionné par la découverte des paysages naturels et de leurs organismes vivants à travers le monde."
   },
   "index.qmd#20": {
-   "en": "2017 – 2024",
-   "fr": "2017 – 2024"
-  },
-  "index.qmd#21": {
    "en": "President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UCLouvain",
    "fr": "Président de l'APERFU, l'association des chercheurs permanents F.R.S.-FNRS @ UCLouvain"
   },
-  "index.qmd#22": {
+  "index.qmd#21": {
    "en": "2015 – 2024",
    "fr": "2015 – 2024"
   },
-  "index.qmd#23": {
+  "index.qmd#22": {
    "en": "Part-time professor @ UCLouvain",
    "fr": "Professeur à temps partiel @ UCLouvain"
   },
-  "index.qmd#24": {
+  "index.qmd#23": {
    "en": "2010 – 2016",
    "fr": "2010 – 2016"
   },
-  "index.qmd#25": {
+  "index.qmd#24": {
    "en": "President of the Biodiversity Research Centre @ UCLouvain",
    "fr": "Président du Centre de recherche sur la biodiversité @ UCLouvain"
   },
-  "index.qmd#26": {
+  "index.qmd#25": {
    "en": "2008 – 2009",
    "fr": "2008 – 2009"
   },
-  "index.qmd#27": {
+  "index.qmd#26": {
    "en": "Academic secretary of the Department of Biology @ UCLouvain",
    "fr": "Secrétaire académique du Département de biologie @ UCLouvain"
   },
-  "index.qmd#28": {
+  "index.qmd#27": {
    "en": "2007 – 2018",
    "fr": "2007 – 2018"
   },
-  "index.qmd#29": {
+  "index.qmd#28": {
    "en": "F.R.S.-FNRS Research Associate @ UCLouvain",
    "fr": "Chercheur qualifié F.R.S.-FNRS @ UCLouvain"
+  },
+  "index.qmd#29": {
+   "en": "2007 – 2015",
+   "fr": "2007 – 2015"
   },
   "index.qmd#3": {
    "en": "I am mainly studying how populations react to global change and how this affects their long-term viability.",
    "fr": "J'étudie principalement comment les populations réagissent au changement global et comment cela affecte leur viabilité à long terme."
   },
   "index.qmd#30": {
-   "en": "2007 – 2015",
-   "fr": "2007 – 2015"
-  },
-  "index.qmd#31": {
    "en": "Part-time lecturer @ UCLouvain",
    "fr": "Chargé de cours à temps partiel @ UCLouvain"
   },
-  "index.qmd#32": {
+  "index.qmd#31": {
    "en": "2005",
    "fr": "2005"
   },
-  "index.qmd#33": {
+  "index.qmd#32": {
    "en": "Postdoc stay (3 months) with Prof. Thomas P. Quinn, University of Washington, Seattle, USA",
    "fr": "Séjour postdoctoral (3 mois) chez le Prof. Thomas P. Quinn, University of Washington, Seattle, Etats-Unis"
   },
-  "index.qmd#34": {
+  "index.qmd#33": {
    "en": "2004",
    "fr": "2004"
   },
-  "index.qmd#35": {
+  "index.qmd#34": {
    "en": "Postdoc stay (6 months) with Dr. Jean Clobert, Université Paris 6, France",
    "fr": "Séjour postdoctoral (6 mois) chez le Dr Jean Clobert, Université Paris 6, France"
   },
-  "index.qmd#36": {
+  "index.qmd#35": {
    "en": "2003 – 2007",
    "fr": "2003 – 2007"
   },
-  "index.qmd#37": {
+  "index.qmd#36": {
    "en": "F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ UCLouvain",
    "fr": "Chercheur postdoctoral F.R.S.-FNRS avec le Prof. Michel Baguette @ UCLouvain"
   },
-  "index.qmd#38": {
+  "index.qmd#37": {
    "en": "2003",
    "fr": "2003"
   },
-  "index.qmd#39": {
+  "index.qmd#38": {
    "en": "PhD in Biology, UCLouvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé",
    "fr": "Doctorat en biologie, UCLouvain, Belgique — promoteurs Prof. Michel Baguette & Prof. Eric Le Boulengé"
+  },
+  "index.qmd#39": {
+   "en": "2001",
+   "fr": "2001"
   },
   "index.qmd#4": {
    "en": "I am also interested in developing new methods for research in ecology and evolution.",
    "fr": "Je suis également intéressé par le développement de nouvelles méthodes de recherche en écologie et en évolution."
   },
   "index.qmd#40": {
-   "en": "2001",
-   "fr": "2001"
-  },
-  "index.qmd#41": {
    "en": "Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany",
    "fr": "Chercheur invité (4 mois, bourse Marie Curie) @ UFZ Leipzig, Allemagne"
   },
-  "index.qmd#42": {
+  "index.qmd#41": {
    "en": "1999",
    "fr": "1999"
   },
-  "index.qmd#43": {
+  "index.qmd#42": {
    "en": "Master of advanced studies in Biology, UCLouvain, Belgium",
    "fr": "Diplôme d'études approfondies en biologie, UCLouvain, Belgique"
   },
-  "index.qmd#44": {
+  "index.qmd#43": {
    "en": "1997",
    "fr": "1997"
   },
-  "index.qmd#45": {
+  "index.qmd#44": {
    "en": "Master in Biology, UCLouvain, Belgium",
    "fr": "Licence en biologie, UCLouvain, Belgique"
   },
@@ -262,20 +253,20 @@
    "fr": "## Leader du groupe de recherche Quantitative Conservation Biology"
   },
   "index.qmd#6": {
-   "en": "My group is part of the [Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli) at UCLouvain (Belgium).",
-   "fr": "Mon groupe fait partie de l'[Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli) de l'UCLouvain (Belgique)."
+   "en": "We are a small, collaborative team studying how populations cope with habitat fragmentation and global change, through dispersal, metapopulation dynamics and population viability. We combine field studies of butterflies, laboratory experiments with protists in microcosms and quantitative modelling to understand these processes and help reverse biodiversity loss.",
+   "fr": "Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats\net aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.\nNous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes\net la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité."
   },
   "index.qmd#7": {
-   "en": "It is a small-sized research group focusing on field and experimental ecology in a context of biodiversity conservation.",
-   "fr": "C'est un groupe de recherche de taille raisonnable, actif en écologie de terrain et expérimentale dans un contexte de conservation de la biodiversité."
-  },
-  "index.qmd#8": {
    "en": "The zigzag arrow of our logo symbolizes the current decrease in biodiversity. The expanding butterflies reflect our will to contribute to its recovery.",
    "fr": "La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversité. Les papillons qui grandissent en s'envolant reflètent notre volonté de contribuer à limiter ce déclin."
   },
-  "index.qmd#9": {
+  "index.qmd#8": {
    "en": "## Career milestones",
    "fr": "## Etapes de ma carrière"
+  },
+  "index.qmd#9": {
+   "en": "2024 – today",
+   "fr": "2024 – aujourd'hui"
   },
   "mentoring.qmd#0": {
    "en": "Mentoring has always had an important place in my life, from high school to research group leader.",
@@ -680,18 +671,6 @@
   "outreach.qmd#9": {
    "en": "This line of research, published in [Nature Ecology and Evolution](https://www.nature.com/articles/s41559-017-0269-5) and [PNAS](https://www.pnas.org/content/115/47/11988), is presented for a general audience on *Science Today*, the UCLouvain outreach website:",
    "fr": "Cet axe de recherche, publié dans [Nature Ecology and Evolution](https://www.nature.com/articles/s41559-017-0269-5) et [PNAS](https://www.pnas.org/content/115/47/11988), est présenté à un large public sur *Science Today*, le site de vulgarisation de l'UCLouvain :"
-  },
-  "postdoc-position.qmd#0": {
-   "fr": "**Cette annonce est expirée** (candidatures clôturées le 2 mai 2022). Elle est reproduite ici parce qu'elle était encore en ligne sur le site Wix. Supprimez `postdoc-position.qmd`, ou remplacez son contenu par un appel actuel, quand vous le souhaitez."
-  },
-  "postdoc-position.qmd#1": {
-   "fr": "## Poste de postdoctorant de 1,5 an"
-  },
-  "postdoc-position.qmd#2": {
-   "fr": "### Syndromes de dispersion et plasticité en microcosmes"
-  },
-  "postdoc-position.qmd#9": {
-   "fr": "### Publications liées"
   },
   "publications.qmd#0": {
    "en": "## Bibliometry",

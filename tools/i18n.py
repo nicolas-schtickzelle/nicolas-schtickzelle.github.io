@@ -27,13 +27,10 @@ PAGES = [
     "teaching.qmd",
     "outreach.qmd",
     "contact.qmd",
-    "postdoc-position.qmd",
 ]
 
-# Pages deliberately not published in French. The postdoc advert is expired and
-# was never translated on the Wix site either; the French footer links to the
-# English version instead. Remove an entry here to start translating that page.
-FR_SKIP = {"postdoc-position.qmd"}
+# Pages deliberately not published in French (none at the moment).
+FR_SKIP = set()
 
 FR_PAGES = [p for p in PAGES if p not in FR_SKIP]
 

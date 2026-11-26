@@ -60,8 +60,6 @@ website:
     right:
       - href: contact.qmd
         text: Contact
-      - href: postdoc-position.qmd
-        text: Open positions
 
 format:
   html:

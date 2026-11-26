@@ -95,7 +95,6 @@ The French seed came from your own Wix French pages, so the voice and terminolog
 | `teaching.qmd` | Teaching |
 | `outreach.qmd` | Outreach |
 | `contact.qmd` | Contact |
-| `postdoc-position.qmd` | The (expired) postdoc advert |
 | `styles.scss` | All the styling. Colours are the first five lines |
 | `assets/img/` | 90 images, downloaded from Wix and resized for the web |
 | `assets/files/` | PDFs linked from the Outreach page |
@@ -156,9 +155,6 @@ reconciled:
 - On the English outreach page, the Huffington Post thumbnail linked to the RTL
   article. The French page had the right URL; the English now uses it too.
 
-**The postdoc advert is English-only.** It was expired and was not translated on Wix
-either, so `tools/i18n.py` lists it in `FR_SKIP` and the French footer links to the
-English page. Remove it from `FR_SKIP` to start translating it.
 
 **The contact form is now an email link.** A static site has no server to receive
 form posts. If you want a real form back, Formspree or Web3Forms give you one for
