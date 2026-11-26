@@ -323,7 +323,7 @@ PhD student (2009–2014)
 Swimming with ciliates — dispersal and movement ecology of *T. thermophila*
 :::
 ::: now
-Now [postdoc @ University of Zurich (Switzerland)](https://www.frank-pennekamp.info/)
+Now [independent group leader @ University of Zurich (Switzerland)](https://www.frank-pennekamp.info/)
 :::
 :::
 :::
@@ -415,10 +415,13 @@ Postdoc
 ::: thesis
 Intraspecific variability, dispersal syndromes and meta-ecosystem functioning
 :::
+::: now
+Now [researcher @ INRAE Thonon-les-Bains (France)](https://allanraffard.wordpress.com/)
+:::
 :::
 :::
 :::
 
 ## Where are my mentees pursuing their career now?
 
-![Former mentees around the world](assets/img/mentees-map.jpg){fig-alt="World map showing where former mentees now work"}
+{{< include _includes/mentees_map.en.md >}}

@@ -6,6 +6,7 @@ Build the whole bilingual site in one command:
 
 Steps, in order:
   1. data/publications.csv  ->  _includes/*.md
+  1b. data/mentees.csv      ->  _includes/mentees_map.*.md
   2. English .qmd + data/translations.fr.json  ->  fr/*.qmd
   3. quarto render          (English -> _site/)
   4. quarto render in fr/   (French  -> _site/fr/)
@@ -32,6 +33,7 @@ def run(cmd, cwd, label):
 def main():
     py = sys.executable
     run([py, "build_publications.py"], TOOLS, "publications.csv -> _includes/")
+    run([py, "build_mentees_map.py"], TOOLS, "mentees.csv -> _includes/mentees_map.*.md")
     run([py, "build_french.py"], TOOLS, "English + translations -> fr/")
     run("quarto render", HERE, "render English -> _site/")
     run("quarto render", os.path.join(HERE, "fr"), "render French -> _site/fr/")

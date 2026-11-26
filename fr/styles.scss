@@ -541,3 +541,14 @@ a[href*="universitedesaines.be"] {
   color: #d00000 !important;
   text-decoration: underline wavy #d00000 !important;
 }
+
+/* Former mentees map (Mentoring page) */
+.mentees-map { height: 520px; border-radius: 10px; margin: 1rem 0 2rem; z-index: 0; }
+@media (max-width: 600px) { .mentees-map { height: 380px; } }
+.mentee-pin img {
+  width: 100%; height: 100%; object-fit: cover; border-radius: 50%;
+  border: 3px solid #fff; box-shadow: 0 0 0 2px #e0700f, 0 2px 6px rgba(0,0,0,.35);
+}
+.mentee-pin:hover img, .mentee-pin:focus img { box-shadow: 0 0 0 3px #1b2a8a, 0 2px 8px rgba(0,0,0,.45); }
+.leaflet-popup-content { font-size: .92rem; line-height: 1.35; }
+.mentee-place { color: #555; font-size: .85rem; }

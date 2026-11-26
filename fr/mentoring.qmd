@@ -308,7 +308,7 @@ Doctorant (2009–2014)
 Nager avec des ciliés — écologie de la dispersion et du mouvement de *T. thermophila*
 :::
 ::: now
-Maintenant [postdoc @ University of Zurich (Suisse)](https://www.frank-pennekamp.info/)
+Maintenant [chef de groupe indépendant @ Université de Zurich (Suisse)](https://www.frank-pennekamp.info/)
 :::
 :::
 :::
@@ -396,10 +396,13 @@ Postdoc
 ::: thesis
 Variabilité intraspécifique, syndromes de dispersion et fonctionnement des méta-écosystèmes
 :::
+::: now
+Maintenant [chercheur @ INRAE Thonon-les-Bains (France)](https://allanraffard.wordpress.com/)
+:::
 :::
 :::
 :::
 
 ## Où sont mes anciens mentorés aujourd'hui ?
 
-![Former mentees around the world](../assets/img/mentees-map.jpg){fig-alt="World map showing where former mentees now work"}
+{{< include _includes/mentees_map.fr.md >}}
