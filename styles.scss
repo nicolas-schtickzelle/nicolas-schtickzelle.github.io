@@ -449,3 +449,20 @@ main.content a { overflow-wrap: anywhere; }
   color: $ns-muted;
   text-align: right;
 }
+
+// Affiliation logos inside the home banner, on a white card so they stay legible
+.hero .hero-logos {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 1.6rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.6rem;
+  padding: .7rem 1.4rem;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, .94);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, .18);
+}
+.hero .hero-logos p { display: contents; }
+.hero .hero-logos img { max-height: 48px; width: auto; margin: 0; }
+@media (max-width: 600px) { .hero .hero-logos img { max-height: 36px; } }

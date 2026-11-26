@@ -7,6 +7,10 @@ pagetitle: "Publications"
 description: "Publications phares et liste complète des publications de Nicolas Schtickzelle."
 ---
 
+## Bibliométrie
+
+{{< include _includes/bibliometry.fr.md >}}
+
 ## Actualité des publications
 
 ::: theme

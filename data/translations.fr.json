@@ -257,10 +257,6 @@
    "en": "Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate",
    "fr": "Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.-FNRS"
   },
-  "index.qmd#46": {
-   "en": "## Bibliometry",
-   "fr": "## Bibliométrie"
-  },
   "index.qmd#5": {
    "en": "## Leader of the Quantitative Conservation Biology research group",
    "fr": "## Leader du groupe de recherche Quantitative Conservation Biology"
@@ -698,34 +694,38 @@
    "fr": "### Publications liées"
   },
   "publications.qmd#0": {
+   "en": "## Bibliometry",
+   "fr": "## Bibliométrie"
+  },
+  "publications.qmd#1": {
    "en": "## Latest publication news",
    "fr": "## Actualité des publications"
   },
-  "publications.qmd#1": {
+  "publications.qmd#2": {
    "en": "### New paper in [BMC Biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x)",
    "fr": "### Nouvel article dans [BMC Biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x)"
   },
-  "publications.qmd#2": {
+  "publications.qmd#3": {
    "en": "**Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology**",
    "fr": "**Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology**"
   },
-  "publications.qmd#3": {
+  "publications.qmd#4": {
    "en": "A large collaborative project showing how much the conclusions of an ecological study can depend on the analytical choices made by the person analysing the data.",
    "fr": "Un vaste projet collaboratif montrant à quel point les conclusions d'une étude écologique peuvent dépendre des choix analytiques de la personne qui analyse les données."
   },
-  "publications.qmd#4": {
+  "publications.qmd#5": {
    "en": "## Full publication list — peer-reviewed articles",
    "fr": "## Liste complète des publications — articles à comité de lecture"
   },
-  "publications.qmd#5": {
+  "publications.qmd#6": {
    "en": "## Full publication list — peer-reviewed book chapters",
    "fr": "## Liste complète des publications — chapitres de livres à comité de lecture"
   },
-  "publications.qmd#6": {
+  "publications.qmd#7": {
    "en": "**Reprints.** If you cannot access one of these papers, [ask me for a reprint](mailto:nicolas.schtickzelle@uclouvain.be?subject=Reprint%20request) — I am always happy to send one.",
    "fr": "**Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](mailto:nicolas.schtickzelle@uclouvain.be?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai."
   },
-  "publications.qmd#7": {
+  "publications.qmd#8": {
    "en": "[Full record on Google Scholar](https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en){.btn .btn-primary} [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906){.btn .btn-outline-secondary} [ResearchGate](https://www.researchgate.net/profile/Nicolas_Schtickzelle){.btn .btn-outline-secondary} [Web of Science](https://www.webofscience.com/wos/author/record/B-5916-2014){.btn .btn-outline-secondary}",
    "fr": "[Liste complète sur Google Scholar](https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en){.btn .btn-primary} [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906){.btn .btn-outline-secondary} [ResearchGate](https://www.researchgate.net/profile/Nicolas_Schtickzelle){.btn .btn-outline-secondary} [Web of Science](https://www.webofscience.com/wos/author/record/B-5916-2014){.btn .btn-outline-secondary}"
   },

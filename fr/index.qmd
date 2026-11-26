@@ -12,6 +12,12 @@ description: "«Comment les animaux réagissent-ils aux changements environnemen
 ::: tagline
 UCLouvain · Earth and Life Institute · Ecologie et Biodiversité
 :::
+
+::: hero-logos
+[![UCLouvain](../assets/img/uclouvain-logo.png){fig-alt="UCLouvain"}](https://uclouvain.be/en/index.html)
+[![Earth and Life Institute](../assets/img/eli-logo.png){fig-alt="Earth and Life Institute"}](https://uclouvain.be/en/research-institutes/eli)
+![Ecology and Biodiversity](../assets/img/eliv-logo.png){fig-alt="ELI Ecology and Biodiversity"}
+:::
 :::
 
 ::: intro
@@ -24,12 +30,6 @@ J'étudie principalement comment les populations réagissent au changement globa
 
 Je suis également intéressé par le développement de nouvelles méthodes de recherche en écologie et en évolution.
 :::
-:::
-
-::: affiliations
-[![UCLouvain](../assets/img/uclouvain-logo.png){fig-alt="UCLouvain"}](https://uclouvain.be/en/index.html)
-[![Earth and Life Institute](../assets/img/eli-logo.png){fig-alt="Earth and Life Institute"}](http://www.uclouvain.be/eli)
-![Ecology and Biodiversity](../assets/img/eliv-logo.png){fig-alt="ELI Ecology and Biodiversity"}
 :::
 
 ## Leader du groupe de recherche Quantitative Conservation Biology
@@ -211,9 +211,3 @@ Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.
 :::
 :::
 :::
-
-## Bibliométrie
-
-{{< include _includes/bibliometry.fr.md >}}
-
-[![Google Scholar citations](../assets/img/scholar-badge.jpg){fig-alt="Google Scholar citation badge" width="200"}](http://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en)

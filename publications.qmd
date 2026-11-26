@@ -4,6 +4,10 @@ pagetitle: "Publications"
 description: "Featured publications and full publication list of Nicolas Schtickzelle."
 ---
 
+## Bibliometry
+
+{{< include _includes/bibliometry.en.md >}}
+
 ## Latest publication news
 
 ::: theme
