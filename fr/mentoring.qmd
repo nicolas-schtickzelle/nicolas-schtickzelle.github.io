@@ -276,25 +276,6 @@ Choix d'habitat : évolution et conséquences éco-évolutives
 :::
 
 ::: card-ns
-![Kate Mitchell](../assets/img/mentee-mitchell.jpg){fig-alt="Kate Mitchell"}
-
-::: body
-::: name
-Dr. Kate Mitchell
-:::
-::: role
-Postdoc (2011–2012)
-:::
-::: thesis
-Plasticité phénotypique chez le cilié *Tetrahymena thermophila*
-:::
-::: now
-Maintenant postdoc @ Macquarie University (Australie)
-:::
-:::
-:::
-
-::: card-ns
 ![Thibaut Morel Journel](../assets/img/mentee-moreljournel.png){fig-alt="Thibaut Morel Journel"}
 
 ::: body
