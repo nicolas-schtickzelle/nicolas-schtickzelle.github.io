@@ -27,6 +27,8 @@ website:
     pinned: true
     left:
       - href: index.qmd
+        text: Home
+      - href: short-bio.qmd
         text: Short bio
       - href: research-interests.qmd
         text: Research interests

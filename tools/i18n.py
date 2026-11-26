@@ -21,6 +21,7 @@ MEMORY = os.path.join(HERE, "data", "translations.fr.json")
 
 PAGES = [
     "index.qmd",
+    "short-bio.qmd",
     "research-interests.qmd",
     "publications.qmd",
     "mentoring.qmd",

@@ -108,6 +108,16 @@ def main():
             with open(os.path.join(OUT, f"bibliometry.{lang}.md"), "w", encoding="utf-8") as fh:
                 fh.write(bibliometry_md(lang, b))
         print("wrote bibliometry (en, fr)")
+        # Home page: the 3 most recent articles + a one-line summary
+        latest = sorted(articles, key=lambda x: int(x["year"]), reverse=True)[:3]
+        lst = "<ol class=\"pubs pubs-home\">\n" + "\n".join(f"<li>{entry_html(r)}</li>" for r in latest) + "\n</ol>\n"
+        cit = f'{b["citations"]:,}'
+        line = {"en": f'::: home-biblio\n{b["articles"]} journal articles · {b["chapters"]} book chapters · {cit} citations · h-index {b["h_index"]}\n:::\n',
+                "fr": f'::: home-biblio\n{b["articles"]} articles · {b["chapters"]} chapitres de livres · {cit.replace(",", " ")} citations · h-index {b["h_index"]}\n:::\n'}
+        for lang in ("en", "fr"):
+            with open(os.path.join(OUT, f"home_pubs.{lang}.md"), "w", encoding="utf-8") as fh:
+                fh.write(lst + "\n" + line[lang])
+        print("wrote home_pubs (en, fr)")
 
 
 if __name__ == "__main__":

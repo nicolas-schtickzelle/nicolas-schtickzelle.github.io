@@ -1,0 +1,187 @@
+<!-- GENERATED FILE — do not edit.
+     Source: ../short-bio.qmd + ../data/translations.fr.json
+     Regenerate with: python tools/build_french.py -->
+---
+title: "Bio en bref"
+pagetitle: "Bio en bref"
+description: "Biographie succincte et étapes de carrière de Nicolas Schtickzelle, professeur d'écologie quantitative et de biologie de la conservation à l'UCLouvain."
+---
+<style>#title-block-header{background-image:url('../assets/img/banner-research.jpg')}</style>
+
+::: intro
+![Nicolas Schtickzelle](../assets/img/nicolas-portrait.png){fig-alt="Portrait of Nicolas Schtickzelle"}
+
+::: {}
+Je suis un biologiste, intéressé à comprendre le fonctionnement de la nature, passionné par la découverte des paysages naturels et de leurs organismes vivants à travers le monde.
+
+J'étudie principalement comment les populations réagissent au changement global et comment cela affecte leur viabilité à long terme.
+
+Je suis également intéressé par le développement de nouvelles méthodes de recherche en écologie et en évolution.
+:::
+:::
+
+## Etapes de ma carrière
+
+::: timeline
+::: item
+::: yr
+2024 – aujourd'hui
+:::
+::: what
+Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.-FNRS
+:::
+:::
+
+::: item
+::: yr
+2022 – aujourd'hui
+:::
+::: what
+Président de l'Ecole de biologie @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2021 – aujourd'hui
+:::
+::: what
+Président du Conseil de l'Earth and Life Institute @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2021 – 2024
+:::
+::: what
+Responsable du pôle Ecologie et Biodiversité de l'Earth and Life Institute @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2018 – 2024
+:::
+::: what
+Maître de recherches F.R.S.-FNRS @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2017 – 2024
+:::
+::: what
+Président de l'APERFU, l'association des chercheurs permanents F.R.S.-FNRS @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2015 – 2024
+:::
+::: what
+Professeur à temps partiel @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2010 – 2016
+:::
+::: what
+Président du Centre de recherche sur la biodiversité @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2008 – 2009
+:::
+::: what
+Secrétaire académique du Département de biologie @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2007 – 2018
+:::
+::: what
+Chercheur qualifié F.R.S.-FNRS @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2007 – 2015
+:::
+::: what
+Chargé de cours à temps partiel @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2005
+:::
+::: what
+Séjour postdoctoral (3 mois) chez le Prof. Thomas P. Quinn, University of Washington, Seattle, Etats-Unis
+:::
+:::
+
+::: item
+::: yr
+2004
+:::
+::: what
+Séjour postdoctoral (6 mois) chez le Dr Jean Clobert, Université Paris 6, France
+:::
+:::
+
+::: item
+::: yr
+2003 – 2007
+:::
+::: what
+Chercheur postdoctoral F.R.S.-FNRS avec le Prof. Michel Baguette @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2003
+:::
+::: what
+Doctorat en biologie, UCLouvain, Belgique — promoteurs Prof. Michel Baguette & Prof. Eric Le Boulengé
+:::
+:::
+
+::: item
+::: yr
+2001
+:::
+::: what
+Chercheur invité (4 mois, bourse Marie Curie) @ UFZ Leipzig, Allemagne
+:::
+:::
+
+::: item
+::: yr
+1999
+:::
+::: what
+Diplôme d'études approfondies en biologie, UCLouvain, Belgique
+:::
+:::
+
+::: item
+::: yr
+1997
+:::
+::: what
+Licence en biologie, UCLouvain, Belgique
+:::
+:::
+:::

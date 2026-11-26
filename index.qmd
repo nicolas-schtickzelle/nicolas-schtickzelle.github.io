@@ -18,21 +18,52 @@ Earth and Life Institute · Ecology and Biodiversity
 :::
 :::
 
-::: intro
+::: home-lead
 ![Nicolas Schtickzelle](assets/img/nicolas-portrait.png){fig-alt="Portrait of Nicolas Schtickzelle"}
 
 ::: {}
-I am a biologist, interested in understanding how nature works, passionate about
-discovering natural landscapes and their living organisms across the world.
+**How do populations react to global environmental change, and what does it mean
+for their long-term viability?** This question drives my research in quantitative
+ecology and conservation biology.
 
-I am mainly studying how populations react to global change and how this affects
-their long-term viability.
-
-I am also interested in developing new methods for research in ecology and evolution.
+[More about me: short bio and career →](short-bio.qmd)
 :::
 :::
 
-## Leader of the Quantitative Conservation Biology research group
+## Research
+
+::: home-cards
+::: home-card
+![*Boloria eunomia* butterflies](assets/img/boloria-mating.jpg){fig-alt="Boloria eunomia butterflies mating"}
+
+### Butterflies in the field
+
+Long-term monitoring and capture–mark–recapture of the bog fritillary *Boloria
+eunomia* in Belgium since 1992: metapopulation dynamics and movement.
+:::
+
+::: home-card
+![*Tetrahymena* movement trajectories](assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories"}
+
+### Protists in microcosms
+
+Laboratory experiments with the ciliate *Tetrahymena thermophila* to study the
+causes and consequences of dispersal.
+:::
+
+::: home-card
+![Population viability analysis](assets/img/pva-crystal-ball.png){fig-alt="Population viability analysis as a crystal ball"}
+
+### Quantitative modelling
+
+Population viability analysis to forecast species persistence, and new methods for
+research in ecology.
+:::
+:::
+
+[All research interests →](research-interests.qmd){.home-more}
+
+## The Quantitative Conservation Biology group
 
 ::: theme
 ::: {}
@@ -41,175 +72,35 @@ and global change, through dispersal, metapopulation dynamics and population via
 We combine field studies of butterflies, laboratory experiments with protists in microcosms
 and quantitative modelling to understand these processes and help reverse biodiversity loss.
 
-The zigzag arrow of our logo symbolizes the current decrease in biodiversity.
-The expanding butterflies reflect our will to contribute to its recovery.
+So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised.
+
+[Meet the team and our alumni →](mentoring.qmd){.home-more}
 :::
 
 ![Quantitative Conservation Biology group logo](assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
 :::
 
-## Career milestones
+## Latest publications
 
-::: timeline
-::: item
-::: yr
-2024 – today
-:::
-::: what
-Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate
-:::
-:::
+{{< include _includes/home_pubs.en.md >}}
 
-::: item
-::: yr
-2022 – today
-:::
-::: what
-President of the School of Biology @ UCLouvain
-:::
-:::
+[All publications and bibliometry →](publications.qmd){.home-more}
 
-::: item
-::: yr
-2021 – today
-:::
-::: what
-President of the Council of the Earth and Life Institute @ UCLouvain
-:::
-:::
+## Teaching
 
-::: item
-::: yr
-2021 – 2024
-:::
-::: what
-Head of the Ecology and Biodiversity section of the Earth and Life Institute @ UCLouvain
-:::
-:::
+I teach statistics, data analysis, conservation biology and the scientific approach
+to BSc and MSc students in Biology at UCLouvain: *Statistical principles and analysis
+of biological data* (LBIO1283), *Biodiversity conservation* (LBOE2120), *Scientific
+approach in biology* (LBIO1116) and *Data analysis and modeling of biological
+systems* (LBOE2112).
 
-::: item
-::: yr
-2018 – 2024
-:::
-::: what
-F.R.S.-FNRS Senior Research Associate @ UCLouvain
-:::
-:::
+[Course details →](teaching.qmd){.home-more}
 
-::: item
-::: yr
-2017 – 2024
-:::
-::: what
-President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UCLouvain
-:::
-:::
+## Contact
 
-::: item
-::: yr
-2015 – 2024
-:::
-::: what
-Part-time professor @ UCLouvain
-:::
-:::
+::: home-contact
+**Email:** [nicolas.schtickzelle \[at\] uclouvain.be](#email)\
+**Office:** Carnoy building, room c.157, Croix du Sud 4, Louvain-la-Neuve
 
-::: item
-::: yr
-2010 – 2016
-:::
-::: what
-President of the Biodiversity Research Centre @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2008 – 2009
-:::
-::: what
-Academic secretary of the Department of Biology @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2007 – 2018
-:::
-::: what
-F.R.S.-FNRS Research Associate @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2007 – 2015
-:::
-::: what
-Part-time lecturer @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2005
-:::
-::: what
-Postdoc stay (3 months) with Prof. Thomas P. Quinn, University of Washington, Seattle, USA
-:::
-:::
-
-::: item
-::: yr
-2004
-:::
-::: what
-Postdoc stay (6 months) with Dr. Jean Clobert, Université Paris 6, France
-:::
-:::
-
-::: item
-::: yr
-2003 – 2007
-:::
-::: what
-F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2003
-:::
-::: what
-PhD in Biology, UCLouvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé
-:::
-:::
-
-::: item
-::: yr
-2001
-:::
-::: what
-Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany
-:::
-:::
-
-::: item
-::: yr
-1999
-:::
-::: what
-Master of advanced studies in Biology, UCLouvain, Belgium
-:::
-:::
-
-::: item
-::: yr
-1997
-:::
-::: what
-Master in Biology, UCLouvain, Belgium
-:::
-:::
+[Address, map and directions →](contact.qmd){.home-more}
 :::
