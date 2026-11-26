@@ -56,7 +56,25 @@ The expanding butterflies reflect our will to contribute to its recovery.
 1997
 :::
 ::: what
-BSc in Biology, Université catholique de Louvain, Belgium
+Master in Biology, Université catholique de Louvain, Belgium
+:::
+:::
+
+::: item
+::: yr
+1999
+:::
+::: what
+Master of advanced studies in Biology, Université catholique de Louvain, Belgium
+:::
+:::
+
+::: item
+::: yr
+2001
+:::
+::: what
+Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany
 :::
 :::
 
@@ -65,16 +83,16 @@ BSc in Biology, Université catholique de Louvain, Belgium
 2003
 :::
 ::: what
-PhD in Biology, Université catholique de Louvain, Belgium
+PhD in Biology, Université catholique de Louvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé
 :::
 :::
 
 ::: item
 ::: yr
-2003
+2003 – 2007
 :::
 ::: what
-Postdoc with Prof. Michel Baguette, Université catholique de Louvain, Belgium
+F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ Université catholique de Louvain
 :::
 :::
 
@@ -83,7 +101,7 @@ Postdoc with Prof. Michel Baguette, Université catholique de Louvain, Belgium
 2004
 :::
 ::: what
-Postdoc stay with Dr. Jean Clobert, Université Paris 6, France
+Postdoc stay (6 months) with Dr. Jean Clobert, Université Paris 6, France
 :::
 :::
 
@@ -92,49 +110,94 @@ Postdoc stay with Dr. Jean Clobert, Université Paris 6, France
 2005
 :::
 ::: what
-Postdoc stay with Prof. Thomas P. Quinn, University of Washington, Seattle, USA
+Postdoc stay (3 months) with Prof. Thomas P. Quinn, University of Washington, Seattle, USA
 :::
 :::
 
 ::: item
 ::: yr
-2007
+2007 – 2018
 :::
 ::: what
-Research associate (F.R.S.-FNRS) & Lecturer @ Université catholique de Louvain
+F.R.S.-FNRS Research Associate @ Université catholique de Louvain
 :::
 :::
 
 ::: item
 ::: yr
-2008
+2007 – 2015
 :::
 ::: what
-President of the Biodiversity Research Centre @ Université catholique de Louvain
+Part-time lecturer @ Université catholique de Louvain
 :::
 :::
 
 ::: item
 ::: yr
-2015
+2008 – 2009
 :::
 ::: what
-Research associate (F.R.S.-FNRS) & Professor @ Université catholique de Louvain
+Academic secretary of the Department of Biology @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2018
+2010 – 2016
 :::
 ::: what
-Senior research associate (F.R.S.-FNRS) & Professor @ Université catholique de Louvain
+President of the Biodiversity Research Centre @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2022
+2015 – 2024
+:::
+::: what
+Part-time professor @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2017 – 2024
+:::
+::: what
+President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2018 – 2024
+:::
+::: what
+F.R.S.-FNRS Senior Research Associate @ Université catholique de Louvain
+:::
+:::
+
+::: item
+::: yr
+2021 – 2024
+:::
+::: what
+Head of the Ecology and Biodiversity section of the Earth and Life Institute @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2021 – today
+:::
+::: what
+President of the Council of the Earth and Life Institute @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2022 – today
 :::
 ::: what
 President of the School of Biology @ UCLouvain
@@ -143,10 +206,10 @@ President of the School of Biology @ UCLouvain
 
 ::: item
 ::: yr
-2024
+2024 – today
 :::
 ::: what
-Professor @ Université catholique de Louvain
+Full-time professor @ Université catholique de Louvain, and Honorary F.R.S.-FNRS Senior Research Associate
 :::
 :::
 :::
