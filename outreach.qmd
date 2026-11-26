@@ -3,7 +3,7 @@ title: "Outreach"
 pagetitle: "Outreach"
 description: "As a scientist, I am involved in outreach activities for the general public."
 ---
-<style>#title-block-header{--banner:url('assets/img/banner-outreach.jpg')}</style>
+<style>#title-block-header{background-image:url('assets/img/banner-outreach.jpg')}</style>
 
 
 As a scientist, I believe it is part of my mission to transmit scientific knowledge

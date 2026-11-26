@@ -6,7 +6,7 @@ title: "Contact"
 pagetitle: "Contact"
 description: "Adresse et plan d'accès à notre laboratoire."
 ---
-<style>#title-block-header{--banner:url('../assets/img/banner-contact.jpg')}</style>
+<style>#title-block-header{background-image:url('../assets/img/banner-contact.jpg')}</style>
 
 
 ::: contact-grid

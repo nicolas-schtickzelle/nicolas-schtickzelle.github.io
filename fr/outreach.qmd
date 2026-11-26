@@ -6,7 +6,7 @@ title: "Vulgarisation"
 pagetitle: "Vulgarisation"
 description: "En tant que scientifique, je participe à des activités de vulgarisation pour le grand public."
 ---
-<style>#title-block-header{--banner:url('../assets/img/banner-outreach.jpg')}</style>
+<style>#title-block-header{background-image:url('../assets/img/banner-outreach.jpg')}</style>
 
 
 En tant que scientifique, je pense que ma mission est de transmettre les connaissances scientifiques au grand public, notamment parce que la science a un rôle important à jouer dans la définition des stratégies permettant de relever les grands défis de société du XXIe siècle.

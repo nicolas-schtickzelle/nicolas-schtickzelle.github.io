@@ -498,8 +498,9 @@ main.content a { overflow-wrap: anywhere; }
 }
 
 // --- photo banners on inner pages -------------------------------------------
-// Each page sets --banner in a one-line <style> under its front matter, so the
-// image path is resolved relative to the page (works for /fr/ too).
+// Each page sets its photo in a one-line <style> under its front matter
+// (#title-block-header{background-image:url('assets/img/...')}), so the path is
+// resolved relative to the page and works for /fr/ too. The navy tint is ::before.
 #title-block-header:has(h1.title) {
   position: relative;
   overflow: hidden;
@@ -508,23 +509,24 @@ main.content a { overflow-wrap: anywhere; }
   flex-direction: column;
   justify-content: center;
   padding: 2rem 2.2rem;
-  background-image:
-    linear-gradient(90deg, rgba(16, 25, 92, .92) 0%, rgba(16, 25, 92, .80) 38%,
-                    rgba(16, 25, 92, .12) 66%, rgba(16, 25, 92, 0) 100%),
-    var(--banner, none),
-    linear-gradient(120deg, $ns-green-dark, $ns-green);
-  background-size: cover, cover, cover;
-  background-position: center, right center, center;
+  background-color: $ns-green-dark;
+  background-size: cover;
+  background-position: right center;
 }
+#title-block-header:has(h1.title)::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(16, 25, 92, .92) 0%, rgba(16, 25, 92, .80) 38%,
+                              rgba(16, 25, 92, .12) 66%, rgba(16, 25, 92, 0) 100%);
+}
+#title-block-header:has(h1.title) > * { position: relative; }
 #title-block-header:has(h1.title) h1.title,
 #title-block-header:has(h1.title) .description { max-width: 58%; }
 @media (max-width: 700px) {
-  #title-block-header:has(h1.title) {
-    min-height: 150px;
-    background-image:
-      linear-gradient(180deg, rgba(16, 25, 92, .86), rgba(16, 25, 92, .62)),
-      var(--banner, none),
-      linear-gradient(120deg, $ns-green-dark, $ns-green);
+  #title-block-header:has(h1.title) { min-height: 150px; }
+  #title-block-header:has(h1.title)::before {
+    background: linear-gradient(180deg, rgba(16, 25, 92, .86), rgba(16, 25, 92, .62));
   }
   #title-block-header:has(h1.title) h1.title,
   #title-block-header:has(h1.title) .description { max-width: 100%; }

@@ -6,7 +6,7 @@ title: "Mentorat"
 pagetitle: "Mentorat"
 description: "Ma philosophie de mentorat et liste de mes (anciens) mentorés."
 ---
-<style>#title-block-header{--banner:url('../assets/img/banner-mentoring.jpg')}</style>
+<style>#title-block-header{background-image:url('../assets/img/banner-mentoring.jpg')}</style>
 
 
 Le mentorat a toujours occupé une place importante dans ma vie, de l'école à responsable de groupe de recherche.

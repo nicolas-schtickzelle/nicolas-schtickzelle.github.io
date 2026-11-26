@@ -3,7 +3,7 @@ title: "Teaching"
 pagetitle: "Teaching"
 description: "My teaching philosophy and description of the courses I give @ UCLouvain."
 ---
-<style>#title-block-header{--banner:url('assets/img/banner-teaching.jpg')}</style>
+<style>#title-block-header{background-image:url('assets/img/banner-teaching.jpg')}</style>
 
 
 Besides mentoring individuals, I also very much like to share my knowledge through

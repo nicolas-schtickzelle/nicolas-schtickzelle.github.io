@@ -3,7 +3,7 @@ title: "Contact"
 pagetitle: "Contact"
 description: "Address and maps to our laboratory."
 ---
-<style>#title-block-header{--banner:url('assets/img/banner-contact.jpg')}</style>
+<style>#title-block-header{background-image:url('assets/img/banner-contact.jpg')}</style>
 
 
 ::: contact-grid

@@ -6,7 +6,7 @@ title: "Enseignement"
 pagetitle: "Enseignement"
 description: "Ma philosophie d'enseignement et la description des cours que je donne à l'UCLouvain."
 ---
-<style>#title-block-header{--banner:url('../assets/img/banner-teaching.jpg')}</style>
+<style>#title-block-header{background-image:url('../assets/img/banner-teaching.jpg')}</style>
 
 
 Outre le mentorat individuel, j'aime aussi beaucoup partager mes connaissances par le biais de l'enseignement.

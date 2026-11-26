@@ -3,7 +3,7 @@ title: "Postdoc position"
 pagetitle: "Postdoc position"
 description: "Open positions in the Quantitative Conservation Biology group."
 ---
-<style>#title-block-header{--banner:url('assets/img/banner-postdoc.jpg')}</style>
+<style>#title-block-header{background-image:url('assets/img/banner-postdoc.jpg')}</style>
 
 
 ::: note-box

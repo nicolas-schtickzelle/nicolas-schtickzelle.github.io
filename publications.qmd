@@ -3,7 +3,7 @@ title: "Publications"
 pagetitle: "Publications"
 description: "Featured publications and full publication list of Nicolas Schtickzelle."
 ---
-<style>#title-block-header{--banner:url('assets/img/banner-publications.jpg')}</style>
+<style>#title-block-header{background-image:url('assets/img/banner-publications.jpg')}</style>
 
 
 ## Bibliometry
