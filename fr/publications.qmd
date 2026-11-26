@@ -36,7 +36,7 @@ Un vaste projet collaboratif montrant à quel point les conclusions d'une étude
 {{< include _includes/chapters.md >}}
 
 ::: note-box
-**Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](mailto:nicolas.schtickzelle@uclouvain.be?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai.
+**Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](#email?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai.
 
 :::
 

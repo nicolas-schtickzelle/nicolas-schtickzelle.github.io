@@ -27,7 +27,7 @@ Belgique
 ::: {}
 ## Contactez-moi
 
-**Email :** [nicolas.schtickzelle@uclouvain.be](mailto:nicolas.schtickzelle@uclouvain.be)
+**Email :** [nicolas.schtickzelle \[at\] uclouvain.be](#email)
 
 **Téléphone :** +32 10 47 20 52
 
@@ -41,6 +41,6 @@ Belgique
 
 ## Plan d'accès
 
-<iframe class="map-embed" title="Map to the Quantitative Conservation Biology Lab" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.openstreetmap.org/export/embed.html?bbox=4.6060%2C50.6640%2C4.6220%2C50.6720&layer=mapnik&marker=50.6680%2C4.6140"></iframe>
+<iframe class="map-embed" title="Map to the Quantitative Conservation Biology Lab" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.openstreetmap.org/export/embed.html?bbox=4.6130%2C50.6635%2C4.6260%2C50.6698&layer=mapnik&marker=50.66662%2C4.61937"></iframe>
 
-[Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)
+[Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.66662&mlon=4.61937#map=18/50.66662/4.61937) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)

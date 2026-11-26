@@ -530,3 +530,14 @@ main.content a { overflow-wrap: anywhere; }
   #title-block-header:has(h1.title) h1.title,
   #title-block-header:has(h1.title) .description { max-width: 100%; }
 }
+
+/* TEMPORARY: broken external links shown in red for review (remove when fixed) */
+a[href*="eauetclimat.be"],
+a[href*="nuitdeschercheurs.be/2010"],
+a[href*="european-researchers-night-2020"],
+a[href*="sciencetoday/actualites/s-adapter-ou-changer-d-habitat"],
+a[href*="sciencetoday/news/disperser-pour-survivre"],
+a[href*="universitedesaines.be"] {
+  color: #d00000 !important;
+  text-decoration: underline wavy #d00000 !important;
+}

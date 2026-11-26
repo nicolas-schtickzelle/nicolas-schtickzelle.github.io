@@ -1,0 +1,13 @@
+<script>
+/* Anti-spam: the address is never written in full in the page source. */
+(function () {
+  var a = ["nicolas", "schtickzelle"].join(".") + String.fromCharCode(64) + ["uclouvain", "be"].join(".");
+  document.querySelectorAll('a[href^="#email"]').forEach(function (el) {
+    el.setAttribute("href", "mailto:" + a + el.getAttribute("href").slice(6));
+    el.removeAttribute("target");
+    el.childNodes.forEach(function (n) {
+      if (n.nodeType === 3 && n.nodeValue.indexOf("[at]") > -1) n.nodeValue = a;
+    });
+  });
+})();
+</script>

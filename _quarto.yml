@@ -51,7 +51,7 @@ website:
         href: https://www.linkedin.com/in/nicolas-schtickzelle-b64834b3/
         aria-label: LinkedIn
       - icon: envelope
-        href: mailto:nicolas.schtickzelle@uclouvain.be
+        href: "#email"
         aria-label: Email
 
   page-footer:
@@ -70,5 +70,6 @@ format:
     anchor-sections: false
     smooth-scroll: true
     link-external-newwindow: true
+    include-after-body: _includes/email.html
     grid:
       body-width: 1000px

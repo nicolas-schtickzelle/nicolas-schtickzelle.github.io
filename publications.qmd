@@ -36,7 +36,7 @@ study can depend on the analytical choices made by the person analysing the data
 
 ::: note-box
 **Reprints.** If you cannot access one of these papers,
-[ask me for a reprint](mailto:nicolas.schtickzelle@uclouvain.be?subject=Reprint%20request)
+[ask me for a reprint](#email?subject=Reprint%20request)
 — I am always happy to send one.
 
 :::

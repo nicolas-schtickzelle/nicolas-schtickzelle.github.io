@@ -120,7 +120,11 @@ environmental modulation in a ciliate
 :::
 :::
 :::
+:::
 
+## Former mentees
+
+::: cards
 ::: card-ns
 ![Tessa de Bruin](assets/img/mentee-debruin.jpg){fig-alt="Tessa de Bruin"}
 
@@ -129,7 +133,7 @@ environmental modulation in a ciliate
 Tessa de Bruin
 :::
 ::: role
-PhD student (2018–)
+PhD student (from 2018)
 :::
 ::: thesis
 The role of intraspecific variation in modulating the effects of environmental
@@ -137,11 +141,7 @@ change drivers on ecological systems (ciliated protists)
 :::
 :::
 :::
-:::
 
-## Former mentees
-
-::: cards
 ::: card-ns
 ![Julie Choutt](assets/img/mentee-choutt.jpg){fig-alt="Julie Choutt"}
 

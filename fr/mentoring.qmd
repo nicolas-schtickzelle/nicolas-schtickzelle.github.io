@@ -114,7 +114,11 @@ Dévoiler les processus à l'origine de la dispersion, sa variation intraspécif
 :::
 :::
 :::
+:::
 
+## Anciens mentorés
+
+::: cards
 ::: card-ns
 ![Tessa de Bruin](../assets/img/mentee-debruin.jpg){fig-alt="Tessa de Bruin"}
 
@@ -123,18 +127,14 @@ Dévoiler les processus à l'origine de la dispersion, sa variation intraspécif
 Tessa de Bruin
 :::
 ::: role
-Doctorante (2018–)
+Doctorante (à partir de 2018)
 :::
 ::: thesis
 Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (protistes ciliés)
 :::
 :::
 :::
-:::
 
-## Anciens mentorés
-
-::: cards
 ::: card-ns
 ![Julie Choutt](../assets/img/mentee-choutt.jpg){fig-alt="Julie Choutt"}
 

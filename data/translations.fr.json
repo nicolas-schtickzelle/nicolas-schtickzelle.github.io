@@ -52,10 +52,6 @@
    "en": "**Quantitative Conservation Biology Lab**\\ Prof. Nicolas Schtickzelle",
    "fr": "**Quantitative Conservation Biology Lab**\\\nProf. Nicolas Schtickzelle"
   },
-  "contact.qmd#10": {
-   "en": "[Open in OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) · [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)",
-   "fr": "[Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6680&mlon=4.6140#map=17/50.6680/4.6140) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)"
-  },
   "contact.qmd#2": {
    "en": "UCLouvain\\ Earth and Life Institute — Ecology & Biodiversity",
    "fr": "UCLouvain\\\nEarth and Life Institute — Ecologie & Biodiversité"
@@ -69,8 +65,8 @@
    "fr": "## Contactez-moi"
   },
   "contact.qmd#5": {
-   "en": "**Email:** [nicolas.schtickzelle@uclouvain.be](mailto:nicolas.schtickzelle@uclouvain.be)",
-   "fr": "**Email :** [nicolas.schtickzelle@uclouvain.be](mailto:nicolas.schtickzelle@uclouvain.be)"
+   "en": "**Email:** [nicolas.schtickzelle \\[at\\] uclouvain.be](#email)",
+   "fr": "**Email :** [nicolas.schtickzelle \\[at\\] uclouvain.be](#email)"
   },
   "contact.qmd#6": {
    "en": "**Phone:** +32 10 47 20 52",
@@ -88,6 +84,10 @@
    "en": "## Find us",
    "fr": "## Plan d'accès"
   },
+  "contact.qmd#10": {
+   "en": "[Open in OpenStreetMap](https://www.openstreetmap.org/?mlat=50.66662&mlon=4.61937#map=18/50.66662/4.61937) · [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)",
+   "fr": "[Ouvrir dans OpenStreetMap](https://www.openstreetmap.org/?mlat=50.66662&mlon=4.61937#map=18/50.66662/4.61937) · [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Croix+du+Sud+4,+1348+Louvain-la-Neuve,+Belgium)"
+  },
   "index.qmd#0": {
    "en": "# Researcher and Professor in Quantitative Ecology and Conservation Biology",
    "fr": "# Chercheur et Professeur en écologie quantitative et biologie de la conservation"
@@ -95,6 +95,38 @@
   "index.qmd#1": {
    "en": "UCLouvain (Louvain-la-Neuve, Belgium)\\ Earth and Life Institute · Ecology and Biodiversity",
    "fr": "UCLouvain (Louvain-la-Neuve, Belgique)\\\nEarth and Life Institute · Ecologie et Biodiversité"
+  },
+  "index.qmd#2": {
+   "en": "I am a biologist, interested in understanding how nature works, passionate about discovering natural landscapes and their living organisms across the world.",
+   "fr": "Je suis un biologiste, intéressé à comprendre le fonctionnement de la nature, passionné par la découverte des paysages naturels et de leurs organismes vivants à travers le monde."
+  },
+  "index.qmd#3": {
+   "en": "I am mainly studying how populations react to global change and how this affects their long-term viability.",
+   "fr": "J'étudie principalement comment les populations réagissent au changement global et comment cela affecte leur viabilité à long terme."
+  },
+  "index.qmd#4": {
+   "en": "I am also interested in developing new methods for research in ecology and evolution.",
+   "fr": "Je suis également intéressé par le développement de nouvelles méthodes de recherche en écologie et en évolution."
+  },
+  "index.qmd#5": {
+   "en": "## Leader of the Quantitative Conservation Biology research group",
+   "fr": "## Leader du groupe de recherche Quantitative Conservation Biology"
+  },
+  "index.qmd#6": {
+   "en": "We are a small, collaborative team studying how populations cope with habitat fragmentation and global change, through dispersal, metapopulation dynamics and population viability. We combine field studies of butterflies, laboratory experiments with protists in microcosms and quantitative modelling to understand these processes and help reverse biodiversity loss.",
+   "fr": "Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats\net aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.\nNous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes\net la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité."
+  },
+  "index.qmd#7": {
+   "en": "The zigzag arrow of our logo symbolizes the current decrease in biodiversity. The expanding butterflies reflect our will to contribute to its recovery.",
+   "fr": "La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversité. Les papillons qui grandissent en s'envolant reflètent notre volonté de contribuer à limiter ce déclin."
+  },
+  "index.qmd#8": {
+   "en": "## Career milestones",
+   "fr": "## Etapes de ma carrière"
+  },
+  "index.qmd#9": {
+   "en": "2024 – today",
+   "fr": "2024 – aujourd'hui"
   },
   "index.qmd#10": {
    "en": "Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate",
@@ -136,10 +168,6 @@
    "en": "2017 – 2024",
    "fr": "2017 – 2024"
   },
-  "index.qmd#2": {
-   "en": "I am a biologist, interested in understanding how nature works, passionate about discovering natural landscapes and their living organisms across the world.",
-   "fr": "Je suis un biologiste, intéressé à comprendre le fonctionnement de la nature, passionné par la découverte des paysages naturels et de leurs organismes vivants à travers le monde."
-  },
   "index.qmd#20": {
    "en": "President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UCLouvain",
    "fr": "Président de l'APERFU, l'association des chercheurs permanents F.R.S.-FNRS @ UCLouvain"
@@ -179,10 +207,6 @@
   "index.qmd#29": {
    "en": "2007 – 2015",
    "fr": "2007 – 2015"
-  },
-  "index.qmd#3": {
-   "en": "I am mainly studying how populations react to global change and how this affects their long-term viability.",
-   "fr": "J'étudie principalement comment les populations réagissent au changement global et comment cela affecte leur viabilité à long terme."
   },
   "index.qmd#30": {
    "en": "Part-time lecturer @ UCLouvain",
@@ -224,10 +248,6 @@
    "en": "2001",
    "fr": "2001"
   },
-  "index.qmd#4": {
-   "en": "I am also interested in developing new methods for research in ecology and evolution.",
-   "fr": "Je suis également intéressé par le développement de nouvelles méthodes de recherche en écologie et en évolution."
-  },
   "index.qmd#40": {
    "en": "Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany",
    "fr": "Chercheur invité (4 mois, bourse Marie Curie) @ UFZ Leipzig, Allemagne"
@@ -248,26 +268,6 @@
    "en": "Master in Biology, UCLouvain, Belgium",
    "fr": "Licence en biologie, UCLouvain, Belgique"
   },
-  "index.qmd#5": {
-   "en": "## Leader of the Quantitative Conservation Biology research group",
-   "fr": "## Leader du groupe de recherche Quantitative Conservation Biology"
-  },
-  "index.qmd#6": {
-   "en": "We are a small, collaborative team studying how populations cope with habitat fragmentation and global change, through dispersal, metapopulation dynamics and population viability. We combine field studies of butterflies, laboratory experiments with protists in microcosms and quantitative modelling to understand these processes and help reverse biodiversity loss.",
-   "fr": "Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats\net aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.\nNous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes\net la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité."
-  },
-  "index.qmd#7": {
-   "en": "The zigzag arrow of our logo symbolizes the current decrease in biodiversity. The expanding butterflies reflect our will to contribute to its recovery.",
-   "fr": "La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversité. Les papillons qui grandissent en s'envolant reflètent notre volonté de contribuer à limiter ce déclin."
-  },
-  "index.qmd#8": {
-   "en": "## Career milestones",
-   "fr": "## Etapes de ma carrière"
-  },
-  "index.qmd#9": {
-   "en": "2024 – today",
-   "fr": "2024 – aujourd'hui"
-  },
   "mentoring.qmd#0": {
    "en": "Mentoring has always had an important place in my life, from high school to research group leader.",
    "fr": "Le mentorat a toujours occupé une place importante dans ma vie, de l'école à responsable de groupe de recherche."
@@ -275,6 +275,38 @@
   "mentoring.qmd#1": {
    "en": "For my team, I aim to perform innovative and high-quality research in a mutually supportive and attractive working environment, where students and collaborators blossom into satisfied and recognized researchers.",
    "fr": "Pour mon équipe, mon objectif est de mener des recherches innovantes et de grande qualité dans un environnement de travail attractif et collaboratif, dans lequel les étudiants et les collaborateurs s'épanouissent pour devenir des chercheurs heureux et reconnus."
+  },
+  "mentoring.qmd#2": {
+   "en": "As a PI, I am committed to invest my deepest energy into the supervision of young researchers from my own team and visitors from my research network. An important proportion of my former mentees were able to pursue a career in academia.",
+   "fr": "En tant que mentor, je m'engage à investir toute mon énergie dans l'encadrement des jeunes chercheurs de mon équipe et des visiteurs de mon réseau de recherche. Une part importante de mes anciens mentorés ont pu poursuivre leur carrière dans le monde académique."
+  },
+  "mentoring.qmd#3": {
+   "en": "I am always welcoming motivated students and researchers; if you are interested, don't hesitate to [get in touch](contact.qmd).",
+   "fr": "Je suis toujours prêt à accueillir des étudiants et des chercheurs motivés. Si vous êtes intéressé, n'hésitez pas à [me contacter](contact.qmd)."
+  },
+  "mentoring.qmd#4": {
+   "en": "8",
+   "fr": "8"
+  },
+  "mentoring.qmd#5": {
+   "en": "postdocs",
+   "fr": "postdocs"
+  },
+  "mentoring.qmd#6": {
+   "en": "7",
+   "fr": "7"
+  },
+  "mentoring.qmd#7": {
+   "en": "PhD theses completed",
+   "fr": "thèses de doctorat terminées"
+  },
+  "mentoring.qmd#8": {
+   "en": "4",
+   "fr": "4"
+  },
+  "mentoring.qmd#9": {
+   "en": "on-going PhD theses",
+   "fr": "thèses en cours"
   },
   "mentoring.qmd#10": {
    "en": "50",
@@ -316,10 +348,6 @@
    "en": "PhD student (2022–)",
    "fr": "Doctorant (2022–)"
   },
-  "mentoring.qmd#2": {
-   "en": "As a PI, I am committed to invest my deepest energy into the supervision of young researchers from my own team and visitors from my research network. An important proportion of my former mentees were able to pursue a career in academia.",
-   "fr": "En tant que mentor, je m'engage à investir toute mon énergie dans l'encadrement des jeunes chercheurs de mon équipe et des visiteurs de mon réseau de recherche. Une part importante de mes anciens mentorés ont pu poursuivre leur carrière dans le monde académique."
-  },
   "mentoring.qmd#20": {
    "en": "Impacts and interactions of multiple environmental change drivers in nature: a metapopulation viability analysis of *Boloria eunomia* in Belgian Ardenne",
    "fr": "Impacts et interactions de multiples facteurs de changement environnemental dans la nature : une analyse de viabilité de métapopulation de *Boloria eunomia* en Ardenne belge"
@@ -337,20 +365,20 @@
    "fr": "Dévoiler les processus à l'origine de la dispersion, sa variation intraspécifique et sa modulation environnementale chez un cilié"
   },
   "mentoring.qmd#24": {
+   "en": "## Former mentees",
+   "fr": "## Anciens mentorés"
+  },
+  "mentoring.qmd#25": {
    "en": "Tessa de Bruin",
    "fr": "Tessa de Bruin"
   },
-  "mentoring.qmd#25": {
-   "en": "PhD student (2018–)",
-   "fr": "Doctorante (2018–)"
-  },
   "mentoring.qmd#26": {
-   "en": "The role of intraspecific variation in modulating the effects of environmental change drivers on ecological systems (ciliated protists)",
-   "fr": "Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (protistes ciliés)"
+   "en": "PhD student (from 2018)",
+   "fr": "Doctorante (à partir de 2018)"
   },
   "mentoring.qmd#27": {
-   "en": "## Former mentees",
-   "fr": "## Anciens mentorés"
+   "en": "The role of intraspecific variation in modulating the effects of environmental change drivers on ecological systems (ciliated protists)",
+   "fr": "Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (protistes ciliés)"
   },
   "mentoring.qmd#28": {
    "en": "Dr. Julie Choutt",
@@ -359,10 +387,6 @@
   "mentoring.qmd#29": {
    "en": "PhD student (2007–2011)",
    "fr": "Doctorante (2007–2011)"
-  },
-  "mentoring.qmd#3": {
-   "en": "I am always welcoming motivated students and researchers; if you are interested, don't hesitate to [get in touch](contact.qmd).",
-   "fr": "Je suis toujours prêt à accueillir des étudiants et des chercheurs motivés. Si vous êtes intéressé, n'hésitez pas à [me contacter](contact.qmd)."
   },
   "mentoring.qmd#30": {
    "en": "The butterfly and the wasp: host–parasitoid relationship between *Boloria eunomia* and *Cotesia eunomiae*",
@@ -404,10 +428,6 @@
    "en": "Postdoc (2016–2018)",
    "fr": "Postdoc (2016–2018)"
   },
-  "mentoring.qmd#4": {
-   "en": "8",
-   "fr": "8"
-  },
   "mentoring.qmd#40": {
    "en": "Role of nonrandom dispersal in spatial heterogeneity of phenotypes and species response to environmental change",
    "fr": "Rôle de la dispersion non aléatoire dans l'hétérogénéité spatiale des phénotypes et la réponse des espèces aux changements environnementaux"
@@ -447,10 +467,6 @@
   "mentoring.qmd#49": {
    "en": "Dr. Delphine Legrand",
    "fr": "Dr. Delphine Legrand"
-  },
-  "mentoring.qmd#5": {
-   "en": "postdocs",
-   "fr": "postdocs"
   },
   "mentoring.qmd#50": {
    "en": "Postdoc (2014–2015)",
@@ -492,10 +508,6 @@
    "en": "Now postdoc @ Macquarie University (Australia)",
    "fr": "Maintenant postdoc @ Macquarie University (Australie)"
   },
-  "mentoring.qmd#6": {
-   "en": "7",
-   "fr": "7"
-  },
   "mentoring.qmd#60": {
    "en": "Dr. Thibaut Morel Journel",
    "fr": "Dr. Thibaut Morel Journel"
@@ -535,10 +547,6 @@
   "mentoring.qmd#69": {
    "en": "PhD student (2008–2012) · Postdoc (2012–2013)",
    "fr": "Doctorante (2008–2012) · Postdoc (2012–2013)"
-  },
-  "mentoring.qmd#7": {
-   "en": "PhD theses completed",
-   "fr": "thèses de doctorat terminées"
   },
   "mentoring.qmd#70": {
    "en": "Dealing with biological complexity in Population Viability Analysis: lessons from two endangered butterfly species",
@@ -580,10 +588,6 @@
    "en": "PhD student (2007–2009) · Postdoc (2011–2015)",
    "fr": "Doctorante (2007–2009) · Postdoc (2011–2015)"
   },
-  "mentoring.qmd#8": {
-   "en": "4",
-   "fr": "4"
-  },
   "mentoring.qmd#80": {
    "en": "Habitat from a butterfly's point of view: how specialist butterflies map onto ecological resources",
    "fr": "L'habitat du point de vue du papillon : comment les papillons spécialistes se calent sur les ressources écologiques"
@@ -608,10 +612,6 @@
    "en": "## Where are my mentees pursuing their career now?",
    "fr": "## Où sont mes anciens mentorés aujourd'hui ?"
   },
-  "mentoring.qmd#9": {
-   "en": "on-going PhD theses",
-   "fr": "thèses en cours"
-  },
   "outreach.qmd#0": {
    "en": "As a scientist, I believe it is part of my mission to transmit scientific knowledge to the general public, especially because science has an important role to play in defining the strategies to tackle the major societal challenges of the XXIst century.",
    "fr": "En tant que scientifique, je pense que ma mission est de transmettre les connaissances scientifiques au grand public, notamment parce que la science a un rôle important à jouer dans la définition des stratégies permettant de relever les grands défis de société du XXIe siècle."
@@ -619,26 +619,6 @@
   "outreach.qmd#1": {
    "en": "I am happy to talk at conferences, organize workshops for school students, or write articles for scientific outreach websites.",
    "fr": "Je suis heureux de prendre la parole lors de conférences, d'organiser des ateliers pour les écoliers ou d'écrire des articles pour des sites web de vulgarisation scientifique."
-  },
-  "outreach.qmd#10": {
-   "en": "- [S'adapter ou changer d'habitat ?](https://uclouvain.be/fr/sciencetoday/actualites/s-adapter-ou-changer-d-habitat.html) - [Disperser pour survivre](https://uclouvain.be/en/sciencetoday/news/disperser-pour-survivre.html)",
-   "fr": "- [S'adapter ou changer d'habitat ?](https://uclouvain.be/fr/sciencetoday/actualites/s-adapter-ou-changer-d-habitat.html)\n- [Disperser pour survivre](https://uclouvain.be/en/sciencetoday/news/disperser-pour-survivre.html)"
-  },
-  "outreach.qmd#11": {
-   "en": "### Workshops for school students and seniors",
-   "fr": "### Ateliers pour les écoliers et les aînés"
-  },
-  "outreach.qmd#12": {
-   "en": "Workshop on climate change and evolution for school students ([Printemps des Sciences 2019](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html)).",
-   "fr": "Atelier sur le changement climatique et l'évolution pour les écoliers ([Printemps des Sciences 2019](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html))."
-  },
-  "outreach.qmd#13": {
-   "en": "Workshop on the biodiversity crisis for the \"College of seniors\" ([Université des aînés](https://www.universitedesaines.be/)).",
-   "fr": "Formation sur la biodiversité en crise pour l'[Université des Aînés](https://www.universitedesaines.be/)."
-  },
-  "outreach.qmd#14": {
-   "en": "## A few press articles about my research or my expertise",
-   "fr": "## Quelques articles de presse sur ma recherche ou mon expertise"
   },
   "outreach.qmd#2": {
    "en": "## Examples of outreach activities",
@@ -672,6 +652,26 @@
    "en": "This line of research, published in [Nature Ecology and Evolution](https://www.nature.com/articles/s41559-017-0269-5) and [PNAS](https://www.pnas.org/content/115/47/11988), is presented for a general audience on *Science Today*, the UCLouvain outreach website:",
    "fr": "Cet axe de recherche, publié dans [Nature Ecology and Evolution](https://www.nature.com/articles/s41559-017-0269-5) et [PNAS](https://www.pnas.org/content/115/47/11988), est présenté à un large public sur *Science Today*, le site de vulgarisation de l'UCLouvain :"
   },
+  "outreach.qmd#10": {
+   "en": "- [S'adapter ou changer d'habitat ?](https://uclouvain.be/fr/sciencetoday/actualites/s-adapter-ou-changer-d-habitat.html) - [Disperser pour survivre](https://uclouvain.be/en/sciencetoday/news/disperser-pour-survivre.html)",
+   "fr": "- [S'adapter ou changer d'habitat ?](https://uclouvain.be/fr/sciencetoday/actualites/s-adapter-ou-changer-d-habitat.html)\n- [Disperser pour survivre](https://uclouvain.be/en/sciencetoday/news/disperser-pour-survivre.html)"
+  },
+  "outreach.qmd#11": {
+   "en": "### Workshops for school students and seniors",
+   "fr": "### Ateliers pour les écoliers et les aînés"
+  },
+  "outreach.qmd#12": {
+   "en": "Workshop on climate change and evolution for school students ([Printemps des Sciences 2019](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html)).",
+   "fr": "Atelier sur le changement climatique et l'évolution pour les écoliers ([Printemps des Sciences 2019](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html))."
+  },
+  "outreach.qmd#13": {
+   "en": "Workshop on the biodiversity crisis for the \"College of seniors\" ([Université des aînés](https://www.universitedesaines.be/)).",
+   "fr": "Formation sur la biodiversité en crise pour l'[Université des Aînés](https://www.universitedesaines.be/)."
+  },
+  "outreach.qmd#14": {
+   "en": "## A few press articles about my research or my expertise",
+   "fr": "## Quelques articles de presse sur ma recherche ou mon expertise"
+  },
   "publications.qmd#0": {
    "en": "## Bibliometry",
    "fr": "## Bibliométrie"
@@ -701,8 +701,8 @@
    "fr": "## Liste complète des publications — chapitres de livres à comité de lecture"
   },
   "publications.qmd#7": {
-   "en": "**Reprints.** If you cannot access one of these papers, [ask me for a reprint](mailto:nicolas.schtickzelle@uclouvain.be?subject=Reprint%20request) — I am always happy to send one.",
-   "fr": "**Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](mailto:nicolas.schtickzelle@uclouvain.be?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai."
+   "en": "**Reprints.** If you cannot access one of these papers, [ask me for a reprint](#email?subject=Reprint%20request) — I am always happy to send one.",
+   "fr": "**Tirés à part.** Si vous n'avez pas accès à l'un de ces articles, [demandez-moi un tiré à part](#email?subject=Demande%20de%20tir%C3%A9%20%C3%A0%20part) — c'est avec plaisir que je vous l'enverrai."
   },
   "publications.qmd#8": {
    "en": "[Full record on Google Scholar](https://scholar.google.be/citations?user=LH4kk5YAAAAJ&hl=en){.btn .btn-primary} [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603405906){.btn .btn-outline-secondary} [ResearchGate](https://www.researchgate.net/profile/Nicolas_Schtickzelle){.btn .btn-outline-secondary} [Web of Science](https://www.webofscience.com/wos/author/record/B-5916-2014){.btn .btn-outline-secondary}",
@@ -715,6 +715,38 @@
   "research-interests.qmd#1": {
    "en": "Stopping this biological erosion has become a major challenge for humanity. Proactive biodiversity conservation and management imply a deep understanding of the processes determining species and population viability. My research in quantitative ecology is driven by this goal to protect biodiversity.",
    "fr": "Mettre un terme à cette érosion biologique est devenu un défi majeur pour l'humanité. Une conservation et une gestion proactives de la biodiversité supposent une compréhension approfondie des processus déterminant la viabilité des espèces et des populations. Ma recherche en écologie quantitative repose sur cet objectif de protection de la biodiversité."
+  },
+  "research-interests.qmd#2": {
+   "en": "In my research group we combine observations, experiments and modelling, in the field and in the laboratory, to study how species react to changes in their environment. Our main model species are butterflies and protists.",
+   "fr": "Dans mon groupe de recherche, nous combinons observations, expériences et modélisation, sur le terrain et au laboratoire, pour étudier comment les espèces réagissent aux changements de leur environnement. Nos principales espèces modèles sont des papillons et des protistes."
+  },
+  "research-interests.qmd#3": {
+   "en": "## Main research interests",
+   "fr": "## Principaux intérêts de recherche"
+  },
+  "research-interests.qmd#4": {
+   "en": "### Metapopulation dynamics",
+   "fr": "### Dynamique des métapopulations"
+  },
+  "research-interests.qmd#5": {
+   "en": "Metapopulations are groups of local populations inhabiting a fragmented landscape, persisting in a balance of local extinctions and recolonizations by dispersal movements.",
+   "fr": "Les métapopulations sont des groupes de populations locales habitant un paysage fragmenté, persistant dans un équilibre d'extinctions locales et de recolonisations par des mouvements de dispersion."
+  },
+  "research-interests.qmd#6": {
+   "en": "Our research is focused on the interplay between local dynamics (demography) and regional dynamics (dispersal and population synchrony).",
+   "fr": "Nos recherches portent sur l'interaction entre la dynamique locale (démographie) et la dynamique régionale (dispersion et synchronie des populations)."
+  },
+  "research-interests.qmd#7": {
+   "en": "*Our main butterfly study model since 1992 in Belgium is* Boloria eunomia*; capture–mark–recapture informs on abundance and movements. Salmon also form metapopulations, an understudied aspect of their biology.*",
+   "fr": "*Notre modèle d'étude principal en Belgique depuis 1992 est* Boloria eunomia *; le capture–marquage–recapture nous informe sur son abondance et ses mouvements. Les saumons forment eux aussi des métapopulations, un aspect largement ignoré de leur biologie.*"
+  },
+  "research-interests.qmd#8": {
+   "en": "### Dispersal and movement ecology",
+   "fr": "### Dispersion et écologie du mouvement"
+  },
+  "research-interests.qmd#9": {
+   "en": "Dispersal is a fundamental process for metapopulation dynamics, and more broadly for ecological and evolutionary dynamics.",
+   "fr": "La dispersion est un processus fondamental pour la dynamique des métapopulations, et plus largement pour les dynamiques écologiques et évolutives."
   },
   "research-interests.qmd#10": {
    "en": "We are interested in the causes and consequences of dispersal, and how movement behaviour of individuals interacts with landscape configuration in determining effective dispersal and connectivity.",
@@ -756,41 +788,9 @@
    "en": "*A 3D printer turns a landscape configuration into a real microcosm for* Tetrahymena*. Automatic image analysis is a powerful data collection method. Capture–mark–recapture is a standard, reliable but costly procedure to estimate population sizes — simpler and less costly alternatives are highly desirable for conservation and population ecologists.*",
    "fr": "*Avec une imprimante 3D, nous transformons une configuration de paysage en un véritable microcosme pour* Tetrahymena*. L'analyse automatique de photos est une méthode puissante de collecte de données. Le capture–marquage–recapture est une méthode standard et fiable mais coûteuse pour estimer l'abondance d'une espèce ; des alternatives plus simples et moins coûteuses sont hautement bénéfiques pour les écologues des populations et de la conservation.*"
   },
-  "research-interests.qmd#2": {
-   "en": "In my research group we combine observations, experiments and modelling, in the field and in the laboratory, to study how species react to changes in their environment. Our main model species are butterflies and protists.",
-   "fr": "Dans mon groupe de recherche, nous combinons observations, expériences et modélisation, sur le terrain et au laboratoire, pour étudier comment les espèces réagissent aux changements de leur environnement. Nos principales espèces modèles sont des papillons et des protistes."
-  },
   "research-interests.qmd#20": {
    "en": "See the [publications](publications.qmd) page for the papers behind each of these research lines.",
    "fr": "Voir la page [publications](publications.qmd) pour les articles correspondant à chacun de ces axes de recherche."
-  },
-  "research-interests.qmd#3": {
-   "en": "## Main research interests",
-   "fr": "## Principaux intérêts de recherche"
-  },
-  "research-interests.qmd#4": {
-   "en": "### Metapopulation dynamics",
-   "fr": "### Dynamique des métapopulations"
-  },
-  "research-interests.qmd#5": {
-   "en": "Metapopulations are groups of local populations inhabiting a fragmented landscape, persisting in a balance of local extinctions and recolonizations by dispersal movements.",
-   "fr": "Les métapopulations sont des groupes de populations locales habitant un paysage fragmenté, persistant dans un équilibre d'extinctions locales et de recolonisations par des mouvements de dispersion."
-  },
-  "research-interests.qmd#6": {
-   "en": "Our research is focused on the interplay between local dynamics (demography) and regional dynamics (dispersal and population synchrony).",
-   "fr": "Nos recherches portent sur l'interaction entre la dynamique locale (démographie) et la dynamique régionale (dispersion et synchronie des populations)."
-  },
-  "research-interests.qmd#7": {
-   "en": "*Our main butterfly study model since 1992 in Belgium is* Boloria eunomia*; capture–mark–recapture informs on abundance and movements. Salmon also form metapopulations, an understudied aspect of their biology.*",
-   "fr": "*Notre modèle d'étude principal en Belgique depuis 1992 est* Boloria eunomia *; le capture–marquage–recapture nous informe sur son abondance et ses mouvements. Les saumons forment eux aussi des métapopulations, un aspect largement ignoré de leur biologie.*"
-  },
-  "research-interests.qmd#8": {
-   "en": "### Dispersal and movement ecology",
-   "fr": "### Dispersion et écologie du mouvement"
-  },
-  "research-interests.qmd#9": {
-   "en": "Dispersal is a fundamental process for metapopulation dynamics, and more broadly for ecological and evolutionary dynamics.",
-   "fr": "La dispersion est un processus fondamental pour la dynamique des métapopulations, et plus largement pour les dynamiques écologiques et évolutives."
   },
   "teaching.qmd#0": {
    "en": "Besides mentoring individuals, I also very much like to share my knowledge through teaching.",
@@ -799,6 +799,38 @@
   "teaching.qmd#1": {
    "en": "I nourish my lectures using up-to-date research results but also favour interactive learning and critical mind, a point I believe to be more essential than ever in a world where information access is not anymore the challenge but where its synthesis and filtering are.",
    "fr": "Je nourris mes exposés en me basant sur les résultats de la recherche mais je privilégie également l'apprentissage interactif et l'esprit critique, un point que je considère plus essentiel que jamais dans un monde où l'accès à l'information n'est plus un défi mais bien sa synthèse et son analyse critique."
+  },
+  "teaching.qmd#2": {
+   "en": "I currently teach courses to BSc and MSc students in Biology @ UCLouvain covering statistics for biology, conservation biology, and field ecology. I am proud my courses receive very positive assessments from students.",
+   "fr": "J'enseigne actuellement des cours aux étudiants de bachelier et de master en Biologie @ UCLouvain portant sur les statistiques pour la biologie, la conservation de la biodiversité et l'écologie de terrain. Je suis fier que mes cours reçoivent des évaluations très positives des étudiants."
+  },
+  "teaching.qmd#3": {
+   "en": "## Courses",
+   "fr": "## Cours"
+  },
+  "teaching.qmd#4": {
+   "en": "### Statistical principles and analysis of biological data — LBIO1283",
+   "fr": "### Principes de statistiques et analyse des données biologiques — LBIO1283"
+  },
+  "teaching.qmd#5": {
+   "en": "BSc Biology, 3rd year · 4 ECTS",
+   "fr": "Bachelier en Biologie, 3e année · 4 ECTS"
+  },
+  "teaching.qmd#6": {
+   "en": "The student shall understand, and become able to use correctly and critically the principal methods for the statistical analysis of biological and environmental data. He or she perceives the relationship between experimental design and analysis model and the necessity of planning experiments ahead, and becomes familiar with computer-aided data analysis.",
+   "fr": "Le cours forme l'étudiant à comprendre et utiliser correctement et de manière critique les principales méthodes d'analyse statistique de données biologiques et environnementales. Il perçoit la relation entre la conception expérimentale et le modèle d'analyse ainsi que la nécessité de planifier les expériences, et se familiarise avec l'analyse de données assistée par ordinateur."
+  },
+  "teaching.qmd#7": {
+   "en": "After completing this course, the student should master the basic methods for the analysis of biological data, be able to choose the analysis model and method best adapted to the design of simple factorial experiments, and to analyse and interpret correctly the results of such experiments. They should then be able to further progress by themselves and follow fruitfully advanced lectures on experimental design and data analysis.",
+   "fr": "A l'issue de ce cours, l'étudiant devra maîtriser les méthodes de base pour l'analyse de données biologiques, être capable de choisir le modèle d'analyse et la méthode adaptés à la conception d'expériences factorielles simples, afin d'analyser et d'interpréter correctement les résultats de ces expériences. Il devrait pouvoir ensuite progresser par lui-même et suivre avec profit des cours avancés sur la conception expérimentale et l'analyse des données."
+  },
+  "teaching.qmd#8": {
+   "en": "### Biodiversity conservation — LBOE2120",
+   "fr": "### Conservation de la biodiversité — LBOE2120"
+  },
+  "teaching.qmd#9": {
+   "en": "MSc Biology, 1st year · 4 ECTS",
+   "fr": "Master en Biologie, 1re année · 4 ECTS"
   },
   "teaching.qmd#10": {
    "en": "The course emphasizes a multi-disciplinary approach to conservation biology integrating ecology, biogeography and genetics, leading to a modelling approach. It then covers the applied aspect of this discipline, integrating political and socio-economic thinking.",
@@ -839,38 +871,6 @@
   "teaching.qmd#19": {
    "en": "I teach the module \"Multivariate data analysis\" of this course. Emphasis is put on the understanding and critical application of multivariate statistics as tools for research in ecology. I focus on the importance of data visualization, data checking and determining the best analysis approach for each specific case study. I insist on the risks associated with performing statistical analyses using R packages without understanding the necessary input parameters and checking their default values.",
    "fr": "J'enseigne le module « Analyse des données multivariées » de ce cours. L'accent est mis sur la compréhension et l'application critique des statistiques multivariées comme outils de recherche en écologie. Je me concentre sur l'importance de la visualisation des données, de leur vérification et de la détermination de la meilleure approche d'analyse pour chaque étude de cas spécifique. J'insiste sur les risques associés à la réalisation d'analyses statistiques à l'aide de packages R sans comprendre les paramètres d'entrée nécessaires et vérifier leurs valeurs par défaut."
-  },
-  "teaching.qmd#2": {
-   "en": "I currently teach courses to BSc and MSc students in Biology @ UCLouvain covering statistics for biology, conservation biology, and field ecology. I am proud my courses receive very positive assessments from students.",
-   "fr": "J'enseigne actuellement des cours aux étudiants de bachelier et de master en Biologie @ UCLouvain portant sur les statistiques pour la biologie, la conservation de la biodiversité et l'écologie de terrain. Je suis fier que mes cours reçoivent des évaluations très positives des étudiants."
-  },
-  "teaching.qmd#3": {
-   "en": "## Courses",
-   "fr": "## Cours"
-  },
-  "teaching.qmd#4": {
-   "en": "### Statistical principles and analysis of biological data — LBIO1283",
-   "fr": "### Principes de statistiques et analyse des données biologiques — LBIO1283"
-  },
-  "teaching.qmd#5": {
-   "en": "BSc Biology, 3rd year · 4 ECTS",
-   "fr": "Bachelier en Biologie, 3e année · 4 ECTS"
-  },
-  "teaching.qmd#6": {
-   "en": "The student shall understand, and become able to use correctly and critically the principal methods for the statistical analysis of biological and environmental data. He or she perceives the relationship between experimental design and analysis model and the necessity of planning experiments ahead, and becomes familiar with computer-aided data analysis.",
-   "fr": "Le cours forme l'étudiant à comprendre et utiliser correctement et de manière critique les principales méthodes d'analyse statistique de données biologiques et environnementales. Il perçoit la relation entre la conception expérimentale et le modèle d'analyse ainsi que la nécessité de planifier les expériences, et se familiarise avec l'analyse de données assistée par ordinateur."
-  },
-  "teaching.qmd#7": {
-   "en": "After completing this course, the student should master the basic methods for the analysis of biological data, be able to choose the analysis model and method best adapted to the design of simple factorial experiments, and to analyse and interpret correctly the results of such experiments. They should then be able to further progress by themselves and follow fruitfully advanced lectures on experimental design and data analysis.",
-   "fr": "A l'issue de ce cours, l'étudiant devra maîtriser les méthodes de base pour l'analyse de données biologiques, être capable de choisir le modèle d'analyse et la méthode adaptés à la conception d'expériences factorielles simples, afin d'analyser et d'interpréter correctement les résultats de ces expériences. Il devrait pouvoir ensuite progresser par lui-même et suivre avec profit des cours avancés sur la conception expérimentale et l'analyse des données."
-  },
-  "teaching.qmd#8": {
-   "en": "### Biodiversity conservation — LBOE2120",
-   "fr": "### Conservation de la biodiversité — LBOE2120"
-  },
-  "teaching.qmd#9": {
-   "en": "MSc Biology, 1st year · 4 ECTS",
-   "fr": "Master en Biologie, 1re année · 4 ECTS"
   }
  }
 }
