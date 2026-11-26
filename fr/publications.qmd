@@ -6,6 +6,8 @@ title: "Publications"
 pagetitle: "Publications"
 description: "Publications phares et liste complète des publications de Nicolas Schtickzelle."
 ---
+<style>#title-block-header{--banner:url('../assets/img/banner-publications.jpg')}</style>
+
 
 ## Bibliométrie
 

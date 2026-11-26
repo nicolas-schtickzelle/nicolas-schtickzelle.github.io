@@ -6,6 +6,8 @@ title: "Recherche"
 pagetitle: "Recherche"
 description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
 ---
+<style>#title-block-header{--banner:url('../assets/img/banner-research.jpg')}</style>
+
 
 La plupart des espèces sont en déclin en raison de perturbations d'origine humaine : destruction et fragmentation de l'habitat, changement climatique, pollution, chasse et pêche excessives, et introduction d'espèces exotiques.
 

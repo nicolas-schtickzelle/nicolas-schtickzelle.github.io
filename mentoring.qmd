@@ -3,6 +3,8 @@ title: "Mentoring"
 pagetitle: "Mentoring"
 description: "My mentoring philosophy and list of my (former) mentees."
 ---
+<style>#title-block-header{--banner:url('assets/img/banner-mentoring.jpg')}</style>
+
 
 Mentoring has always had an important place in my life, from high school to
 research group leader.

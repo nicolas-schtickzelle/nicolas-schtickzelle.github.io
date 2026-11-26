@@ -54,64 +54,82 @@ The expanding butterflies reflect our will to contribute to its recovery.
 ::: timeline
 ::: item
 ::: yr
-1997
+2024 – today
 :::
 ::: what
-Master in Biology, UCLouvain, Belgium
+Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate
 :::
 :::
 
 ::: item
 ::: yr
-1999
+2022 – today
 :::
 ::: what
-Master of advanced studies in Biology, UCLouvain, Belgium
+President of the School of Biology @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2001
+2021 – today
 :::
 ::: what
-Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany
+President of the Council of the Earth and Life Institute @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2003
+2021 – 2024
 :::
 ::: what
-PhD in Biology, UCLouvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé
+Head of the Ecology and Biodiversity section of the Earth and Life Institute @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2003 – 2007
+2018 – 2024
 :::
 ::: what
-F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ UCLouvain
+F.R.S.-FNRS Senior Research Associate @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2004
+2017 – 2024
 :::
 ::: what
-Postdoc stay (6 months) with Dr. Jean Clobert, Université Paris 6, France
+President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2005
+2015 – 2024
 :::
 ::: what
-Postdoc stay (3 months) with Prof. Thomas P. Quinn, University of Washington, Seattle, USA
+Part-time professor @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2010 – 2016
+:::
+::: what
+President of the Biodiversity Research Centre @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2008 – 2009
+:::
+::: what
+Academic secretary of the Department of Biology @ UCLouvain
 :::
 :::
 
@@ -135,82 +153,64 @@ Part-time lecturer @ UCLouvain
 
 ::: item
 ::: yr
-2008 – 2009
+2005
 :::
 ::: what
-Academic secretary of the Department of Biology @ UCLouvain
+Postdoc stay (3 months) with Prof. Thomas P. Quinn, University of Washington, Seattle, USA
 :::
 :::
 
 ::: item
 ::: yr
-2010 – 2016
+2004
 :::
 ::: what
-President of the Biodiversity Research Centre @ UCLouvain
+Postdoc stay (6 months) with Dr. Jean Clobert, Université Paris 6, France
 :::
 :::
 
 ::: item
 ::: yr
-2015 – 2024
+2003 – 2007
 :::
 ::: what
-Part-time professor @ UCLouvain
+F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2017 – 2024
+2003
 :::
 ::: what
-President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UCLouvain
+PhD in Biology, UCLouvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé
 :::
 :::
 
 ::: item
 ::: yr
-2018 – 2024
+2001
 :::
 ::: what
-F.R.S.-FNRS Senior Research Associate @ UCLouvain
+Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany
 :::
 :::
 
 ::: item
 ::: yr
-2021 – 2024
+1999
 :::
 ::: what
-Head of the Ecology and Biodiversity section of the Earth and Life Institute @ UCLouvain
+Master of advanced studies in Biology, UCLouvain, Belgium
 :::
 :::
 
 ::: item
 ::: yr
-2021 – today
+1997
 :::
 ::: what
-President of the Council of the Earth and Life Institute @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2022 – today
-:::
-::: what
-President of the School of Biology @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2024 – today
-:::
-::: what
-Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate
+Master in Biology, UCLouvain, Belgium
 :::
 :::
 :::

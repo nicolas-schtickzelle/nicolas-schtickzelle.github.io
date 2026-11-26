@@ -52,64 +52,82 @@ La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversit
 ::: timeline
 ::: item
 ::: yr
-1997
+2024 – aujourd'hui
 :::
 ::: what
-Licence en biologie, UCLouvain, Belgique
+Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.-FNRS
 :::
 :::
 
 ::: item
 ::: yr
-1999
+2022 – aujourd'hui
 :::
 ::: what
-Diplôme d'études approfondies en biologie, UCLouvain, Belgique
+Président de l'Ecole de biologie @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2001
+2021 – aujourd'hui
 :::
 ::: what
-Chercheur invité (4 mois, bourse Marie Curie) @ UFZ Leipzig, Allemagne
+Président du Conseil de l'Earth and Life Institute @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2003
+2021 – 2024
 :::
 ::: what
-Doctorat en biologie, UCLouvain, Belgique — promoteurs Prof. Michel Baguette & Prof. Eric Le Boulengé
+Responsable du pôle Ecologie et Biodiversité de l'Earth and Life Institute @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2003 – 2007
+2018 – 2024
 :::
 ::: what
-Chercheur postdoctoral F.R.S.-FNRS avec le Prof. Michel Baguette @ UCLouvain
+Maître de recherches F.R.S.-FNRS @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2004
+2017 – 2024
 :::
 ::: what
-Séjour postdoctoral (6 mois) chez le Dr Jean Clobert, Université Paris 6, France
+Président de l'APERFU, l'association des chercheurs permanents F.R.S.-FNRS @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2005
+2015 – 2024
 :::
 ::: what
-Séjour postdoctoral (3 mois) chez le Prof. Thomas P. Quinn, University of Washington, Seattle, Etats-Unis
+Professeur à temps partiel @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2010 – 2016
+:::
+::: what
+Président du Centre de recherche sur la biodiversité @ UCLouvain
+:::
+:::
+
+::: item
+::: yr
+2008 – 2009
+:::
+::: what
+Secrétaire académique du Département de biologie @ UCLouvain
 :::
 :::
 
@@ -133,82 +151,64 @@ Chargé de cours à temps partiel @ UCLouvain
 
 ::: item
 ::: yr
-2008 – 2009
+2005
 :::
 ::: what
-Secrétaire académique du Département de biologie @ UCLouvain
+Séjour postdoctoral (3 mois) chez le Prof. Thomas P. Quinn, University of Washington, Seattle, Etats-Unis
 :::
 :::
 
 ::: item
 ::: yr
-2010 – 2016
+2004
 :::
 ::: what
-Président du Centre de recherche sur la biodiversité @ UCLouvain
+Séjour postdoctoral (6 mois) chez le Dr Jean Clobert, Université Paris 6, France
 :::
 :::
 
 ::: item
 ::: yr
-2015 – 2024
+2003 – 2007
 :::
 ::: what
-Professeur à temps partiel @ UCLouvain
+Chercheur postdoctoral F.R.S.-FNRS avec le Prof. Michel Baguette @ UCLouvain
 :::
 :::
 
 ::: item
 ::: yr
-2017 – 2024
+2003
 :::
 ::: what
-Président de l'APERFU, l'association des chercheurs permanents F.R.S.-FNRS @ UCLouvain
+Doctorat en biologie, UCLouvain, Belgique — promoteurs Prof. Michel Baguette & Prof. Eric Le Boulengé
 :::
 :::
 
 ::: item
 ::: yr
-2018 – 2024
+2001
 :::
 ::: what
-Maître de recherches F.R.S.-FNRS @ UCLouvain
+Chercheur invité (4 mois, bourse Marie Curie) @ UFZ Leipzig, Allemagne
 :::
 :::
 
 ::: item
 ::: yr
-2021 – 2024
+1999
 :::
 ::: what
-Responsable du pôle Ecologie et Biodiversité de l'Earth and Life Institute @ UCLouvain
+Diplôme d'études approfondies en biologie, UCLouvain, Belgique
 :::
 :::
 
 ::: item
 ::: yr
-2021 – aujourd'hui
+1997
 :::
 ::: what
-Président du Conseil de l'Earth and Life Institute @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2022 – aujourd'hui
-:::
-::: what
-Président de l'Ecole de biologie @ UCLouvain
-:::
-:::
-
-::: item
-::: yr
-2024 – aujourd'hui
-:::
-::: what
-Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.-FNRS
+Licence en biologie, UCLouvain, Belgique
 :::
 :::
 :::

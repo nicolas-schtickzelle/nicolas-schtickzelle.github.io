@@ -3,6 +3,8 @@ title: "Postdoc position"
 pagetitle: "Postdoc position"
 description: "Open positions in the Quantitative Conservation Biology group."
 ---
+<style>#title-block-header{--banner:url('assets/img/banner-postdoc.jpg')}</style>
+
 
 ::: note-box
 **This position is now closed** (applications closed on 2 May 2022).
