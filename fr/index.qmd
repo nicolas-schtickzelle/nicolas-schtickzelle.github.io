@@ -37,29 +37,37 @@ Earth and Life Institute · Ecologie et Biodiversité
 ::: home-card
 ![*Boloria eunomia* butterflies](../assets/img/boloria-mating.jpg){fig-alt="Boloria eunomia butterflies mating"}
 
-### Papillons sur le terrain
+### Dynamique des métapopulations
 
-Suivi à long terme et capture–marquage–recapture du nacré de la bistorte *Boloria eunomia* en Belgique depuis 1992 : dynamique de métapopulation et déplacements.
+::: card-systems
+Papillons · saumons
+:::
+
+Comment la démographie locale et la dispersion entre populations se combinent pour permettre aux espèces de persister dans des paysages fragmentés, en s'appuyant sur trois décennies de suivi du nacré de la bistorte *Boloria eunomia* en Belgique.
 
 ::: key-papers
 **Articles clés**
 
-- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*
 - A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (sous presse)
+- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*
 :::
 :::
 
 ::: home-card
 ![*Tetrahymena* cells tracked in a fragmented microcosm](../assets/img/microcosm-tracks.jpg){fig-alt="Movement tracks of Tetrahymena cells in a fragmented two-dimensional microcosm"}
 
-### Protistes en microcosmes
+### Dispersion et écologie du mouvement
 
-Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la manière dont les déplacements et les décisions des individus déterminent la dispersion, et sur le rôle de la variabilité intraspécifique.
+::: card-systems
+Papillons sur le terrain · protistes en microcosmes
+:::
+
+Les causes et les conséquences de la dispersion : comment les déplacements et les décisions des individus déterminent la dispersion, et le rôle de la variabilité intraspécifique.
 
 ::: key-papers
 **Articles clés**
 
-- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*
+- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*
 - [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*
 :::
 :::
@@ -67,9 +75,13 @@ Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la mani
 ::: home-card
 ![Population viability analysis](../assets/img/pva-crystal-ball.png){fig-alt="Population viability analysis as a crystal ball"}
 
-### Modélisation quantitative
+### Prédire la viabilité des espèces
 
-Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux.
+::: card-systems
+Papillons · amphibiens · macaques
+:::
+
+Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux, et guider leur conservation.
 
 ::: key-papers
 **Articles clés**
@@ -82,7 +94,11 @@ Analyse de viabilité des populations pour prédire la persistance des espèces 
 ::: home-card
 ![Automatic tracking of *Tetrahymena* movement](../assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories from automatic video analysis"}
 
-### Méthodes pour l'écologie
+### Développer des méthodes pour l'écologie
+
+::: card-systems
+Sur le terrain et au laboratoire
+:::
 
 Développer et partager des méthodes : plans d'échantillonnage et statistiques, logiciels d'analyse automatique de vidéos, et [impression 3D de paysages expérimentaux](https://doi.org/10.20944/preprints202003.0220.v1).
 

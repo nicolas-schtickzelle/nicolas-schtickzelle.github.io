@@ -114,122 +114,138 @@
    "fr": "## Recherche"
   },
   "index.qmd#5": {
-   "en": "### Butterflies in the field",
-   "fr": "### Papillons sur le terrain"
+   "en": "### Metapopulation dynamics",
+   "fr": "### Dynamique des métapopulations"
   },
   "index.qmd#6": {
-   "en": "Long-term monitoring and capture–mark–recapture of the bog fritillary *Boloria eunomia* in Belgium since 1992: metapopulation dynamics and movement.",
-   "fr": "Suivi à long terme et capture–marquage–recapture du nacré de la bistorte *Boloria eunomia* en Belgique depuis 1992 : dynamique de métapopulation et déplacements."
+   "en": "Butterflies · salmon",
+   "fr": "Papillons · saumons"
   },
   "index.qmd#7": {
-   "en": "**Key papers**",
-   "fr": "**Articles clés**"
+   "en": "How local demography and dispersal between populations combine to keep species persisting in fragmented landscapes, building on three decades of monitoring of the bog fritillary *Boloria eunomia* in Belgium.",
+   "fr": "Comment la démographie locale et la dispersion entre populations se combinent pour permettre aux espèces de persister dans des paysages fragmentés, en s'appuyant sur trois décennies de suivi du nacré de la bistorte *Boloria eunomia* en Belgique."
   },
   "index.qmd#8": {
-   "en": "- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology* - A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (in press)",
-   "fr": "- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*\n- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (sous presse)"
+   "en": "**Key papers**",
+   "fr": "**Articles clés**"
   },
   "index.qmd#9": {
-   "en": "### Protists in microcosms",
-   "fr": "### Protistes en microcosmes"
+   "en": "- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (in press) - [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*",
+   "fr": "- A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (sous presse)\n- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*"
   },
   "index.qmd#10": {
-   "en": "Laboratory experiments with the ciliate *Tetrahymena thermophila* on how individual movement and decisions drive dispersal, and on the role of intraspecific variability.",
-   "fr": "Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la manière dont les déplacements et les décisions des individus déterminent la dispersion, et sur le rôle de la variabilité intraspécifique."
+   "en": "### Dispersal and movement ecology",
+   "fr": "### Dispersion et écologie du mouvement"
   },
   "index.qmd#11": {
-   "en": "**Key papers**",
-   "fr": "**Articles clés**"
+   "en": "Butterflies in the field · protists in microcosms",
+   "fr": "Papillons sur le terrain · protistes en microcosmes"
   },
   "index.qmd#12": {
-   "en": "- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS* - [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*",
-   "fr": "- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*\n- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*"
+   "en": "The causes and consequences of dispersal: how individual movement and decisions drive dispersal, and the role of intraspecific variability.",
+   "fr": "Les causes et les conséquences de la dispersion : comment les déplacements et les décisions des individus déterminent la dispersion, et le rôle de la variabilité intraspécifique."
   },
   "index.qmd#13": {
-   "en": "### Quantitative modelling",
-   "fr": "### Modélisation quantitative"
-  },
-  "index.qmd#14": {
-   "en": "Population viability analysis to forecast the persistence of species and populations facing global change.",
-   "fr": "Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux."
-  },
-  "index.qmd#15": {
    "en": "**Key papers**",
    "fr": "**Articles clés**"
   },
+  "index.qmd#14": {
+   "en": "- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology* - [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*",
+   "fr": "- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*\n- [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*"
+  },
+  "index.qmd#15": {
+   "en": "### Forecasting species viability",
+   "fr": "### Prédire la viabilité des espèces"
+  },
   "index.qmd#16": {
+   "en": "Butterflies · amphibians · macaques",
+   "fr": "Papillons · amphibiens · macaques"
+  },
+  "index.qmd#17": {
+   "en": "Population viability analysis to forecast the persistence of species and populations facing global change, and to guide their conservation.",
+   "fr": "Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux, et guider leur conservation."
+  },
+  "index.qmd#18": {
+   "en": "**Key papers**",
+   "fr": "**Articles clés**"
+  },
+  "index.qmd#19": {
    "en": "- [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology* - [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*",
    "fr": "- [Each life stage matters: assessing the response to climate change over the complete life cycle in butterflies](https://doi.org/10.1111/j.1365-2656.2012.02029.x) — Radchuk, Turlure & Schtickzelle 2013, *Journal of Animal Ecology*\n- [Metapopulation viability analysis of the bog fritillary butterfly using RAMAS/GIS](https://doi.org/10.1111/j.0030-1299.2004.12825.x) — Schtickzelle & Baguette 2004, *Oikos*"
   },
-  "index.qmd#17": {
-   "en": "### Methods for ecology",
-   "fr": "### Méthodes pour l'écologie"
+  "index.qmd#20": {
+   "en": "### Developing methods for ecology",
+   "fr": "### Développer des méthodes pour l'écologie"
   },
-  "index.qmd#18": {
+  "index.qmd#21": {
+   "en": "In the field and in the lab",
+   "fr": "Sur le terrain et au laboratoire"
+  },
+  "index.qmd#22": {
    "en": "Developing and sharing methods: sampling designs and statistics, software for automatic video analysis, and [3D printing of experimental landscapes](https://doi.org/10.20944/preprints202003.0220.v1).",
    "fr": "Développer et partager des méthodes : plans d'échantillonnage et statistiques, logiciels d'analyse automatique de vidéos, et [impression 3D de paysages expérimentaux](https://doi.org/10.20944/preprints202003.0220.v1)."
   },
-  "index.qmd#19": {
+  "index.qmd#23": {
    "en": "**Key papers**",
    "fr": "**Articles clés**"
   },
-  "index.qmd#20": {
+  "index.qmd#24": {
    "en": "- [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution* - [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters*",
    "fr": "- [Bemovi, software for extracting behavior and morphology from videos](https://doi.org/10.1002/ece3.1529) — Pennekamp, Schtickzelle & Petchey 2015, *Ecology and Evolution*\n- [To replicate, or not to replicate – that is the question](https://doi.org/10.1111/ele.13134) — Kreyling et al. 2018, *Ecology Letters*"
   },
-  "index.qmd#21": {
+  "index.qmd#25": {
    "en": "[All research interests →](research-interests.qmd){.home-more}",
    "fr": "[Tous mes thèmes de recherche →](research-interests.qmd){.home-more}"
   },
-  "index.qmd#22": {
+  "index.qmd#26": {
    "en": "## The Quantitative Conservation Biology group",
    "fr": "## Le groupe Quantitative Conservation Biology"
   },
-  "index.qmd#23": {
+  "index.qmd#27": {
    "en": "We are a small, collaborative team studying how populations cope with habitat fragmentation and global change, through dispersal, metapopulation dynamics and population viability. We combine field studies of butterflies, laboratory experiments with protists in microcosms and quantitative modelling to understand these processes and help reverse biodiversity loss. We also enjoy developing new methods and tools for ecology and evolution, and sharing them with the community.",
    "fr": "Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats\net aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.\nNous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes\net la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité. Nous aimons aussi développer de nouvelles méthodes et de nouveaux outils pour l'écologie et l'évolution, et les partager avec la communauté."
   },
-  "index.qmd#24": {
+  "index.qmd#28": {
    "en": "So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised; 7 former mentees now hold permanent academic positions.",
    "fr": "À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés ; 7 anciens mentorés occupent aujourd'hui un poste académique permanent."
   },
-  "index.qmd#25": {
+  "index.qmd#29": {
    "en": "[Meet the team and our alumni →](mentoring.qmd){.home-more}",
    "fr": "[Découvrir l'équipe et nos anciens →](mentoring.qmd){.home-more}"
   },
-  "index.qmd#26": {
+  "index.qmd#30": {
    "en": "## Latest publications",
    "fr": "## Dernières publications"
   },
-  "index.qmd#27": {
+  "index.qmd#31": {
    "en": "[All publications and bibliometry →](publications.qmd){.home-more}",
    "fr": "[Toutes les publications et la bibliométrie →](publications.qmd){.home-more}"
   },
-  "index.qmd#28": {
+  "index.qmd#32": {
    "en": "## Teaching",
    "fr": "## Enseignement"
   },
-  "index.qmd#29": {
+  "index.qmd#33": {
    "en": "I teach BSc and MSc students in Biology at UCLouvain, in two areas:",
    "fr": "J'enseigne aux étudiants de bachelier et de master en biologie à l'UCLouvain, dans deux domaines :"
   },
-  "index.qmd#30": {
+  "index.qmd#34": {
    "en": "- **Ecology:** *Biodiversity conservation* (LBOE2120) and the *Field course in integrated ecology* (LBOE2114). - **Methods and statistics:** *Statistical principles and analysis of biological data* (LBIO1283), *Scientific approach in biology* (LBIO1116) and *Data analysis and modeling of biological systems* (LBOE2112).",
    "fr": "- **Écologie :** *Conservation de la biodiversité* (LBOE2120) et le *Cours de terrain en écologie intégrée* (LBOE2114).\n- **Méthodes et statistiques :** *Principes de statistiques et analyse des données biologiques* (LBIO1283), *Démarche scientifique en biologie* (LBIO1116) et *Analyse de données et modélisation des systèmes biologiques* (LBOE2112)."
   },
-  "index.qmd#31": {
+  "index.qmd#35": {
    "en": "[Course details →](teaching.qmd){.home-more}",
    "fr": "[Détail des cours →](teaching.qmd){.home-more}"
   },
-  "index.qmd#32": {
+  "index.qmd#36": {
    "en": "## Contact",
    "fr": "## Contact"
   },
-  "index.qmd#33": {
+  "index.qmd#37": {
    "en": "**Email:** [nicolas.schtickzelle \\[at\\] uclouvain.be](#email)\\ **Office:** Carnoy building, room c.157, Croix du Sud 4, Louvain-la-Neuve",
    "fr": "**Email :** [nicolas.schtickzelle \\[at\\] uclouvain.be](#email)\\\n**Bureau :** bâtiment Carnoy, local c.157, Croix du Sud 4, Louvain-la-Neuve"
   },
-  "index.qmd#34": {
+  "index.qmd#38": {
    "en": "[Address, map and directions →](contact.qmd){.home-more}",
    "fr": "[Adresse, plan et accès →](contact.qmd){.home-more}"
   },

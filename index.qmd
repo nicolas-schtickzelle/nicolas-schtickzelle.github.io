@@ -36,31 +36,40 @@ ecology and conservation biology.
 ::: home-card
 ![*Boloria eunomia* butterflies](assets/img/boloria-mating.jpg){fig-alt="Boloria eunomia butterflies mating"}
 
-### Butterflies in the field
+### Metapopulation dynamics
 
-Long-term monitoring and capture–mark–recapture of the bog fritillary *Boloria
-eunomia* in Belgium since 1992: metapopulation dynamics and movement.
+::: card-systems
+Butterflies · salmon
+:::
+
+How local demography and dispersal between populations combine to keep species
+persisting in fragmented landscapes, building on three decades of monitoring of the
+bog fritillary *Boloria eunomia* in Belgium.
 
 ::: key-papers
 **Key papers**
 
-- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*
 - A long-term study reveals strong synchronizing weather effects on population dynamics of the butterfly *Boloria eunomia* — Brans, Baguette & Schtickzelle 2026, *Ecosphere* (in press)
+- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*
 :::
 :::
 
 ::: home-card
 ![*Tetrahymena* cells tracked in a fragmented microcosm](assets/img/microcosm-tracks.jpg){fig-alt="Movement tracks of Tetrahymena cells in a fragmented two-dimensional microcosm"}
 
-### Protists in microcosms
+### Dispersal and movement ecology
 
-Laboratory experiments with the ciliate *Tetrahymena thermophila* on how individual
-movement and decisions drive dispersal, and on the role of intraspecific variability.
+::: card-systems
+Butterflies in the field · protists in microcosms
+:::
+
+The causes and consequences of dispersal: how individual movement and decisions drive
+dispersal, and the role of intraspecific variability.
 
 ::: key-papers
 **Key papers**
 
-- [Habitat choice meets thermal specialization](https://doi.org/10.1073/pnas.1805574115) — Jacob et al. 2018, *PNAS*
+- [Dispersal depression with habitat fragmentation in the bog fritillary butterfly](https://doi.org/10.1890/0012-9658%282006%2987%5B1057:ddwhfi%5D2.0.co;2) — Schtickzelle, Mennechez & Baguette 2006, *Ecology*
 - [Tracking cell movement in two-dimensional, fragmented microcosms reveals dispersal syndromes and strategies in *Tetrahymena thermophila*](https://doi.org/10.1002/ece3.73092) — Manzi, Brans, Dacek, Jacob & Schtickzelle 2026, *Ecology and Evolution*
 :::
 :::
@@ -68,10 +77,14 @@ movement and decisions drive dispersal, and on the role of intraspecific variabi
 ::: home-card
 ![Population viability analysis](assets/img/pva-crystal-ball.png){fig-alt="Population viability analysis as a crystal ball"}
 
-### Quantitative modelling
+### Forecasting species viability
+
+::: card-systems
+Butterflies · amphibians · macaques
+:::
 
 Population viability analysis to forecast the persistence of species and populations
-facing global change.
+facing global change, and to guide their conservation.
 
 ::: key-papers
 **Key papers**
@@ -84,7 +97,11 @@ facing global change.
 ::: home-card
 ![Automatic tracking of *Tetrahymena* movement](assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories from automatic video analysis"}
 
-### Methods for ecology
+### Developing methods for ecology
+
+::: card-systems
+In the field and in the lab
+:::
 
 Developing and sharing methods: sampling designs and statistics, software for
 automatic video analysis, and [3D printing of experimental
