@@ -1,0 +1,11 @@
+<!-- Visitor statistics: GoatCounter (no cookies, no personal data) — dashboard https://schtickz.goatcounter.com -->
+<script data-goatcounter="https://schtickz.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+/* Count downloads (contact card, PDFs) as events */
+document.addEventListener("click", function (e) {
+  var a = e.target.closest && e.target.closest("a[href]");
+  if (!a || !/\.(vcf|pdf)(\?|#|$)/i.test(a.getAttribute("href"))) return;
+  if (window.goatcounter && window.goatcounter.count)
+    window.goatcounter.count({path: "download: " + a.getAttribute("href").replace(/^(\.\.\/)+/, ""), title: a.textContent.trim(), event: true});
+});
+</script>
