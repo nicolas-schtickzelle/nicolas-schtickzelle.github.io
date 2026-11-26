@@ -32,9 +32,9 @@
   L.circleMarker(home, {radius: 7, color: "#10195c", weight: 2, fillColor: "#1b2a8a", fillOpacity: 1})
     .addTo(map).bindTooltip(esc(D.homeLabel));
   D.pts.forEach(function (p) {
-    var s = 46;
+    var s = window.innerWidth < 600 ? 32 : 46, k = s / 46;
     var icon = L.divIcon({
-      className: "mentee-pin", iconSize: [s, s], iconAnchor: [s / 2 - p.dx, s / 2 - p.dy],
+      className: "mentee-pin", iconSize: [s, s], iconAnchor: [s / 2 - p.dx * k, s / 2 - p.dy * k],
       html: '<img src="' + p.photo + '" alt="' + esc(p.name) + '">'
     });
     var pop = "<strong>" + esc(p.name) + "</strong><br>" + esc(p.pos) + "<br><span class=\"mentee-place\">" + esc(p.place) + "</span>";
