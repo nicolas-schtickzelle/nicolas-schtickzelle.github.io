@@ -50,7 +50,7 @@ Suivi à long terme et capture–marquage–recapture du nacré de la bistorte *
 :::
 
 ::: home-card
-![*Tetrahymena* movement trajectories](../assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories"}
+![*Tetrahymena* cells tracked in a fragmented microcosm](../assets/img/microcosm-tracks.jpg){fig-alt="Movement tracks of Tetrahymena cells in a fragmented two-dimensional microcosm"}
 
 ### Protistes en microcosmes
 
@@ -80,7 +80,7 @@ Analyse de viabilité des populations pour prédire la persistance des espèces 
 :::
 
 ::: home-card
-![3D-printed artificial landscape](../assets/img/artificial-landscape.png){fig-alt="3D-printed artificial landscape for microcosm experiments"}
+![Automatic tracking of *Tetrahymena* movement](../assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories from automatic video analysis"}
 
 ### Méthodes pour l'écologie
 
@@ -114,7 +114,7 @@ et la modélisation quantitative pour comprendre ces processus et contribuer à 
 ![Quantitative Conservation Biology group logo](../assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
 :::
 
-## Publications
+## Dernières publications
 
 {{< include _includes/home_pubs.fr.md >}}
 

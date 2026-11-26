@@ -109,17 +109,9 @@ def main():
                 fh.write(bibliometry_md(lang, b))
         print("wrote bibliometry (en, fr)")
         # Home page: the 3 most recent articles + a one-line summary
-        r0 = sorted(articles, key=lambda x: int(x["year"]), reverse=True)[0]
-        au = [x.strip() for x in r0["authors"].replace(" & ", ", ").split("., ")]
-        first = au[0].rstrip(".") + "."
-        who = first if len(au) == 1 else (first + " et al." if len(au) > 2 else r0["authors"])
-        venue = html.escape(r0["venue"]) + (" (in press)" if r0["pages"].strip() == "in press" else "")
-        venue_fr = html.escape(r0["venue"]) + (" (sous presse)" if r0["pages"].strip() == "in press" else "")
-        ttl = html.escape(r0["title"])
-        if r0["doi"].strip():
-            ttl = f'[{ttl}](https://doi.org/{r0["doi"].strip()})'
-        lst = {"en": f'::: home-latest\n**Latest:** {html.escape(who)} {r0["year"]}. {ttl}. *{venue}*\n:::\n',
-               "fr": f'::: home-latest\n**Dernière publication :** {html.escape(who)} {r0["year"]}. {ttl}. *{venue_fr}*\n:::\n'}
+        latest = sorted(articles, key=lambda x: int(x["year"]), reverse=True)[:3]
+        ol = "<ol class=\"pubs pubs-home\">\n" + "\n".join(f"<li>{entry_html(r)}</li>" for r in latest) + "\n</ol>\n"
+        lst = {"en": ol, "fr": ol.replace(", in press", ", sous presse")}
         cit = f'{b["citations"]:,}'
         line = {"en": f'::: home-biblio\n{b["articles"]} journal articles · {b["chapters"]} book chapters · {cit} citations · h-index {b["h_index"]}\n:::\n',
                 "fr": f'::: home-biblio\n{b["articles"]} articles · {b["chapters"]} chapitres de livres · {cit.replace(",", " ")} citations · h-index {b["h_index"]}\n:::\n'}

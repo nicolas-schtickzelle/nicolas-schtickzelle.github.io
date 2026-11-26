@@ -50,7 +50,7 @@ eunomia* in Belgium since 1992: metapopulation dynamics and movement.
 :::
 
 ::: home-card
-![*Tetrahymena* movement trajectories](assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories"}
+![*Tetrahymena* cells tracked in a fragmented microcosm](assets/img/microcosm-tracks.jpg){fig-alt="Movement tracks of Tetrahymena cells in a fragmented two-dimensional microcosm"}
 
 ### Protists in microcosms
 
@@ -82,7 +82,7 @@ facing global change.
 :::
 
 ::: home-card
-![3D-printed artificial landscape](assets/img/artificial-landscape.png){fig-alt="3D-printed artificial landscape for microcosm experiments"}
+![Automatic tracking of *Tetrahymena* movement](assets/img/tetrahymena-trajectories.jpg){fig-alt="Tetrahymena thermophila movement trajectories from automatic video analysis"}
 
 ### Methods for ecology
 
@@ -121,7 +121,7 @@ So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses super
 ![Quantitative Conservation Biology group logo](assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
 :::
 
-## Publications
+## Latest publications
 
 {{< include _includes/home_pubs.en.md >}}
 
