@@ -598,3 +598,6 @@ a.home-more:hover { text-decoration: underline; }
 @media (max-width: 700px) { .home-cards { grid-template-columns: 1fr; } }
 .home-card img { height: 200px; }
 .home-card img[src*="pva-crystal-ball"], .home-card img[src*="artificial-landscape"] { object-fit: contain; background: #fff; padding: 6px; }
+/* six figure boxes → two rows of three */
+.figures:has(> .figure-box:nth-child(6)) { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 600px) { .figures:has(> .figure-box:nth-child(6)) { grid-template-columns: repeat(2, 1fr); } }
