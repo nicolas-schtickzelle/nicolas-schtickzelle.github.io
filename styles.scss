@@ -465,7 +465,10 @@ main.content a { overflow-wrap: anywhere; }
 }
 .hero .hero-logos p { display: contents; }
 .hero .hero-logos img { max-height: 48px; width: auto; margin: 0; }
-@media (max-width: 600px) { .hero .hero-logos img { max-height: 36px; } }
+@media (max-width: 600px) {
+  .hero .hero-logos { gap: .9rem; padding: .5rem .9rem; }
+  .hero .hero-logos img { max-height: 30px; }
+}
 
 // Home banner with the Boloria eunomia photo (pair on bistort, by N. Schtickzelle).
 // The photo's blurred background was extended on the left to leave room for the text;
