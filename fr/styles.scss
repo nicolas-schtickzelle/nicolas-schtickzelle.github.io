@@ -466,3 +466,28 @@ main.content a { overflow-wrap: anywhere; }
 .hero .hero-logos p { display: contents; }
 .hero .hero-logos img { max-height: 48px; width: auto; margin: 0; }
 @media (max-width: 600px) { .hero .hero-logos img { max-height: 36px; } }
+
+// Home banner with the Boloria eunomia photo (pair on bistort, by N. Schtickzelle).
+// The photo's blurred background was extended on the left to leave room for the text;
+// the navy tint covers only the text side so the butterflies stay in full colour.
+// The image path is relative to the compiled CSS (site_libs/bootstrap/ in both languages).
+.hero.hero-photo {
+  background-image:
+    linear-gradient(90deg, rgba(16, 25, 92, .88) 0%, rgba(16, 25, 92, .72) 45%,
+                    rgba(16, 25, 92, .08) 68%, rgba(16, 25, 92, 0) 100%),
+    url("../../assets/img/hero-boloria.jpg");
+  background-position: right center;
+  text-align: left;
+  padding: 3.5rem 2.5rem;
+}
+.hero.hero-photo h1 { margin: 0; max-width: 22ch; font-size: clamp(1.7rem, 3.4vw, 2.4rem); }
+.hero.hero-photo .tagline { margin: 1rem 0 0; max-width: 42ch; }
+@media (max-width: 700px) {
+  .hero.hero-photo {
+    background-image:
+      linear-gradient(180deg, rgba(16, 25, 92, .86), rgba(16, 25, 92, .58)),
+      url("../../assets/img/hero-boloria.jpg");
+    background-position: 80% center;
+    padding: 2.5rem 1.4rem;
+  }
+}

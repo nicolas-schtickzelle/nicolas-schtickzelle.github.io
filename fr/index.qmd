@@ -6,7 +6,7 @@ pagetitle: "Professeur d'Ecologie Quantitative et Biologie de la Conservation"
 description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
 ---
 
-::: {.hero style="background-image: linear-gradient(120deg, rgba(16,25,92,.82), rgba(27,42,138,.55)), url('../assets/img/hero-home.jpg')"}
+::: {.hero .hero-photo}
 # Chercheur et Professeur en écologie quantitative et biologie de la conservation
 
 ::: tagline
