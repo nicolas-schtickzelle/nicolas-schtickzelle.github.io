@@ -608,3 +608,4 @@ a.home-more:hover { text-decoration: underline; }
 .home-card { display: flex; flex-direction: column; }
 .home-card .key-papers { margin-top: auto; }
 .home-latest { margin: .4rem 0 .6rem; }
+.home-card img[src*="microcosm-tracks"] { object-position: center 12%; }
