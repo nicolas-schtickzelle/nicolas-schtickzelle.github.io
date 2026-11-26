@@ -7,7 +7,7 @@ description: "Nicolas Schtickzelle, Professor of Ecology and Conservation Biolog
 # Researcher and Professor in Quantitative Ecology and Conservation Biology
 
 ::: tagline
-Université catholique de Louvain · Earth and Life Institute · Ecology and Biodiversity
+UCLouvain · Earth and Life Institute · Ecology and Biodiversity
 :::
 :::
 
@@ -36,7 +36,7 @@ I am also interested in developing new methods for research in ecology and evolu
 ::: theme
 ::: {}
 My group is part of the [Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli)
-at the Université catholique de Louvain (Belgium).
+at UCLouvain (Belgium).
 
 It is a small-sized research group focusing on field and experimental ecology in a
 context of biodiversity conservation.
@@ -56,7 +56,7 @@ The expanding butterflies reflect our will to contribute to its recovery.
 1997
 :::
 ::: what
-Master in Biology, Université catholique de Louvain, Belgium
+Master in Biology, UCLouvain, Belgium
 :::
 :::
 
@@ -65,7 +65,7 @@ Master in Biology, Université catholique de Louvain, Belgium
 1999
 :::
 ::: what
-Master of advanced studies in Biology, Université catholique de Louvain, Belgium
+Master of advanced studies in Biology, UCLouvain, Belgium
 :::
 :::
 
@@ -83,7 +83,7 @@ Visiting researcher (4 months, Marie Curie grant) @ UFZ Leipzig, Germany
 2003
 :::
 ::: what
-PhD in Biology, Université catholique de Louvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé
+PhD in Biology, UCLouvain, Belgium — supervisors Prof. Michel Baguette & Prof. Eric Le Boulengé
 :::
 :::
 
@@ -92,7 +92,7 @@ PhD in Biology, Université catholique de Louvain, Belgium — supervisors Prof.
 2003 – 2007
 :::
 ::: what
-F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ Université catholique de Louvain
+F.R.S.-FNRS Postdoctoral researcher with Prof. Michel Baguette @ UCLouvain
 :::
 :::
 
@@ -119,7 +119,7 @@ Postdoc stay (3 months) with Prof. Thomas P. Quinn, University of Washington, Se
 2007 – 2018
 :::
 ::: what
-F.R.S.-FNRS Research Associate @ Université catholique de Louvain
+F.R.S.-FNRS Research Associate @ UCLouvain
 :::
 :::
 
@@ -128,7 +128,7 @@ F.R.S.-FNRS Research Associate @ Université catholique de Louvain
 2007 – 2015
 :::
 ::: what
-Part-time lecturer @ Université catholique de Louvain
+Part-time lecturer @ UCLouvain
 :::
 :::
 
@@ -155,7 +155,7 @@ President of the Biodiversity Research Centre @ UCLouvain
 2015 – 2024
 :::
 ::: what
-Part-time professor @ Université catholique de Louvain
+Part-time professor @ UCLouvain
 :::
 :::
 
@@ -173,7 +173,7 @@ President of the APERFU, the association of tenured F.R.S.-FNRS researchers @ UC
 2018 – 2024
 :::
 ::: what
-F.R.S.-FNRS Senior Research Associate @ Université catholique de Louvain
+F.R.S.-FNRS Senior Research Associate @ UCLouvain
 :::
 :::
 
@@ -209,7 +209,7 @@ President of the School of Biology @ UCLouvain
 2024 – today
 :::
 ::: what
-Full-time professor @ Université catholique de Louvain, and Honorary F.R.S.-FNRS Senior Research Associate
+Full-time professor @ UCLouvain, and Honorary F.R.S.-FNRS Senior Research Associate
 :::
 :::
 :::

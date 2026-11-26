@@ -10,7 +10,7 @@ description: "«Comment les animaux réagissent-ils aux changements environnemen
 # Chercheur et Professeur en écologie quantitative et biologie de la conservation
 
 ::: tagline
-Université catholique de Louvain · Earth and Life Institute · Ecologie et Biodiversité
+UCLouvain · Earth and Life Institute · Ecologie et Biodiversité
 :::
 :::
 
@@ -36,7 +36,7 @@ Je suis également intéressé par le développement de nouvelles méthodes de r
 
 ::: theme
 ::: {}
-Mon groupe fait partie de l'[Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli) de l'Université catholique de Louvain (Belgique).
+Mon groupe fait partie de l'[Earth and Life Institute](https://uclouvain.be/en/research-institutes/eli) de l'UCLouvain (Belgique).
 
 C'est un groupe de recherche de taille raisonnable, actif en écologie de terrain et expérimentale dans un contexte de conservation de la biodiversité.
 
@@ -54,7 +54,7 @@ La flèche en zigzag de notre logo symbolise le déclin actuel de la biodiversit
 1997
 :::
 ::: what
-Licence en biologie, Université catholique de Louvain, Belgique
+Licence en biologie, UCLouvain, Belgique
 :::
 :::
 
@@ -63,7 +63,7 @@ Licence en biologie, Université catholique de Louvain, Belgique
 1999
 :::
 ::: what
-Diplôme d'études approfondies en biologie, Université catholique de Louvain, Belgique
+Diplôme d'études approfondies en biologie, UCLouvain, Belgique
 :::
 :::
 
@@ -81,7 +81,7 @@ Chercheur invité (4 mois, bourse Marie Curie) @ UFZ Leipzig, Allemagne
 2003
 :::
 ::: what
-Doctorat en biologie, Université catholique de Louvain, Belgique — promoteurs Prof. Michel Baguette & Prof. Eric Le Boulengé
+Doctorat en biologie, UCLouvain, Belgique — promoteurs Prof. Michel Baguette & Prof. Eric Le Boulengé
 :::
 :::
 
@@ -90,7 +90,7 @@ Doctorat en biologie, Université catholique de Louvain, Belgique — promoteurs
 2003 – 2007
 :::
 ::: what
-Chercheur postdoctoral F.R.S.-FNRS avec le Prof. Michel Baguette @ Université catholique de Louvain
+Chercheur postdoctoral F.R.S.-FNRS avec le Prof. Michel Baguette @ UCLouvain
 :::
 :::
 
@@ -117,7 +117,7 @@ Séjour postdoctoral (3 mois) chez le Prof. Thomas P. Quinn, University of Washi
 2007 – 2018
 :::
 ::: what
-Chercheur qualifié F.R.S.-FNRS @ Université catholique de Louvain
+Chercheur qualifié F.R.S.-FNRS @ UCLouvain
 :::
 :::
 
@@ -126,7 +126,7 @@ Chercheur qualifié F.R.S.-FNRS @ Université catholique de Louvain
 2007 – 2015
 :::
 ::: what
-Chargé de cours à temps partiel @ Université catholique de Louvain
+Chargé de cours à temps partiel @ UCLouvain
 :::
 :::
 
@@ -153,7 +153,7 @@ Président du Centre de recherche sur la biodiversité @ UCLouvain
 2015 – 2024
 :::
 ::: what
-Professeur à temps partiel @ Université catholique de Louvain
+Professeur à temps partiel @ UCLouvain
 :::
 :::
 
@@ -171,7 +171,7 @@ Président de l'APERFU, l'association des chercheurs permanents F.R.S.-FNRS @ UC
 2018 – 2024
 :::
 ::: what
-Maître de recherches F.R.S.-FNRS @ Université catholique de Louvain
+Maître de recherches F.R.S.-FNRS @ UCLouvain
 :::
 :::
 
@@ -207,7 +207,7 @@ Président de l'Ecole de biologie @ UCLouvain
 2024 – aujourd'hui
 :::
 ::: what
-Professeur à temps plein @ Université catholique de Louvain, et Maître de recherches honoraire F.R.S.-FNRS
+Professeur à temps plein @ UCLouvain, et Maître de recherches honoraire F.R.S.-FNRS
 :::
 :::
 :::

@@ -14,7 +14,7 @@ description: "Adresse et plan d'accès à notre laboratoire."
 **Quantitative Conservation Biology Lab**\
 Prof. Nicolas Schtickzelle
 
-Université catholique de Louvain\
+UCLouvain\
 Earth and Life Institute — Ecologie & Biodiversité
 
 Croix du Sud 4, L7.07.04\
