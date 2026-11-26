@@ -9,15 +9,48 @@ description: "Short biography and career milestones of Nicolas Schtickzelle, Pro
 ![Nicolas Schtickzelle](assets/img/nicolas-portrait.png){fig-alt="Portrait of Nicolas Schtickzelle"}
 
 ::: {}
-I am a biologist, interested in understanding how nature works, passionate about
-discovering natural landscapes and their living organisms across the world.
-
-I am mainly studying how populations react to global change and how this affects
+I am a biologist interested in understanding how nature works, and passionate about
+discovering natural landscapes and their living organisms across the world. As Professor
+of Quantitative Ecology and Conservation Biology at UCLouvain, I study how organisms
+move, disperse and persist in fragmented, changing landscapes, and what this means for
 their long-term viability.
 
-I am also interested in developing new methods for research in ecology and evolution.
+My career has been rooted at UCLouvain, with formative stays abroad. After a Master in
+Biology (1997) and a Master of advanced studies (1999), whose thesis in biometry was
+awarded the Quetelet prize, I completed my PhD (2003) with Michel Baguette and Eric Le
+Boulengé on the metapopulation dynamics and viability of the bog fritillary butterfly,
+including a Marie Curie stay at UFZ Leipzig. As an F.R.S.-FNRS postdoctoral researcher,
+I worked with Jean Clobert in Paris and Thomas Quinn in Seattle, which led me to apply
+metapopulation dynamics and dispersal to other organisms, such as salmon and protists
+in microcosms. I then became F.R.S.-FNRS Research Associate (2007) and Senior Research
+Associate (2018), while also teaching at UCLouvain, first as part-time lecturer and then
+as part-time professor. In 2024, I left the F.R.S.-FNRS to become full-time professor at
+UCLouvain.
+
+Over the years I built the Quantitative Conservation Biology group around two
+complementary systems: long-term field studies of threatened butterflies, started by
+Michel Baguette in 1992, and experiments in *Tetrahymena* microcosms, where ecological
+mechanisms can be tested rigorously. I deliberately invest in methods, such as image and
+video analysis, 3D printing and sampling designs, and make them available to the
+community.
+
+I lead a small team where training young scientists comes first, and seven former
+mentees now hold permanent academic positions. I enjoy teaching and sharing the
+challenges of the biodiversity crisis with students, the public and decision-makers.
+I also contribute to running my university, currently as President of the School of
+Biology and of the Council of the Earth and Life Institute.
 :::
 :::
+
+## Recognition and service
+
+- Member of the Royal Academies for Science and the Arts of Belgium, College of Alumni
+  (since 2008)
+- Associate editor for *Frontiers in Ecology and Evolution* (since 2022) and *Psyche*
+  (since 2012); recommender for *Peer Community In Ecology* (since 2023)
+- Reviewer and panel member for funding bodies and institutions in 10 countries and the
+  European Union (more than 50 evaluations)
+- Committee member of UCLouvain's statistical helpdesk, SMCS (since 2010)
 
 ## Career milestones
 
@@ -87,7 +120,7 @@ Part-time professor @ UCLouvain
 
 ::: item
 ::: yr
-2010 – 2016
+2010 – 2017
 :::
 ::: what
 President of the Biodiversity Research Centre @ UCLouvain
