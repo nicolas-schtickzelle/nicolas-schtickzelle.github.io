@@ -591,3 +591,6 @@ a.home-more:hover { text-decoration: underline; }
 .pubs-home { margin-top: .5rem; }
 .home-biblio { margin: .6rem 0 .3rem; padding: .5rem .9rem; background: #eef1fb; border-left: 4px solid #1b2a8a; border-radius: 6px; font-weight: 600; color: #10195c; }
 .home-contact { background: #eef1fb; border-radius: 10px; padding: 1rem 1.2rem; }
+.home-lead figcaption, .home-lead .figure-caption { display: none; }
+.home-card p:has(img) { margin: 0; }
+.home-biblio p, .home-contact p:last-child { margin-bottom: 0; }
