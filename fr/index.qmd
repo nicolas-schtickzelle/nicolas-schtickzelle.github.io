@@ -10,13 +10,14 @@ description: "«Comment les animaux réagissent-ils aux changements environnemen
 # Chercheur et Professeur en écologie quantitative et biologie de la conservation
 
 ::: tagline
-UCLouvain · Earth and Life Institute · Ecologie et Biodiversité
+UCLouvain (Louvain-la-Neuve, Belgique)\
+Earth and Life Institute · Ecologie et Biodiversité
 :::
 
 ::: hero-logos
 [![UCLouvain](../assets/img/uclouvain-logo.png){fig-alt="UCLouvain"}](https://uclouvain.be/en/index.html)
 [![Earth and Life Institute](../assets/img/eli-logo.png){fig-alt="Earth and Life Institute"}](https://uclouvain.be/en/research-institutes/eli)
-![Ecology and Biodiversity](../assets/img/eliv-logo.png){fig-alt="ELI Ecology and Biodiversity"}
+[![Ecology and Biodiversity](../assets/img/eliv-logo.png){fig-alt="ELI Ecology and Biodiversity"}](https://uclouvain.be/en/research-institutes/eli/ecology-and-biodiversity)
 :::
 :::
 
