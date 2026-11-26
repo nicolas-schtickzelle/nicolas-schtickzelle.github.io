@@ -23,7 +23,6 @@ website:
   navbar:
     logo: assets/img/logo.png
     logo-alt: "Nicolas Schtickzelle"
-    title: false
     pinned: true
     left:
       - href: index.qmd

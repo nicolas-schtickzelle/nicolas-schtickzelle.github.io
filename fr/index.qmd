@@ -119,7 +119,7 @@ Développer et partager des méthodes : plans d'échantillonnage et statistiques
 
 ## Le groupe Quantitative Conservation Biology
 
-::: theme
+::: {.theme .home-group}
 ::: {}
 Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats
 et aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.
