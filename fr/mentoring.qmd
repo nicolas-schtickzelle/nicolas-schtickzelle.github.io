@@ -62,6 +62,15 @@ mémorant.es
 stagiaires
 :::
 :::
+
+::: figure-box
+::: n
+7
+:::
+::: lab
+anciens mentorés occupant un poste académique permanent
+:::
+:::
 :::
 
 ## Mentorés actuels
@@ -404,5 +413,7 @@ Maintenant [chercheur @ INRAE Thonon-les-Bains (France)](https://allanraffard.wo
 :::
 
 ## Où sont mes anciens mentorés aujourd'hui ?
+
+Sept anciens mentorés occupent aujourd'hui un poste académique permanent. La carte montre où travaillent aujourd'hui mes anciens mentorés ; cliquez sur une photo pour plus de détails.
 
 {{< include _includes/mentees_map.fr.md >}}

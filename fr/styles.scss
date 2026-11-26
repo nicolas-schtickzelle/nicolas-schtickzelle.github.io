@@ -594,3 +594,7 @@ a.home-more:hover { text-decoration: underline; }
 .home-lead figcaption, .home-lead .figure-caption { display: none; }
 .home-card p:has(img) { margin: 0; }
 .home-biblio p, .home-contact p:last-child { margin-bottom: 0; }
+.home-cards { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 700px) { .home-cards { grid-template-columns: 1fr; } }
+.home-card img { height: 200px; }
+.home-card img[src*="pva-crystal-ball"], .home-card img[src*="artificial-landscape"] { object-fit: contain; background: #fff; padding: 6px; }

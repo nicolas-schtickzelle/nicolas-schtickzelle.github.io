@@ -27,7 +27,7 @@ Earth and Life Institute · Ecologie et Biodiversité
 ::: {}
 **Comment les populations réagissent-elles aux changements environnementaux globaux, et qu'est-ce que cela implique pour leur viabilité à long terme ?** Cette question guide mes recherches en écologie quantitative et en biologie de la conservation.
 
-[En savoir plus : bio en bref et carrière →](short-bio.qmd)
+[En savoir plus : bio en bref et carrière →](short-bio.qmd){.home-more}
 :::
 :::
 
@@ -47,7 +47,7 @@ Suivi à long terme et capture–marquage–recapture du nacré de la bistorte *
 
 ### Protistes en microcosmes
 
-Expériences en laboratoire avec le cilié *Tetrahymena thermophila* pour étudier les causes et les conséquences de la dispersion.
+Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la manière dont les déplacements et les décisions des individus déterminent la dispersion, et sur le rôle de la variabilité intraspécifique.
 :::
 
 ::: home-card
@@ -55,7 +55,15 @@ Expériences en laboratoire avec le cilié *Tetrahymena thermophila* pour étudi
 
 ### Modélisation quantitative
 
-Analyse de viabilité des populations pour prédire la persistance des espèces, et nouvelles méthodes pour la recherche en écologie.
+Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux.
+:::
+
+::: home-card
+![3D-printed artificial landscape](../assets/img/artificial-landscape.png){fig-alt="3D-printed artificial landscape for microcosm experiments"}
+
+### Méthodes pour l'écologie
+
+Développer et partager des méthodes : plans d'échantillonnage et statistiques, logiciels d'analyse automatique de vidéos, et [impression 3D de paysages expérimentaux](https://doi.org/10.20944/preprints202003.0220.v1).
 :::
 :::
 
@@ -68,9 +76,9 @@ Analyse de viabilité des populations pour prédire la persistance des espèces,
 Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats
 et aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.
 Nous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes
-et la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité.
+et la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité. Nous aimons aussi développer de nouvelles méthodes et de nouveaux outils pour l'écologie et l'évolution, et les partager avec la communauté.
 
-À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés.
+À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés ; 7 anciens mentorés occupent aujourd'hui un poste académique permanent.
 
 [Découvrir l'équipe et nos anciens →](mentoring.qmd){.home-more}
 :::
@@ -86,7 +94,10 @@ et la modélisation quantitative pour comprendre ces processus et contribuer à 
 
 ## Enseignement
 
-J'enseigne les statistiques, l'analyse de données, la biologie de la conservation et la démarche scientifique aux étudiants de bachelier et de master en biologie à l'UCLouvain : *Principes de statistiques et analyse des données biologiques* (LBIO1283), *Conservation de la biodiversité* (LBOE2120), *Démarche scientifique en biologie* (LBIO1116) et *Analyse de données et modélisation des systèmes biologiques* (LBOE2112).
+J'enseigne aux étudiants de bachelier et de master en biologie à l'UCLouvain, dans deux domaines :
+
+- **Écologie :** *Conservation de la biodiversité* (LBOE2120) et le *Cours de terrain en écologie intégrée* (LBOE2114).
+- **Méthodes et statistiques :** *Principes de statistiques et analyse des données biologiques* (LBIO1283), *Démarche scientifique en biologie* (LBIO1116) et *Analyse de données et modélisation des systèmes biologiques* (LBOE2112).
 
 [Détail des cours →](teaching.qmd){.home-more}
 

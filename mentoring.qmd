@@ -65,6 +65,15 @@ MSc theses
 research internships
 :::
 :::
+
+::: figure-box
+::: n
+7
+:::
+::: lab
+former mentees in permanent academic positions
+:::
+:::
 :::
 
 ## Current mentees
@@ -423,5 +432,8 @@ Now [researcher @ INRAE Thonon-les-Bains (France)](https://allanraffard.wordpres
 :::
 
 ## Where are my mentees pursuing their career now?
+
+Seven former mentees now hold permanent academic positions. The map shows where former
+mentees work today; click a photo for details.
 
 {{< include _includes/mentees_map.en.md >}}

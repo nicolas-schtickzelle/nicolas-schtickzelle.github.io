@@ -18,34 +18,7 @@ I currently teach courses to BSc and MSc students in Biology @ UCLouvain coverin
 statistics for biology, conservation biology, and field ecology. I am proud my
 courses receive very positive assessments from students.
 
-## Courses
-
-::: course
-### Statistical principles and analysis of biological data — LBIO1283
-
-::: meta
-BSc Biology, 3rd year · 4 ECTS
-:::
-
-The student shall understand, and become able to use correctly and critically the
-principal methods for the statistical analysis of biological and environmental
-data. He or she perceives the relationship between experimental design and analysis
-model and the necessity of planning experiments ahead, and becomes familiar with
-computer-aided data analysis.
-
-After completing this course, the student should master the basic methods for the
-analysis of biological data, be able to choose the analysis model and method best
-adapted to the design of simple factorial experiments, and to analyse and interpret
-correctly the results of such experiments. They should then be able to further
-progress by themselves and follow fruitfully advanced lectures on experimental
-design and data analysis.
-
-::: gallery
-![Example of course slide](assets/img/lbio1283-01.png){fig-alt="LBIO1283 course slide"}
-![Example of course slide](assets/img/lbio1283-02.png){fig-alt="LBIO1283 course slide"}
-![Example of course slide](assets/img/lbio1283-03.png){fig-alt="LBIO1283 course slide"}
-:::
-:::
+## Ecology courses
 
 ::: course
 ### Biodiversity conservation — LBOE2120
@@ -74,6 +47,48 @@ and restoration approaches.
 ![Example of course slide](assets/img/lboe2120-01.png){fig-alt="LBOE2120 course slide"}
 ![Example of course slide](assets/img/lboe2120-02.png){fig-alt="LBOE2120 course slide"}
 ![Example of course slide](assets/img/lboe2120-03.png){fig-alt="LBOE2120 course slide"}
+:::
+:::
+
+::: course
+### Field course in integrated ecology — LBOE2114
+
+::: meta
+MSc Biology · residential field course in Belgium
+:::
+
+A residential field course in terrestrial and aquatic ecology, which I co-teach with
+Frederik De Laender and Ruben Evens. In small groups, students design and run their
+own research project: they prepare it before the stay, collect their data in the
+field, then analyse and present their results after it.
+:::
+
+## Methods and statistics courses
+
+::: course
+### Statistical principles and analysis of biological data — LBIO1283
+
+::: meta
+BSc Biology, 3rd year · 4 ECTS
+:::
+
+The student shall understand, and become able to use correctly and critically the
+principal methods for the statistical analysis of biological and environmental
+data. He or she perceives the relationship between experimental design and analysis
+model and the necessity of planning experiments ahead, and becomes familiar with
+computer-aided data analysis.
+
+After completing this course, the student should master the basic methods for the
+analysis of biological data, be able to choose the analysis model and method best
+adapted to the design of simple factorial experiments, and to analyse and interpret
+correctly the results of such experiments. They should then be able to further
+progress by themselves and follow fruitfully advanced lectures on experimental
+design and data analysis.
+
+::: gallery
+![Example of course slide](assets/img/lbio1283-01.png){fig-alt="LBIO1283 course slide"}
+![Example of course slide](assets/img/lbio1283-02.png){fig-alt="LBIO1283 course slide"}
+![Example of course slide](assets/img/lbio1283-03.png){fig-alt="LBIO1283 course slide"}
 :::
 :::
 

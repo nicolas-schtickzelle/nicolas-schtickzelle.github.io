@@ -26,7 +26,7 @@ Earth and Life Institute · Ecology and Biodiversity
 for their long-term viability?** This question drives my research in quantitative
 ecology and conservation biology.
 
-[More about me: short bio and career →](short-bio.qmd)
+[More about me: short bio and career →](short-bio.qmd){.home-more}
 :::
 :::
 
@@ -47,8 +47,8 @@ eunomia* in Belgium since 1992: metapopulation dynamics and movement.
 
 ### Protists in microcosms
 
-Laboratory experiments with the ciliate *Tetrahymena thermophila* to study the
-causes and consequences of dispersal.
+Laboratory experiments with the ciliate *Tetrahymena thermophila* on how individual
+movement and decisions drive dispersal, and on the role of intraspecific variability.
 :::
 
 ::: home-card
@@ -56,8 +56,18 @@ causes and consequences of dispersal.
 
 ### Quantitative modelling
 
-Population viability analysis to forecast species persistence, and new methods for
-research in ecology.
+Population viability analysis to forecast the persistence of species and populations
+facing global change.
+:::
+
+::: home-card
+![3D-printed artificial landscape](assets/img/artificial-landscape.png){fig-alt="3D-printed artificial landscape for microcosm experiments"}
+
+### Methods for ecology
+
+Developing and sharing methods: sampling designs and statistics, software for
+automatic video analysis, and [3D printing of experimental
+landscapes](https://doi.org/10.20944/preprints202003.0220.v1).
 :::
 :::
 
@@ -71,8 +81,11 @@ We are a small, collaborative team studying how populations cope with habitat fr
 and global change, through dispersal, metapopulation dynamics and population viability.
 We combine field studies of butterflies, laboratory experiments with protists in microcosms
 and quantitative modelling to understand these processes and help reverse biodiversity loss.
+We also enjoy developing new methods and tools for ecology and evolution, and sharing
+them with the community.
 
-So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised.
+So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised;
+7 former mentees now hold permanent academic positions.
 
 [Meet the team and our alumni →](mentoring.qmd){.home-more}
 :::
@@ -88,11 +101,13 @@ So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses super
 
 ## Teaching
 
-I teach statistics, data analysis, conservation biology and the scientific approach
-to BSc and MSc students in Biology at UCLouvain: *Statistical principles and analysis
-of biological data* (LBIO1283), *Biodiversity conservation* (LBOE2120), *Scientific
-approach in biology* (LBIO1116) and *Data analysis and modeling of biological
-systems* (LBOE2112).
+I teach BSc and MSc students in Biology at UCLouvain, in two areas:
+
+- **Ecology:** *Biodiversity conservation* (LBOE2120) and the *Field course in
+  integrated ecology* (LBOE2114).
+- **Methods and statistics:** *Statistical principles and analysis of biological data*
+  (LBIO1283), *Scientific approach in biology* (LBIO1116) and *Data analysis and
+  modeling of biological systems* (LBOE2112).
 
 [Course details →](teaching.qmd){.home-more}
 

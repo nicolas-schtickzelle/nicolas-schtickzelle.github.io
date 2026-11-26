@@ -37,15 +37,15 @@
    "pagetitle": "Recherche",
    "title": "Recherche"
   },
+  "short-bio.qmd": {
+   "description": "Biographie succincte et étapes de carrière de Nicolas Schtickzelle, professeur d'écologie quantitative et de biologie de la conservation à l'UCLouvain.",
+   "pagetitle": "Bio en bref",
+   "title": "Bio en bref"
+  },
   "teaching.qmd": {
    "description": "Ma philosophie d'enseignement et la description des cours que je donne à l'UCLouvain.",
    "pagetitle": "Enseignement",
    "title": "Enseignement"
-  },
-  "short-bio.qmd": {
-   "title": "Bio en bref",
-   "pagetitle": "Bio en bref",
-   "description": "Biographie succincte et étapes de carrière de Nicolas Schtickzelle, professeur d'écologie quantitative et de biologie de la conservation à l'UCLouvain."
   }
  },
  "runs": {
@@ -106,8 +106,8 @@
    "fr": "**Comment les populations réagissent-elles aux changements environnementaux globaux, et qu'est-ce que cela implique pour leur viabilité à long terme ?** Cette question guide mes recherches en écologie quantitative et en biologie de la conservation."
   },
   "index.qmd#3": {
-   "en": "[More about me: short bio and career →](short-bio.qmd)",
-   "fr": "[En savoir plus : bio en bref et carrière →](short-bio.qmd)"
+   "en": "[More about me: short bio and career →](short-bio.qmd){.home-more}",
+   "fr": "[En savoir plus : bio en bref et carrière →](short-bio.qmd){.home-more}"
   },
   "index.qmd#4": {
    "en": "## Research",
@@ -126,66 +126,78 @@
    "fr": "### Protistes en microcosmes"
   },
   "index.qmd#8": {
-   "en": "Laboratory experiments with the ciliate *Tetrahymena thermophila* to study the causes and consequences of dispersal.",
-   "fr": "Expériences en laboratoire avec le cilié *Tetrahymena thermophila* pour étudier les causes et les conséquences de la dispersion."
+   "en": "Laboratory experiments with the ciliate *Tetrahymena thermophila* on how individual movement and decisions drive dispersal, and on the role of intraspecific variability.",
+   "fr": "Expériences en laboratoire avec le cilié *Tetrahymena thermophila* sur la manière dont les déplacements et les décisions des individus déterminent la dispersion, et sur le rôle de la variabilité intraspécifique."
   },
   "index.qmd#9": {
    "en": "### Quantitative modelling",
    "fr": "### Modélisation quantitative"
   },
   "index.qmd#10": {
-   "en": "Population viability analysis to forecast species persistence, and new methods for research in ecology.",
-   "fr": "Analyse de viabilité des populations pour prédire la persistance des espèces, et nouvelles méthodes pour la recherche en écologie."
+   "en": "Population viability analysis to forecast the persistence of species and populations facing global change.",
+   "fr": "Analyse de viabilité des populations pour prédire la persistance des espèces et des populations face aux changements globaux."
   },
   "index.qmd#11": {
+   "en": "### Methods for ecology",
+   "fr": "### Méthodes pour l'écologie"
+  },
+  "index.qmd#12": {
+   "en": "Developing and sharing methods: sampling designs and statistics, software for automatic video analysis, and [3D printing of experimental landscapes](https://doi.org/10.20944/preprints202003.0220.v1).",
+   "fr": "Développer et partager des méthodes : plans d'échantillonnage et statistiques, logiciels d'analyse automatique de vidéos, et [impression 3D de paysages expérimentaux](https://doi.org/10.20944/preprints202003.0220.v1)."
+  },
+  "index.qmd#13": {
    "en": "[All research interests →](research-interests.qmd){.home-more}",
    "fr": "[Tous mes thèmes de recherche →](research-interests.qmd){.home-more}"
   },
-  "index.qmd#12": {
+  "index.qmd#14": {
    "en": "## The Quantitative Conservation Biology group",
    "fr": "## Le groupe Quantitative Conservation Biology"
   },
-  "index.qmd#13": {
-   "en": "We are a small, collaborative team studying how populations cope with habitat fragmentation and global change, through dispersal, metapopulation dynamics and population viability. We combine field studies of butterflies, laboratory experiments with protists in microcosms and quantitative modelling to understand these processes and help reverse biodiversity loss.",
-   "fr": "Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats\net aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.\nNous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes\net la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité."
-  },
-  "index.qmd#14": {
-   "en": "So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised.",
-   "fr": "À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés."
-  },
   "index.qmd#15": {
+   "en": "We are a small, collaborative team studying how populations cope with habitat fragmentation and global change, through dispersal, metapopulation dynamics and population viability. We combine field studies of butterflies, laboratory experiments with protists in microcosms and quantitative modelling to understand these processes and help reverse biodiversity loss. We also enjoy developing new methods and tools for ecology and evolution, and sharing them with the community.",
+   "fr": "Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats\net aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.\nNous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes\net la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité. Nous aimons aussi développer de nouvelles méthodes et de nouveaux outils pour l'écologie et l'évolution, et les partager avec la communauté."
+  },
+  "index.qmd#16": {
+   "en": "So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised; 7 former mentees now hold permanent academic positions.",
+   "fr": "À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés ; 7 anciens mentorés occupent aujourd'hui un poste académique permanent."
+  },
+  "index.qmd#17": {
    "en": "[Meet the team and our alumni →](mentoring.qmd){.home-more}",
    "fr": "[Découvrir l'équipe et nos anciens →](mentoring.qmd){.home-more}"
   },
-  "index.qmd#16": {
+  "index.qmd#18": {
    "en": "## Latest publications",
    "fr": "## Dernières publications"
   },
-  "index.qmd#17": {
+  "index.qmd#19": {
    "en": "[All publications and bibliometry →](publications.qmd){.home-more}",
    "fr": "[Toutes les publications et la bibliométrie →](publications.qmd){.home-more}"
   },
-  "index.qmd#18": {
+  "index.qmd#20": {
    "en": "## Teaching",
    "fr": "## Enseignement"
   },
-  "index.qmd#19": {
-   "en": "I teach statistics, data analysis, conservation biology and the scientific approach to BSc and MSc students in Biology at UCLouvain: *Statistical principles and analysis of biological data* (LBIO1283), *Biodiversity conservation* (LBOE2120), *Scientific approach in biology* (LBIO1116) and *Data analysis and modeling of biological systems* (LBOE2112).",
-   "fr": "J'enseigne les statistiques, l'analyse de données, la biologie de la conservation et la démarche scientifique aux étudiants de bachelier et de master en biologie à l'UCLouvain : *Principes de statistiques et analyse des données biologiques* (LBIO1283), *Conservation de la biodiversité* (LBOE2120), *Démarche scientifique en biologie* (LBIO1116) et *Analyse de données et modélisation des systèmes biologiques* (LBOE2112)."
+  "index.qmd#21": {
+   "en": "I teach BSc and MSc students in Biology at UCLouvain, in two areas:",
+   "fr": "J'enseigne aux étudiants de bachelier et de master en biologie à l'UCLouvain, dans deux domaines :"
   },
-  "index.qmd#20": {
+  "index.qmd#22": {
+   "en": "- **Ecology:** *Biodiversity conservation* (LBOE2120) and the *Field course in integrated ecology* (LBOE2114). - **Methods and statistics:** *Statistical principles and analysis of biological data* (LBIO1283), *Scientific approach in biology* (LBIO1116) and *Data analysis and modeling of biological systems* (LBOE2112).",
+   "fr": "- **Écologie :** *Conservation de la biodiversité* (LBOE2120) et le *Cours de terrain en écologie intégrée* (LBOE2114).\n- **Méthodes et statistiques :** *Principes de statistiques et analyse des données biologiques* (LBIO1283), *Démarche scientifique en biologie* (LBIO1116) et *Analyse de données et modélisation des systèmes biologiques* (LBOE2112)."
+  },
+  "index.qmd#23": {
    "en": "[Course details →](teaching.qmd){.home-more}",
    "fr": "[Détail des cours →](teaching.qmd){.home-more}"
   },
-  "index.qmd#21": {
+  "index.qmd#24": {
    "en": "## Contact",
    "fr": "## Contact"
   },
-  "index.qmd#22": {
+  "index.qmd#25": {
    "en": "**Email:** [nicolas.schtickzelle \\[at\\] uclouvain.be](#email)\\ **Office:** Carnoy building, room c.157, Croix du Sud 4, Louvain-la-Neuve",
    "fr": "**Email :** [nicolas.schtickzelle \\[at\\] uclouvain.be](#email)\\\n**Bureau :** bâtiment Carnoy, local c.157, Croix du Sud 4, Louvain-la-Neuve"
   },
-  "index.qmd#23": {
+  "index.qmd#26": {
    "en": "[Address, map and directions →](contact.qmd){.home-more}",
    "fr": "[Adresse, plan et accès →](contact.qmd){.home-more}"
   },
@@ -246,280 +258,292 @@
    "fr": "stagiaires"
   },
   "mentoring.qmd#14": {
+   "en": "7",
+   "fr": "7"
+  },
+  "mentoring.qmd#15": {
+   "en": "former mentees in permanent academic positions",
+   "fr": "anciens mentorés occupant un poste académique permanent"
+  },
+  "mentoring.qmd#16": {
    "en": "## Current mentees",
    "fr": "## Mentorés actuels"
   },
-  "mentoring.qmd#15": {
+  "mentoring.qmd#17": {
    "en": "Bérengère Bastogne",
    "fr": "Bérengère Bastogne"
   },
-  "mentoring.qmd#16": {
+  "mentoring.qmd#18": {
    "en": "PhD student (2021–)",
    "fr": "Doctorante (2021–)"
   },
-  "mentoring.qmd#17": {
+  "mentoring.qmd#19": {
    "en": "The role of intraspecific variation in modulating the effects of environmental change drivers on ecological systems (mycorrhizal fungi)",
    "fr": "Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (champignons mycorhiziens)"
   },
-  "mentoring.qmd#18": {
+  "mentoring.qmd#20": {
    "en": "Victor Brans",
    "fr": "Victor Brans"
   },
-  "mentoring.qmd#19": {
+  "mentoring.qmd#21": {
    "en": "PhD student (2022–)",
    "fr": "Doctorant (2022–)"
   },
-  "mentoring.qmd#20": {
+  "mentoring.qmd#22": {
    "en": "Impacts and interactions of multiple environmental change drivers in nature: a metapopulation viability analysis of *Boloria eunomia* in Belgian Ardenne",
    "fr": "Impacts et interactions de multiples facteurs de changement environnemental dans la nature : une analyse de viabilité de métapopulation de *Boloria eunomia* en Ardenne belge"
   },
-  "mentoring.qmd#21": {
+  "mentoring.qmd#23": {
    "en": "Michaëlla Dacek",
    "fr": "Michaëlla Dacek"
   },
-  "mentoring.qmd#22": {
+  "mentoring.qmd#24": {
    "en": "PhD student (2025–)",
    "fr": "Doctorante (2025–)"
   },
-  "mentoring.qmd#23": {
+  "mentoring.qmd#25": {
    "en": "Unveiling the processes behind dispersal, its intraspecific variation and its environmental modulation in a ciliate",
    "fr": "Dévoiler les processus à l'origine de la dispersion, sa variation intraspécifique et sa modulation environnementale chez un cilié"
   },
-  "mentoring.qmd#24": {
+  "mentoring.qmd#26": {
    "en": "## Former mentees",
    "fr": "## Anciens mentorés"
   },
-  "mentoring.qmd#25": {
+  "mentoring.qmd#27": {
    "en": "Tessa de Bruin",
    "fr": "Tessa de Bruin"
   },
-  "mentoring.qmd#26": {
+  "mentoring.qmd#28": {
    "en": "PhD student (2018–2026)",
    "fr": "Doctorante (2018–2026)"
   },
-  "mentoring.qmd#27": {
+  "mentoring.qmd#29": {
    "en": "The role of intraspecific variation in modulating the effects of environmental change drivers on ecological systems (ciliated protists)",
    "fr": "Le rôle de la variation intraspécifique dans la modulation des effets des changements environnementaux d'origine anthropique sur les systèmes écologiques (protistes ciliés)"
   },
-  "mentoring.qmd#28": {
+  "mentoring.qmd#30": {
    "en": "Dr. Julie Choutt",
    "fr": "Dr. Julie Choutt"
   },
-  "mentoring.qmd#29": {
+  "mentoring.qmd#31": {
    "en": "PhD student (2007–2011)",
    "fr": "Doctorante (2007–2011)"
   },
-  "mentoring.qmd#30": {
+  "mentoring.qmd#32": {
    "en": "The butterfly and the wasp: host–parasitoid relationship between *Boloria eunomia* and *Cotesia eunomiae*",
    "fr": "Le papillon et la guêpe : relation hôte-parasitoïde entre *Boloria eunomia* et *Cotesia eunomiae*"
   },
-  "mentoring.qmd#31": {
+  "mentoring.qmd#33": {
    "en": "Dr. Quentin Dubois",
    "fr": "Dr. Quentin Dubois"
   },
-  "mentoring.qmd#32": {
+  "mentoring.qmd#34": {
    "en": "PhD student (2012–2018)",
    "fr": "Doctorant (2012–2018)"
   },
-  "mentoring.qmd#33": {
+  "mentoring.qmd#35": {
    "en": "The conservation of the Cranberry Fritillary *Boloria aquilonaris* across space and over time: study of a boreo-montane butterfly from distribution to demography",
    "fr": "La conservation du Nacré de la canneberge *Boloria aquilonaris* à travers l'espace et dans le temps : étude d'un papillon boréo-montagnard, de sa distribution à sa démographie"
   },
-  "mentoring.qmd#34": {
+  "mentoring.qmd#36": {
    "en": "Now project officer (chargé de mission) @ Contrat de Rivière Semois-Chiers (Belgium)",
    "fr": "Maintenant chargé de mission @ Contrat de Rivière Semois-Chiers (Belgique)"
   },
-  "mentoring.qmd#35": {
+  "mentoring.qmd#37": {
    "en": "Dr. Marie-Charlotte Gielen",
    "fr": "Dr. Marie-Charlotte Gielen"
   },
-  "mentoring.qmd#36": {
+  "mentoring.qmd#38": {
    "en": "PhD student (2018–2025)",
    "fr": "Doctorante (2018–2025)"
   },
-  "mentoring.qmd#37": {
+  "mentoring.qmd#39": {
    "en": "Refining track-based surveys to support wildlife conservation and human coexistence in the Kalahari",
    "fr": "Perfectionner les relevés de traces d'animaux pour soutenir la conservation de la grande faune et sa coexistence avec l'Homme dans le Kalahari"
   },
-  "mentoring.qmd#38": {
+  "mentoring.qmd#40": {
    "en": "Dr. Staffan Jacob",
    "fr": "Dr. Staffan Jacob"
   },
-  "mentoring.qmd#39": {
+  "mentoring.qmd#41": {
    "en": "Postdoc (2016–2018)",
    "fr": "Postdoc (2016–2018)"
   },
-  "mentoring.qmd#40": {
+  "mentoring.qmd#42": {
    "en": "Role of nonrandom dispersal in spatial heterogeneity of phenotypes and species response to environmental change",
    "fr": "Rôle de la dispersion non aléatoire dans l'hétérogénéité spatiale des phénotypes et la réponse des espèces aux changements environnementaux"
   },
-  "mentoring.qmd#41": {
+  "mentoring.qmd#43": {
    "en": "Now permanent researcher @ CNRS Moulis (France)",
    "fr": "Maintenant chercheuse permanente @ CNRS Moulis (France)"
   },
-  "mentoring.qmd#42": {
+  "mentoring.qmd#44": {
    "en": "Estelle Laurent",
    "fr": "Estelle Laurent"
   },
-  "mentoring.qmd#43": {
+  "mentoring.qmd#45": {
    "en": "PhD student (2015–2022)",
    "fr": "Doctorante (2015–2022)"
   },
-  "mentoring.qmd#44": {
+  "mentoring.qmd#46": {
    "en": "Dispersal heterogeneity: causes and consequences in a unicellular ciliate organism in microcosms",
    "fr": "Hétérogénéité de la dispersion : causes et conséquences chez un organisme cilié unicellulaire en microcosmes"
   },
-  "mentoring.qmd#45": {
+  "mentoring.qmd#47": {
    "en": "Dr. Christophe Lebigre",
    "fr": "Dr. Christophe Lebigre"
   },
-  "mentoring.qmd#46": {
+  "mentoring.qmd#48": {
    "en": "Postdoc (2011–2016)",
    "fr": "Postdoc (2011–2016)"
   },
-  "mentoring.qmd#47": {
+  "mentoring.qmd#49": {
    "en": "Ageing subpopulations and ecological successions: a new perspective on spatial genetics?",
    "fr": "Vieillissement des sous-populations et successions écologiques : une nouvelle perspective sur la génétique spatiale ?"
   },
-  "mentoring.qmd#48": {
+  "mentoring.qmd#50": {
    "en": "Now permanent researcher @ IFREMER (France)",
    "fr": "Maintenant chercheur permanent @ IFREMER (France)"
   },
-  "mentoring.qmd#49": {
+  "mentoring.qmd#51": {
    "en": "Dr. Delphine Legrand",
    "fr": "Dr. Delphine Legrand"
   },
-  "mentoring.qmd#50": {
+  "mentoring.qmd#52": {
    "en": "Postdoc (2014–2015)",
    "fr": "Postdoc (2014–2015)"
   },
-  "mentoring.qmd#51": {
+  "mentoring.qmd#53": {
    "en": "How do organisms adapt to changes in environmental conditions: an experimental evolution and genomic approach",
    "fr": "Comment les organismes s'adaptent-ils aux changements des conditions environnementales : évolution expérimentale et approche génomique"
   },
-  "mentoring.qmd#52": {
+  "mentoring.qmd#54": {
    "en": "Now permanent researcher @ CNRS Moulis (France)",
    "fr": "Maintenant chercheuse permanente @ CNRS Moulis (France)"
   },
-  "mentoring.qmd#53": {
+  "mentoring.qmd#55": {
    "en": "Dr. Florent Manzi",
    "fr": "Dr. Florent Manzi"
   },
-  "mentoring.qmd#54": {
+  "mentoring.qmd#56": {
    "en": "Postdoc (2022–2024)",
    "fr": "Postdoc (2022–2024)"
   },
-  "mentoring.qmd#55": {
+  "mentoring.qmd#57": {
    "en": "Habitat choice: evolution and eco-evolutionary consequences",
    "fr": "Choix d'habitat : évolution et conséquences éco-évolutives"
   },
-  "mentoring.qmd#56": {
+  "mentoring.qmd#58": {
    "en": "Dr. Thibaut Morel Journel",
    "fr": "Dr. Thibaut Morel Journel"
   },
-  "mentoring.qmd#57": {
+  "mentoring.qmd#59": {
    "en": "Postdoc (2016–2018)",
    "fr": "Postdoc (2016–2018)"
   },
-  "mentoring.qmd#58": {
+  "mentoring.qmd#60": {
    "en": "The role of landscape topology on metapopulation dynamics under environmental change: from *in silico* to *in vivo* approaches",
    "fr": "Le rôle de la topologie du paysage dans la dynamique de métapopulation dans le contexte des changements environnementaux : des approches *in silico* aux approches *in vivo*"
   },
-  "mentoring.qmd#59": {
+  "mentoring.qmd#61": {
    "en": "Now [associate professor at Sorbonne Paris Nord (France)](https://thibaut-morel-journel.fulltxt.net/)",
    "fr": "Maintenant [professeur associé à Sorbonne Paris Nord (France)](https://thibaut-morel-journel.fulltxt.net/)"
   },
-  "mentoring.qmd#60": {
+  "mentoring.qmd#62": {
    "en": "Dr. Frank Pennekamp",
    "fr": "Dr. Frank Pennekamp"
   },
-  "mentoring.qmd#61": {
+  "mentoring.qmd#63": {
    "en": "PhD student (2009–2014)",
    "fr": "Doctorant (2009–2014)"
   },
-  "mentoring.qmd#62": {
+  "mentoring.qmd#64": {
    "en": "Swimming with ciliates — dispersal and movement ecology of *T. thermophila*",
    "fr": "Nager avec des ciliés — écologie de la dispersion et du mouvement de *T. thermophila*"
   },
-  "mentoring.qmd#63": {
+  "mentoring.qmd#65": {
    "en": "Now [independent group leader @ University of Zurich (Switzerland)](https://www.frank-pennekamp.info/)",
    "fr": "Maintenant [chef de groupe indépendant @ Université de Zurich (Suisse)](https://www.frank-pennekamp.info/)"
   },
-  "mentoring.qmd#64": {
+  "mentoring.qmd#66": {
    "en": "Dr. Viktoriia Radchuk",
    "fr": "Dr. Viktoriia Radchuk"
   },
-  "mentoring.qmd#65": {
+  "mentoring.qmd#67": {
    "en": "PhD student (2008–2012) · Postdoc (2012–2013)",
    "fr": "Doctorante (2008–2012) · Postdoc (2012–2013)"
   },
-  "mentoring.qmd#66": {
+  "mentoring.qmd#68": {
    "en": "Dealing with biological complexity in Population Viability Analysis: lessons from two endangered butterfly species",
    "fr": "Traitement de la complexité biologique dans l'analyse de viabilité des populations : leçons de deux espèces de papillons menacées d'extinction"
   },
-  "mentoring.qmd#67": {
+  "mentoring.qmd#69": {
    "en": "Now [senior researcher @ Leibniz Institute for Zoo and Wildlife Research (Germany)](https://www.viktoriiaradchuk.com/)",
    "fr": "Maintenant [chercheuse senior @ Leibniz Institute for Zoo and Wildlife Research (Allemagne)](https://www.viktoriiaradchuk.com/)"
   },
-  "mentoring.qmd#68": {
+  "mentoring.qmd#70": {
    "en": "Dr. Nils Svendsen",
    "fr": "Dr. Nils Svendsen"
   },
-  "mentoring.qmd#69": {
+  "mentoring.qmd#71": {
    "en": "PhD student (2016–2024)",
    "fr": "Doctorant (2016–2024)"
   },
-  "mentoring.qmd#70": {
+  "mentoring.qmd#72": {
    "en": "Relationships among functional traits in experimental microcosms of the protist *Tetrahymena thermophila*",
    "fr": "Relations entre les traits fonctionnels dans les microcosmes expérimentaux du protiste *Tetrahymena thermophila*"
   },
-  "mentoring.qmd#71": {
+  "mentoring.qmd#73": {
    "en": "Virginie Thuillier",
    "fr": "Virginie Thuillier"
   },
-  "mentoring.qmd#72": {
+  "mentoring.qmd#74": {
    "en": "PhD student (2011–2017)",
    "fr": "Doctorante (2011–2017)"
   },
-  "mentoring.qmd#73": {
+  "mentoring.qmd#75": {
    "en": "Phenotypic plasticity and evolution of life history traits of *Tetrahymena thermophila* in microcosms",
    "fr": "Plasticité phénotypique et évolution des traits d'histoire de vie chez *Tetrahymena thermophila* en microcosmes"
   },
-  "mentoring.qmd#74": {
+  "mentoring.qmd#76": {
    "en": "Dr. Camille Turlure",
    "fr": "Dr. Camille Turlure"
   },
-  "mentoring.qmd#75": {
+  "mentoring.qmd#77": {
    "en": "PhD student (2007–2009) · Postdoc (2011–2015)",
    "fr": "Doctorante (2007–2009) · Postdoc (2011–2015)"
   },
-  "mentoring.qmd#76": {
+  "mentoring.qmd#78": {
    "en": "Habitat from a butterfly's point of view: how specialist butterflies map onto ecological resources",
    "fr": "L'habitat du point de vue du papillon : comment les papillons spécialistes se calent sur les ressources écologiques"
   },
-  "mentoring.qmd#77": {
+  "mentoring.qmd#79": {
    "en": "Now Center of Excellence Manager – Medical Communications CoE @ Akkodis (Belgium)",
    "fr": "Maintenant Center of Excellence Manager – Medical Communications CoE @ Akkodis (Belgique)"
   },
-  "mentoring.qmd#78": {
+  "mentoring.qmd#80": {
    "en": "Dr. Allan Raffard",
    "fr": "Dr. Allan Raffard"
   },
-  "mentoring.qmd#79": {
+  "mentoring.qmd#81": {
    "en": "Postdoc",
    "fr": "Postdoc"
   },
-  "mentoring.qmd#80": {
+  "mentoring.qmd#82": {
    "en": "Intraspecific variability, dispersal syndromes and meta-ecosystem functioning",
    "fr": "Variabilité intraspécifique, syndromes de dispersion et fonctionnement des méta-écosystèmes"
   },
-  "mentoring.qmd#81": {
+  "mentoring.qmd#83": {
    "en": "Now [researcher @ INRAE Thonon-les-Bains (France)](https://allanraffard.wordpress.com/)",
    "fr": "Maintenant [chercheur @ INRAE Thonon-les-Bains (France)](https://allanraffard.wordpress.com/)"
   },
-  "mentoring.qmd#82": {
+  "mentoring.qmd#84": {
    "en": "## Where are my mentees pursuing their career now?",
    "fr": "## Où sont mes anciens mentorés aujourd'hui ?"
+  },
+  "mentoring.qmd#85": {
+   "en": "Seven former mentees now hold permanent academic positions. The map shows where former mentees work today; click a photo for details.",
+   "fr": "Sept anciens mentorés occupent aujourd'hui un poste académique permanent. La carte montre où travaillent aujourd'hui mes anciens mentorés ; cliquez sur une photo pour plus de détails."
   },
   "outreach.qmd#0": {
    "en": "As a scientist, I believe it is part of my mission to transmit scientific knowledge to the general public, especially because science has an important role to play in defining the strategies to tackle the major societal challenges of the XXIst century.",
@@ -874,70 +898,86 @@
    "fr": "J'enseigne actuellement des cours aux étudiants de bachelier et de master en Biologie @ UCLouvain portant sur les statistiques pour la biologie, la conservation de la biodiversité et l'écologie de terrain. Je suis fier que mes cours reçoivent des évaluations très positives des étudiants."
   },
   "teaching.qmd#3": {
-   "en": "## Courses",
-   "fr": "## Cours"
+   "en": "## Ecology courses",
+   "fr": "## Cours d'écologie"
   },
   "teaching.qmd#4": {
-   "en": "### Statistical principles and analysis of biological data — LBIO1283",
-   "fr": "### Principes de statistiques et analyse des données biologiques — LBIO1283"
-  },
-  "teaching.qmd#5": {
-   "en": "BSc Biology, 3rd year · 4 ECTS",
-   "fr": "Bachelier en Biologie, 3e année · 4 ECTS"
-  },
-  "teaching.qmd#6": {
-   "en": "The student shall understand, and become able to use correctly and critically the principal methods for the statistical analysis of biological and environmental data. He or she perceives the relationship between experimental design and analysis model and the necessity of planning experiments ahead, and becomes familiar with computer-aided data analysis.",
-   "fr": "Le cours forme l'étudiant à comprendre et utiliser correctement et de manière critique les principales méthodes d'analyse statistique de données biologiques et environnementales. Il perçoit la relation entre la conception expérimentale et le modèle d'analyse ainsi que la nécessité de planifier les expériences, et se familiarise avec l'analyse de données assistée par ordinateur."
-  },
-  "teaching.qmd#7": {
-   "en": "After completing this course, the student should master the basic methods for the analysis of biological data, be able to choose the analysis model and method best adapted to the design of simple factorial experiments, and to analyse and interpret correctly the results of such experiments. They should then be able to further progress by themselves and follow fruitfully advanced lectures on experimental design and data analysis.",
-   "fr": "A l'issue de ce cours, l'étudiant devra maîtriser les méthodes de base pour l'analyse de données biologiques, être capable de choisir le modèle d'analyse et la méthode adaptés à la conception d'expériences factorielles simples, afin d'analyser et d'interpréter correctement les résultats de ces expériences. Il devrait pouvoir ensuite progresser par lui-même et suivre avec profit des cours avancés sur la conception expérimentale et l'analyse des données."
-  },
-  "teaching.qmd#8": {
    "en": "### Biodiversity conservation — LBOE2120",
    "fr": "### Conservation de la biodiversité — LBOE2120"
   },
-  "teaching.qmd#9": {
+  "teaching.qmd#5": {
    "en": "MSc Biology, 1st year · 4 ECTS",
    "fr": "Master en Biologie, 1re année · 4 ECTS"
   },
-  "teaching.qmd#10": {
+  "teaching.qmd#6": {
    "en": "The course emphasizes a multi-disciplinary approach to conservation biology integrating ecology, biogeography and genetics, leading to a modelling approach. It then covers the applied aspect of this discipline, integrating political and socio-economic thinking.",
    "fr": "Le cours met l'accent sur une approche multidisciplinaire de la biologie de la conservation intégrant écologie, biogéographie et génétique, pour aboutir à une approche de modélisation. Ensuite, le cours couvre l'aspect appliqué de cette discipline, en intégrant une pensée politique et socio-économique."
   },
-  "teaching.qmd#11": {
+  "teaching.qmd#7": {
    "en": "The course begins by defining the levels of biodiversity, its spatiotemporal variations and its current state. The peculiarity of the current extinction crisis is determined relative to the extinctions of the past. Then the various threats to biodiversity, caused by human impacts on the environment, are detailed, with the associated risks to biodiversity and humanity. This is followed by an overview of approaches to conservation and management of territories and threatened species.",
    "fr": "Le cours commence par définir les niveaux de biodiversité, ses variations spatio-temporelles et son état actuel. La particularité de la crise d'extinction actuelle est contrastée avec les extinctions du passé. Ensuite, les différentes menaces à la biodiversité, causées par les impacts humains sur l'environnement, sont détaillées, avec les risques associés pour la biodiversité et l'humanité. Suit un aperçu des approches de conservation et de gestion des territoires et des espèces menacés."
   },
-  "teaching.qmd#12": {
+  "teaching.qmd#8": {
    "en": "A visit to the UCLouvain research forest (Bois de Lauzelle) provides real world illustrations of the risks posed to biodiversity and some associated conservation and restoration approaches.",
    "fr": "Une visite dans la forêt expérimentale de l'UCLouvain (Bois de Lauzelle) fournit des illustrations réelles des risques pour la biodiversité et des approches de conservation et/ou de restauration pour les limiter."
   },
+  "teaching.qmd#9": {
+   "en": "### Field course in integrated ecology — LBOE2114",
+   "fr": "### Cours de terrain en écologie intégrée — LBOE2114"
+  },
+  "teaching.qmd#10": {
+   "en": "MSc Biology · residential field course in Belgium",
+   "fr": "Master en biologie · stage de terrain résidentiel en Belgique"
+  },
+  "teaching.qmd#11": {
+   "en": "A residential field course in terrestrial and aquatic ecology, which I co-teach with Frederik De Laender and Ruben Evens. In small groups, students design and run their own research project: they prepare it before the stay, collect their data in the field, then analyse and present their results after it.",
+   "fr": "Un stage de terrain résidentiel en écologie terrestre et aquatique, que je co-enseigne avec Frederik De Laender et Ruben Evens. En petits groupes, les étudiants conçoivent et mènent leur propre projet de recherche : ils le préparent avant le séjour, récoltent leurs données sur le terrain, puis analysent et présentent leurs résultats après celui-ci."
+  },
+  "teaching.qmd#12": {
+   "en": "## Methods and statistics courses",
+   "fr": "## Cours de méthodes et de statistiques"
+  },
   "teaching.qmd#13": {
+   "en": "### Statistical principles and analysis of biological data — LBIO1283",
+   "fr": "### Principes de statistiques et analyse des données biologiques — LBIO1283"
+  },
+  "teaching.qmd#14": {
+   "en": "BSc Biology, 3rd year · 4 ECTS",
+   "fr": "Bachelier en Biologie, 3e année · 4 ECTS"
+  },
+  "teaching.qmd#15": {
+   "en": "The student shall understand, and become able to use correctly and critically the principal methods for the statistical analysis of biological and environmental data. He or she perceives the relationship between experimental design and analysis model and the necessity of planning experiments ahead, and becomes familiar with computer-aided data analysis.",
+   "fr": "Le cours forme l'étudiant à comprendre et utiliser correctement et de manière critique les principales méthodes d'analyse statistique de données biologiques et environnementales. Il perçoit la relation entre la conception expérimentale et le modèle d'analyse ainsi que la nécessité de planifier les expériences, et se familiarise avec l'analyse de données assistée par ordinateur."
+  },
+  "teaching.qmd#16": {
+   "en": "After completing this course, the student should master the basic methods for the analysis of biological data, be able to choose the analysis model and method best adapted to the design of simple factorial experiments, and to analyse and interpret correctly the results of such experiments. They should then be able to further progress by themselves and follow fruitfully advanced lectures on experimental design and data analysis.",
+   "fr": "A l'issue de ce cours, l'étudiant devra maîtriser les méthodes de base pour l'analyse de données biologiques, être capable de choisir le modèle d'analyse et la méthode adaptés à la conception d'expériences factorielles simples, afin d'analyser et d'interpréter correctement les résultats de ces expériences. Il devrait pouvoir ensuite progresser par lui-même et suivre avec profit des cours avancés sur la conception expérimentale et l'analyse des données."
+  },
+  "teaching.qmd#17": {
    "en": "### Scientific approach in biology — LBIO1116",
    "fr": "### Démarche scientifique en biologie — LBIO1116"
   },
-  "teaching.qmd#14": {
+  "teaching.qmd#18": {
    "en": "BSc Biology, 1st year · 4 ECTS (partim)",
    "fr": "Bachelier en Biologie, 1re année · 4 ECTS (partim)"
   },
-  "teaching.qmd#15": {
+  "teaching.qmd#19": {
    "en": "The course develops several aspects of the scientific approach in biology: the deductive and inductive methods, acquiring and checking experimental and observational data, and finding and analyzing scientific information. Emphasis is put on the development of critical thinking.",
    "fr": "Le cours développe plusieurs aspects de la démarche scientifique en biologie : les méthodes déductives et inductives, l'acquisition et la vérification de données expérimentales et d'observation, la recherche et l'analyse d'informations scientifiques. L'accent est mis sur le développement de la pensée critique."
   },
-  "teaching.qmd#16": {
+  "teaching.qmd#20": {
    "en": "In this two-teacher course, I specifically focus on scientific data: through interactive activities, students explore the different sources of variation in data, learn how to properly develop ad-hoc data validation checks, how to visualize their data and perform descriptive statistics. I also supervise a practical project where students learn to develop and apply an experimental protocol.",
    "fr": "Dans ce cours donné par deux enseignants, je me concentre plus particulièrement sur les données scientifiques : à travers des activités interactives, les étudiants explorent les différentes sources de variation des données, apprennent à bien développer des contrôles de validation spécifiques, à visualiser leurs données et à réaliser des statistiques descriptives. Je supervise également un projet pratique où les étudiants apprennent à développer et à appliquer un protocole expérimental."
   },
-  "teaching.qmd#17": {
+  "teaching.qmd#21": {
    "en": "### Data analysis and modeling of biological systems — LBOE2112",
    "fr": "### Analyse de données et modélisation des systèmes biologiques — LBOE2112"
   },
-  "teaching.qmd#18": {
+  "teaching.qmd#22": {
    "en": "MSc Biology, 1st year · 5 ECTS (partim)",
    "fr": "Master en Biologie, 1re année · 5 ECTS (partim)"
   },
-  "teaching.qmd#19": {
+  "teaching.qmd#23": {
    "en": "I teach the module \"Multivariate data analysis\" of this course. Emphasis is put on the understanding and critical application of multivariate statistics as tools for research in ecology. I focus on the importance of data visualization, data checking and determining the best analysis approach for each specific case study. I insist on the risks associated with performing statistical analyses using R packages without understanding the necessary input parameters and checking their default values.",
    "fr": "J'enseigne le module « Analyse des données multivariées » de ce cours. L'accent est mis sur la compréhension et l'application critique des statistiques multivariées comme outils de recherche en écologie. Je me concentre sur l'importance de la visualisation des données, de leur vérification et de la détermination de la meilleure approche d'analyse pour chaque étude de cas spécifique. J'insiste sur les risques associés à la réalisation d'analyses statistiques à l'aide de packages R sans comprendre les paramètres d'entrée nécessaires et vérifier leurs valeurs par défaut."
   }

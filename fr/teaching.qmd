@@ -15,25 +15,7 @@ Je nourris mes exposés en me basant sur les résultats de la recherche mais je 
 
 J'enseigne actuellement des cours aux étudiants de bachelier et de master en Biologie @ UCLouvain portant sur les statistiques pour la biologie, la conservation de la biodiversité et l'écologie de terrain. Je suis fier que mes cours reçoivent des évaluations très positives des étudiants.
 
-## Cours
-
-::: course
-### Principes de statistiques et analyse des données biologiques — LBIO1283
-
-::: meta
-Bachelier en Biologie, 3e année · 4 ECTS
-:::
-
-Le cours forme l'étudiant à comprendre et utiliser correctement et de manière critique les principales méthodes d'analyse statistique de données biologiques et environnementales. Il perçoit la relation entre la conception expérimentale et le modèle d'analyse ainsi que la nécessité de planifier les expériences, et se familiarise avec l'analyse de données assistée par ordinateur.
-
-A l'issue de ce cours, l'étudiant devra maîtriser les méthodes de base pour l'analyse de données biologiques, être capable de choisir le modèle d'analyse et la méthode adaptés à la conception d'expériences factorielles simples, afin d'analyser et d'interpréter correctement les résultats de ces expériences. Il devrait pouvoir ensuite progresser par lui-même et suivre avec profit des cours avancés sur la conception expérimentale et l'analyse des données.
-
-::: gallery
-![Example of course slide](../assets/img/lbio1283-01.png){fig-alt="LBIO1283 course slide"}
-![Example of course slide](../assets/img/lbio1283-02.png){fig-alt="LBIO1283 course slide"}
-![Example of course slide](../assets/img/lbio1283-03.png){fig-alt="LBIO1283 course slide"}
-:::
-:::
+## Cours d'écologie
 
 ::: course
 ### Conservation de la biodiversité — LBOE2120
@@ -52,6 +34,36 @@ Une visite dans la forêt expérimentale de l'UCLouvain (Bois de Lauzelle) fourn
 ![Example of course slide](../assets/img/lboe2120-01.png){fig-alt="LBOE2120 course slide"}
 ![Example of course slide](../assets/img/lboe2120-02.png){fig-alt="LBOE2120 course slide"}
 ![Example of course slide](../assets/img/lboe2120-03.png){fig-alt="LBOE2120 course slide"}
+:::
+:::
+
+::: course
+### Cours de terrain en écologie intégrée — LBOE2114
+
+::: meta
+Master en biologie · stage de terrain résidentiel en Belgique
+:::
+
+Un stage de terrain résidentiel en écologie terrestre et aquatique, que je co-enseigne avec Frederik De Laender et Ruben Evens. En petits groupes, les étudiants conçoivent et mènent leur propre projet de recherche : ils le préparent avant le séjour, récoltent leurs données sur le terrain, puis analysent et présentent leurs résultats après celui-ci.
+:::
+
+## Cours de méthodes et de statistiques
+
+::: course
+### Principes de statistiques et analyse des données biologiques — LBIO1283
+
+::: meta
+Bachelier en Biologie, 3e année · 4 ECTS
+:::
+
+Le cours forme l'étudiant à comprendre et utiliser correctement et de manière critique les principales méthodes d'analyse statistique de données biologiques et environnementales. Il perçoit la relation entre la conception expérimentale et le modèle d'analyse ainsi que la nécessité de planifier les expériences, et se familiarise avec l'analyse de données assistée par ordinateur.
+
+A l'issue de ce cours, l'étudiant devra maîtriser les méthodes de base pour l'analyse de données biologiques, être capable de choisir le modèle d'analyse et la méthode adaptés à la conception d'expériences factorielles simples, afin d'analyser et d'interpréter correctement les résultats de ces expériences. Il devrait pouvoir ensuite progresser par lui-même et suivre avec profit des cours avancés sur la conception expérimentale et l'analyse des données.
+
+::: gallery
+![Example of course slide](../assets/img/lbio1283-01.png){fig-alt="LBIO1283 course slide"}
+![Example of course slide](../assets/img/lbio1283-02.png){fig-alt="LBIO1283 course slide"}
+![Example of course slide](../assets/img/lbio1283-03.png){fig-alt="LBIO1283 course slide"}
 :::
 :::
 
