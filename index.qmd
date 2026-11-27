@@ -30,6 +30,26 @@ ecology and conservation biology.
 :::
 :::
 
+## The Quantitative Conservation Biology group
+
+::: {.theme .home-group}
+::: {}
+We are a small, collaborative team studying how populations cope with habitat fragmentation
+and global change, through dispersal, metapopulation dynamics and population viability.
+We combine field studies of butterflies, laboratory experiments with protists in microcosms
+and quantitative modelling to understand these processes and help reverse biodiversity loss.
+We also enjoy developing new methods and tools for ecology and evolution, and sharing
+them with the community.
+
+So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised;
+7 former mentees now hold permanent academic positions.
+
+[Meet the team and our alumni →](mentoring.qmd){.home-more}
+:::
+
+![Quantitative Conservation Biology group logo](assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
+:::
+
 ## Research
 
 ::: home-cards
@@ -121,26 +141,6 @@ landscapes](https://doi.org/10.20944/preprints202003.0220.v1).
 :::
 
 [All research interests →](research-interests.qmd){.home-more}
-
-## The Quantitative Conservation Biology group
-
-::: {.theme .home-group}
-::: {}
-We are a small, collaborative team studying how populations cope with habitat fragmentation
-and global change, through dispersal, metapopulation dynamics and population viability.
-We combine field studies of butterflies, laboratory experiments with protists in microcosms
-and quantitative modelling to understand these processes and help reverse biodiversity loss.
-We also enjoy developing new methods and tools for ecology and evolution, and sharing
-them with the community.
-
-So far: 7 PhD theses completed and 4 ongoing, 8 postdocs and 50 MSc theses supervised;
-7 former mentees now hold permanent academic positions.
-
-[Meet the team and our alumni →](mentoring.qmd){.home-more}
-:::
-
-![Quantitative Conservation Biology group logo](assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
-:::
 
 ## Latest publications
 

@@ -31,6 +31,23 @@ Earth and Life Institute · Ecologie et Biodiversité
 :::
 :::
 
+## Le groupe Quantitative Conservation Biology
+
+::: {.theme .home-group}
+::: {}
+Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats
+et aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.
+Nous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes
+et la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité. Nous aimons aussi développer de nouvelles méthodes et de nouveaux outils pour l'écologie et l'évolution, et les partager avec la communauté.
+
+À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés ; 7 anciens mentorés occupent aujourd'hui un poste académique permanent.
+
+[Découvrir l'équipe et nos anciens →](mentoring.qmd){.home-more}
+:::
+
+![Quantitative Conservation Biology group logo](../assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
+:::
+
 ## Recherche
 
 ::: home-cards
@@ -116,23 +133,6 @@ Développer et partager des méthodes : plans d'échantillonnage et statistiques
 :::
 
 [Tous mes thèmes de recherche →](research-interests.qmd){.home-more}
-
-## Le groupe Quantitative Conservation Biology
-
-::: {.theme .home-group}
-::: {}
-Nous sommes une petite équipe collaborative qui étudie comment les populations font face à la fragmentation des habitats
-et aux changements globaux, à travers la dispersion, la dynamique des métapopulations et la viabilité des populations.
-Nous combinons l'étude de papillons sur le terrain, des expériences en laboratoire avec des protistes en microcosmes
-et la modélisation quantitative pour comprendre ces processus et contribuer à inverser le déclin de la biodiversité. Nous aimons aussi développer de nouvelles méthodes et de nouveaux outils pour l'écologie et l'évolution, et les partager avec la communauté.
-
-À ce jour : 7 thèses de doctorat terminées et 4 en cours, 8 postdocs et 50 mémoires de master encadrés ; 7 anciens mentorés occupent aujourd'hui un poste académique permanent.
-
-[Découvrir l'équipe et nos anciens →](mentoring.qmd){.home-more}
-:::
-
-![Quantitative Conservation Biology group logo](../assets/img/qcb-group-logo.gif){fig-alt="Quantitative Conservation Biology group logo"}
-:::
 
 ## Dernières publications
 
