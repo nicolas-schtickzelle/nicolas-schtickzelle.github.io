@@ -1,7 +1,7 @@
 ---
 title: "Research interests"
 pagetitle: "Research interests"
-description: "\"How do animals react to global environmental change?\" is the focus of my research in ecology using butterflies on the field and unicellular organisms in lab microcosms."
+description: "\"How do animals react to global environmental change?\" is the focus of my research in ecology and evolution, mainly using butterflies on the field and unicellular organisms in lab microcosms."
 ---
 <style>#title-block-header{background-image:url('assets/img/banner-research.jpg')}</style>
 

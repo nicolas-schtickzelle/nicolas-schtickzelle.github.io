@@ -3,7 +3,7 @@
      Regenerate with: python tools/build_french.py -->
 ---
 pagetitle: "Professeur d'Ecologie Quantitative et Biologie de la Conservation"
-description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
+description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux ?» est au cœur de mes recherches en écologie et en évolution, principalement à l'aide de papillons sur le terrain et d'organismes unicellulaires dans des microcosmes de laboratoire."
 ---
 
 ::: {.hero .hero-photo style="background-image: url('../assets/img/hero-boloria.jpg')"}

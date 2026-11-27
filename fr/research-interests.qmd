@@ -4,7 +4,7 @@
 ---
 title: "Recherche"
 pagetitle: "Recherche"
-description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux?» est le centre de mes recherches utilisant des papillons sur le terrain et des organismes unicellulaires dans des microcosmes de laboratoire."
+description: "«Comment les animaux réagissent-ils aux changements environnementaux globaux ?» est au cœur de mes recherches en écologie et en évolution, principalement à l'aide de papillons sur le terrain et d'organismes unicellulaires dans des microcosmes de laboratoire."
 ---
 <style>#title-block-header{background-image:url('../assets/img/banner-research.jpg')}</style>
 

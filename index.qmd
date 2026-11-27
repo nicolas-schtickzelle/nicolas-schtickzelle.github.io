@@ -1,6 +1,6 @@
 ---
 pagetitle: "Professor of Quantitative Ecology and Conservation Biology"
-description: "Nicolas Schtickzelle, Professor of Ecology and Conservation Biology. \"How do animals react to global environmental change?\" is the focus of my research in ecology using butterflies on the field and unicellular organisms in lab microcosms."
+description: "Nicolas Schtickzelle, Professor of Ecology and Conservation Biology. \"How do animals react to global environmental change?\" is the focus of my research in ecology and evolution, mainly using butterflies on the field and unicellular organisms in lab microcosms."
 ---
 
 ::: {.hero .hero-photo style="background-image: url('assets/img/hero-boloria.jpg')"}
